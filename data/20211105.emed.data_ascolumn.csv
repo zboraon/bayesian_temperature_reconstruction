@@ -672,7 +672,7 @@ age_BP,T_anomaly,Code,Location,Reference,Proxy_type,Notes
 8554.30,0.72,11,GEOB7702_3,Castanedaetal2016,AirTemp,
 9123.60,0.97,11,GEOB7702_3,Castanedaetal2016,AirTemp,
 9744.70,0.96,11,GEOB7702_3,Castanedaetal2016,AirTemp,
-10.04,0.87,11,GEOB7702_4,Castanedaetal2017,AirTemp,
+10040,0.87,11,GEOB7702_4,Castanedaetal2017,AirTemp,
 -50.00,0.00,12,VanAR,Stockhecke2021etal,SST,
 50.00,0.98,12,VanAR,Stockhecke2021etal,SST,theageofthislineischangedfrom-50to50
 150.00,2.45,12,VanAR,Stockhecke2021etal,SST,
