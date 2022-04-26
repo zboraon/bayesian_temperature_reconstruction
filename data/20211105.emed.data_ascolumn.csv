@@ -1,1567 +1,1567 @@
-age_BP	T_anomaly	Code	Location	Reference	Proxy_type
-513	-1.53	1	HalaSultan	Kaniewskietal2020	Pollen
-537	-1.28	1	HalaSultan	Kaniewskietal2020	Pollen
-562	-0.07	1	HalaSultan	Kaniewskietal2020	Pollen
-592	-0.08	1	HalaSultan	Kaniewskietal2020	Pollen
-623	-1.58	1	HalaSultan	Kaniewskietal2020	Pollen
-675	0.72	1	HalaSultan	Kaniewskietal2020	Pollen
-691	-0.17	1	HalaSultan	Kaniewskietal2020	Pollen
-710	0.4	1	HalaSultan	Kaniewskietal2020	Pollen
-730	-0.42	1	HalaSultan	Kaniewskietal2020	Pollen
-842	-0.97	1	HalaSultan	Kaniewskietal2020	Pollen
-955	-0.41	1	HalaSultan	Kaniewskietal2020	Pollen
-1067	0.62	1	HalaSultan	Kaniewskietal2020	Pollen
-1123	0.82	1	HalaSultan	Kaniewskietal2020	Pollen
-1179	-0.13	1	HalaSultan	Kaniewskietal2020	Pollen
-1404	-1.03	1	HalaSultan	Kaniewskietal2020	Pollen
-1685	-0.79	1	HalaSultan	Kaniewskietal2020	Pollen
-1741	-1.73	1	HalaSultan	Kaniewskietal2020	Pollen
-1853	-0.8	1	HalaSultan	Kaniewskietal2020	Pollen
-1966	-0.61	1	HalaSultan	Kaniewskietal2020	Pollen
-2078	-0.8	1	HalaSultan	Kaniewskietal2020	Pollen
-2190	-0.22	1	HalaSultan	Kaniewskietal2020	Pollen
-2303	-0.86	1	HalaSultan	Kaniewskietal2020	Pollen
-2415	0.79	1	HalaSultan	Kaniewskietal2020	Pollen
-2527	-0.14	1	HalaSultan	Kaniewskietal2020	Pollen
-2584	-0.43	1	HalaSultan	Kaniewskietal2020	Pollen
-2640	-0.22	1	HalaSultan	Kaniewskietal2020	Pollen
-2707	-0.25	1	HalaSultan	Kaniewskietal2020	Pollen
-2741	0.13	1	HalaSultan	Kaniewskietal2020	Pollen
-2808	-1.08	1	HalaSultan	Kaniewskietal2020	Pollen
-2864	-2.33	1	HalaSultan	Kaniewskietal2020	Pollen
-2943	-0.58	1	HalaSultan	Kaniewskietal2020	Pollen
-2977	-0.79	1	HalaSultan	Kaniewskietal2020	Pollen
-3201	-2.55	1	HalaSultan	Kaniewskietal2020	Pollen
-3258	0.27	1	HalaSultan	Kaniewskietal2020	Pollen
-3290	-0.05	1	HalaSultan	Kaniewskietal2020	Pollen
-3308	0.7	1	HalaSultan	Kaniewskietal2020	Pollen
-3325	-0.5	1	HalaSultan	Kaniewskietal2020	Pollen
-3343	0.34	1	HalaSultan	Kaniewskietal2020	Pollen
-3360	1.15	1	HalaSultan	Kaniewskietal2020	Pollen
-3378	1.24	1	HalaSultan	Kaniewskietal2020	Pollen
-3395	0.97	1	HalaSultan	Kaniewskietal2020	Pollen
-3413	0.46	1	HalaSultan	Kaniewskietal2020	Pollen
-3430	1.41	1	HalaSultan	Kaniewskietal2020	Pollen
-3448	1.31	1	HalaSultan	Kaniewskietal2020	Pollen
-3465	0.53	1	HalaSultan	Kaniewskietal2020	Pollen
-3483	0.17	1	HalaSultan	Kaniewskietal2020	Pollen
-3500	0.38	1	HalaSultan	Kaniewskietal2020	Pollen
-3513	-0.04	1	HalaSultan	Kaniewskietal2020	Pollen
-3527	0.22	1	HalaSultan	Kaniewskietal2020	Pollen
-3540	1.04	1	HalaSultan	Kaniewskietal2020	Pollen
-3581	0.98	1	HalaSultan	Kaniewskietal2020	Pollen
-3622	0.22	1	HalaSultan	Kaniewskietal2020	Pollen
-3663	-0.06	1	HalaSultan	Kaniewskietal2020	Pollen
-3704	0.32	1	HalaSultan	Kaniewskietal2020	Pollen
-3746	-0.18	1	HalaSultan	Kaniewskietal2020	Pollen
-3787	0.52	1	HalaSultan	Kaniewskietal2020	Pollen
-3828	0.34	1	HalaSultan	Kaniewskietal2020	Pollen
-3869	0.72	1	HalaSultan	Kaniewskietal2020	Pollen
-3910	0.21	1	HalaSultan	Kaniewskietal2020	Pollen
-3961	-0.99	1	HalaSultan	Kaniewskietal2020	Pollen
-4011	-1.73	1	HalaSultan	Kaniewskietal2020	Pollen
-4062	-1.96	1	HalaSultan	Kaniewskietal2020	Pollen
-4113	-1.9	1	HalaSultan	Kaniewskietal2020	Pollen
-4163	-2.08	1	HalaSultan	Kaniewskietal2020	Pollen
-4214	-2.67	1	HalaSultan	Kaniewskietal2020	Pollen
-4264	-0.65	1	HalaSultan	Kaniewskietal2020	Pollen
-4315	-0.5	1	HalaSultan	Kaniewskietal2020	Pollen
-4335	-0.37	1	HalaSultan	Kaniewskietal2020	Pollen
-4355	-0.36	1	HalaSultan	Kaniewskietal2020	Pollen
-4375	0.34	1	HalaSultan	Kaniewskietal2020	Pollen
-4395	-0.26	1	HalaSultan	Kaniewskietal2020	Pollen
-4415	0.12	1	HalaSultan	Kaniewskietal2020	Pollen
-4435	0.03	1	HalaSultan	Kaniewskietal2020	Pollen
-4455	0.2	1	HalaSultan	Kaniewskietal2020	Pollen
-4475	0.21	1	HalaSultan	Kaniewskietal2020	Pollen
-4495	-0.13	1	HalaSultan	Kaniewskietal2020	Pollen
-4515	-0.16	1	HalaSultan	Kaniewskietal2020	Pollen
-4535	-0.43	1	HalaSultan	Kaniewskietal2020	Pollen
-4555	-0.07	1	HalaSultan	Kaniewskietal2020	Pollen
-4575	-0.28	1	HalaSultan	Kaniewskietal2020	Pollen
-4595	-0.05	1	HalaSultan	Kaniewskietal2020	Pollen
-4615	-0.08	1	HalaSultan	Kaniewskietal2020	Pollen
-4635	-0.38	1	HalaSultan	Kaniewskietal2020	Pollen
-4655	-0.93	1	HalaSultan	Kaniewskietal2020	Pollen
-4675	-1.13	1	HalaSultan	Kaniewskietal2020	Pollen
-4691	-0.64	1	HalaSultan	Kaniewskietal2020	Pollen
-4708	-1.18	1	HalaSultan	Kaniewskietal2020	Pollen
-4724	-1.11	1	HalaSultan	Kaniewskietal2020	Pollen
-4741	-0.39	1	HalaSultan	Kaniewskietal2020	Pollen
-4757	-0.29	1	HalaSultan	Kaniewskietal2020	Pollen
-4774	-0.72	1	HalaSultan	Kaniewskietal2020	Pollen
-4790	-0.62	1	HalaSultan	Kaniewskietal2020	Pollen
-4807	-1.65	1	HalaSultan	Kaniewskietal2020	Pollen
-4823	-1.37	1	HalaSultan	Kaniewskietal2020	Pollen
-4840	-1.18	1	HalaSultan	Kaniewskietal2020	Pollen
-4856	-1.28	1	HalaSultan	Kaniewskietal2020	Pollen
-4873	-1.15	1	HalaSultan	Kaniewskietal2020	Pollen
-4889	-1.12	1	HalaSultan	Kaniewskietal2020	Pollen
-4906	-1.77	1	HalaSultan	Kaniewskietal2020	Pollen
-4922	-0.92	1	HalaSultan	Kaniewskietal2020	Pollen
-4939	-1.22	1	HalaSultan	Kaniewskietal2020	Pollen
-4955	-1	1	HalaSultan	Kaniewskietal2020	Pollen
-4972	-0.73	1	HalaSultan	Kaniewskietal2020	Pollen
-4988	-0.42	1	HalaSultan	Kaniewskietal2020	Pollen
-5005	-0.8	1	HalaSultan	Kaniewskietal2020	Pollen
-5021	-0.3	1	HalaSultan	Kaniewskietal2020	Pollen
-5038	-0.88	1	HalaSultan	Kaniewskietal2020	Pollen
-5054	-0.64	1	HalaSultan	Kaniewskietal2020	Pollen
-5071	-0.85	1	HalaSultan	Kaniewskietal2020	Pollen
-5087	-1.74	1	HalaSultan	Kaniewskietal2020	Pollen
-5104	-2.02	1	HalaSultan	Kaniewskietal2020	Pollen
-5120	-2.19	1	HalaSultan	Kaniewskietal2020	Pollen
-5136	-1.89	1	HalaSultan	Kaniewskietal2020	Pollen
-5153	-1.88	1	HalaSultan	Kaniewskietal2020	Pollen
-5169	-2.45	1	HalaSultan	Kaniewskietal2020	Pollen
-5186	-2.67	1	HalaSultan	Kaniewskietal2020	Pollen
-5202	-2.58	1	HalaSultan	Kaniewskietal2020	Pollen
-5219	-2.92	1	HalaSultan	Kaniewskietal2020	Pollen
-5235	-2.34	1	HalaSultan	Kaniewskietal2020	Pollen
-5252	-3.03	1	HalaSultan	Kaniewskietal2020	Pollen
-5268	-2.83	1	HalaSultan	Kaniewskietal2020	Pollen
-5285	-1.93	1	HalaSultan	Kaniewskietal2020	Pollen
-5301	-2.3	1	HalaSultan	Kaniewskietal2020	Pollen
-5318	-1.66	1	HalaSultan	Kaniewskietal2020	Pollen
-5334	-1.58	1	HalaSultan	Kaniewskietal2020	Pollen
-5351	-1.58	1	HalaSultan	Kaniewskietal2020	Pollen
-5367	-2.6	1	HalaSultan	Kaniewskietal2020	Pollen
-5384	-2.27	1	HalaSultan	Kaniewskietal2020	Pollen
-5400	-2.43	1	HalaSultan	Kaniewskietal2020	Pollen
-5417	-1.83	1	HalaSultan	Kaniewskietal2020	Pollen
-5433	-2.45	1	HalaSultan	Kaniewskietal2020	Pollen
-5450	-1.69	1	HalaSultan	Kaniewskietal2020	Pollen
-5466	-1.93	1	HalaSultan	Kaniewskietal2020	Pollen
-5483	-2.18	1	HalaSultan	Kaniewskietal2020	Pollen
-5499	-2.15	1	HalaSultan	Kaniewskietal2020	Pollen
-5516	-2.7	1	HalaSultan	Kaniewskietal2020	Pollen
-5532	-2.03	1	HalaSultan	Kaniewskietal2020	Pollen
-5549	-2.4	1	HalaSultan	Kaniewskietal2020	Pollen
-5565	-2.68	1	HalaSultan	Kaniewskietal2020	Pollen
-5581	-1.93	1	HalaSultan	Kaniewskietal2020	Pollen
-5598	-2.89	1	HalaSultan	Kaniewskietal2020	Pollen
-5614	-2.27	1	HalaSultan	Kaniewskietal2020	Pollen
-5631	-1.74	1	HalaSultan	Kaniewskietal2020	Pollen
-5647	-2	1	HalaSultan	Kaniewskietal2020	Pollen
-5664	-2.14	1	HalaSultan	Kaniewskietal2020	Pollen
-5680	-3.14	1	HalaSultan	Kaniewskietal2020	Pollen
-5697	-2.62	1	HalaSultan	Kaniewskietal2020	Pollen
-5713	-3.04	1	HalaSultan	Kaniewskietal2020	Pollen
-5730	-1.88	1	HalaSultan	Kaniewskietal2020	Pollen
-5746	-2.31	1	HalaSultan	Kaniewskietal2020	Pollen
-50	0	2	Akko	Kaniewskietal2013	Pollen
-82	0.5	2	Akko	Kaniewskietal2013	Pollen
-170	-1.4	2	Akko	Kaniewskietal2013	Pollen
-327	1.1	2	Akko	Kaniewskietal2013	Pollen
-432	0.28	2	Akko	Kaniewskietal2013	Pollen
-537	0.5	2	Akko	Kaniewskietal2013	Pollen
-641	-0.41	2	Akko	Kaniewskietal2013	Pollen
-746	-3.67	2	Akko	Kaniewskietal2013	Pollen
-851	-6.29	2	Akko	Kaniewskietal2013	Pollen
-956	-1.45	2	Akko	Kaniewskietal2013	Pollen
-1060	0.21	2	Akko	Kaniewskietal2013	Pollen
-1165	-3.22	2	Akko	Kaniewskietal2013	Pollen
-1270	-1.96	2	Akko	Kaniewskietal2013	Pollen
-1369	-2.03	2	Akko	Kaniewskietal2013	Pollen
-1469	-0.69	2	Akko	Kaniewskietal2013	Pollen
-1568	-0.7	2	Akko	Kaniewskietal2013	Pollen
-1668	-4.88	2	Akko	Kaniewskietal2013	Pollen
-1767	-0.24	2	Akko	Kaniewskietal2013	Pollen
-1866	-3.51	2	Akko	Kaniewskietal2013	Pollen
-1966	-8.22	2	Akko	Kaniewskietal2013	Pollen
-2065	-3.1	2	Akko	Kaniewskietal2013	Pollen
-2164	-3.77	2	Akko	Kaniewskietal2013	Pollen
-2264	-1.72	2	Akko	Kaniewskietal2013	Pollen
-2363	-4.15	2	Akko	Kaniewskietal2013	Pollen
-2463	-1.21	2	Akko	Kaniewskietal2013	Pollen
-2562	-7.07	2	Akko	Kaniewskietal2013	Pollen
-2661	-0.05	2	Akko	Kaniewskietal2013	Pollen
-2761	-0.17	2	Akko	Kaniewskietal2013	Pollen
-2860	-0.25	2	Akko	Kaniewskietal2013	Pollen
-2960	-1.4	2	Akko	Kaniewskietal2013	Pollen
-3060	0.54	2	Akko	Kaniewskietal2013	Pollen
-3160	0.3	2	Akko	Kaniewskietal2013	Pollen
-3260	-0.02	2	Akko	Kaniewskietal2013	Pollen
-3360	0.89	2	Akko	Kaniewskietal2013	Pollen
-3460	-8.12	2	Akko	Kaniewskietal2013	Pollen
-3560	-2.06	2	Akko	Kaniewskietal2013	Pollen
-3660	-0.68	2	Akko	Kaniewskietal2013	Pollen
-3760	-4.56	2	Akko	Kaniewskietal2013	Pollen
-3860	-5.24	2	Akko	Kaniewskietal2013	Pollen
-3960	-4.78	2	Akko	Kaniewskietal2013	Pollen
-4060	0.45	2	Akko	Kaniewskietal2013	Pollen
-4160	1.45	2	Akko	Kaniewskietal2013	Pollen
-4260	1.25	2	Akko	Kaniewskietal2013	Pollen
-4360	0.73	2	Akko	Kaniewskietal2013	Pollen
-4460	-2.94	2	Akko	Kaniewskietal2013	Pollen
-4560	-0.94	2	Akko	Kaniewskietal2013	Pollen
-4660	-2.18	2	Akko	Kaniewskietal2013	Pollen
-4760	0.17	2	Akko	Kaniewskietal2013	Pollen
-4860	-4.02	2	Akko	Kaniewskietal2013	Pollen
-4911	-1.98	2	Akko	Kaniewskietal2013	Pollen
-4962	-2.1	2	Akko	Kaniewskietal2013	Pollen
-5013	-4.75	2	Akko	Kaniewskietal2013	Pollen
-5064	-4.23	2	Akko	Kaniewskietal2013	Pollen
-5115	1	2	Akko	Kaniewskietal2013	Pollen
-5166	0.84	2	Akko	Kaniewskietal2013	Pollen
-5217	1.01	2	Akko	Kaniewskietal2013	Pollen
-5268	-0.01	2	Akko	Kaniewskietal2013	Pollen
-5319	0.69	2	Akko	Kaniewskietal2013	Pollen
-5370	-0.35	2	Akko	Kaniewskietal2013	Pollen
-5420	-5.3	2	Akko	Kaniewskietal2013	Pollen
-5471	-1.97	2	Akko	Kaniewskietal2013	Pollen
-5522	-2.21	2	Akko	Kaniewskietal2013	Pollen
-5573	1.2	2	Akko	Kaniewskietal2013	Pollen
-5624	0.47	2	Akko	Kaniewskietal2013	Pollen
-5675	0.54	2	Akko	Kaniewskietal2013	Pollen
-5726	-7.58	2	Akko	Kaniewskietal2013	Pollen
-5777	-1.88	2	Akko	Kaniewskietal2013	Pollen
-5828	-6.55	2	Akko	Kaniewskietal2013	Pollen
-5879	-0.17	2	Akko	Kaniewskietal2013	Pollen
-5930	-0.81	2	Akko	Kaniewskietal2013	Pollen
-7	0.43	3	Jableh	Kaniewskietal2019	Pollen
-21	-0.18	3	Jableh	Kaniewskietal2019	Pollen
-41	-0.24	3	Jableh	Kaniewskietal2019	Pollen
-62	1.28	3	Jableh	Kaniewskietal2019	Pollen
-83	0.38	3	Jableh	Kaniewskietal2019	Pollen
-96	0.63	3	Jableh	Kaniewskietal2019	Pollen
-117	0.38	3	Jableh	Kaniewskietal2019	Pollen
-134	1.23	3	Jableh	Kaniewskietal2019	Pollen
-148	0.29	3	Jableh	Kaniewskietal2019	Pollen
-165	0.38	3	Jableh	Kaniewskietal2019	Pollen
-186	0.68	3	Jableh	Kaniewskietal2019	Pollen
-207	0.38	3	Jableh	Kaniewskietal2019	Pollen
-227	-0.16	3	Jableh	Kaniewskietal2019	Pollen
-248	0.38	3	Jableh	Kaniewskietal2019	Pollen
-269	1.43	3	Jableh	Kaniewskietal2019	Pollen
-289	0.38	3	Jableh	Kaniewskietal2019	Pollen
-310	0.71	3	Jableh	Kaniewskietal2019	Pollen
-375	0.29	3	Jableh	Kaniewskietal2019	Pollen
-453	-0.24	3	Jableh	Kaniewskietal2019	Pollen
-531	-0.18	3	Jableh	Kaniewskietal2019	Pollen
-635	-0.16	3	Jableh	Kaniewskietal2019	Pollen
-687	-0.18	3	Jableh	Kaniewskietal2019	Pollen
-765	1.83	3	Jableh	Kaniewskietal2019	Pollen
-775	0.61	3	Jableh	Kaniewskietal2019	Pollen
-784	0.68	3	Jableh	Kaniewskietal2019	Pollen
-794	0.98	3	Jableh	Kaniewskietal2019	Pollen
-803	1.6	3	Jableh	Kaniewskietal2019	Pollen
-813	0.98	3	Jableh	Kaniewskietal2019	Pollen
-822	1.83	3	Jableh	Kaniewskietal2019	Pollen
-832	-0.24	3	Jableh	Kaniewskietal2019	Pollen
-842	0.95	3	Jableh	Kaniewskietal2019	Pollen
-851	1.28	3	Jableh	Kaniewskietal2019	Pollen
-861	1.18	3	Jableh	Kaniewskietal2019	Pollen
-870	1.68	3	Jableh	Kaniewskietal2019	Pollen
-880	1.18	3	Jableh	Kaniewskietal2019	Pollen
-889	1.18	3	Jableh	Kaniewskietal2019	Pollen
-899	1.6	3	Jableh	Kaniewskietal2019	Pollen
-909	2.52	3	Jableh	Kaniewskietal2019	Pollen
-918	1.83	3	Jableh	Kaniewskietal2019	Pollen
-928	1.83	3	Jableh	Kaniewskietal2019	Pollen
-936	1.82	3	Jableh	Kaniewskietal2019	Pollen
-944	1.97	3	Jableh	Kaniewskietal2019	Pollen
-953	1.43	3	Jableh	Kaniewskietal2019	Pollen
-963	1.33	3	Jableh	Kaniewskietal2019	Pollen
-972	-0.16	3	Jableh	Kaniewskietal2019	Pollen
-982	1.43	3	Jableh	Kaniewskietal2019	Pollen
-990	1.39	3	Jableh	Kaniewskietal2019	Pollen
-998	1.32	3	Jableh	Kaniewskietal2019	Pollen
-1008	0.29	3	Jableh	Kaniewskietal2019	Pollen
-1017	1.01	3	Jableh	Kaniewskietal2019	Pollen
-1027	1.33	3	Jableh	Kaniewskietal2019	Pollen
-1036	0.75	3	Jableh	Kaniewskietal2019	Pollen
-1046	0.9	3	Jableh	Kaniewskietal2019	Pollen
-1055	1.23	3	Jableh	Kaniewskietal2019	Pollen
-1065	0.59	3	Jableh	Kaniewskietal2019	Pollen
-1075	1.53	3	Jableh	Kaniewskietal2019	Pollen
-1084	1.76	3	Jableh	Kaniewskietal2019	Pollen
-1094	0.43	3	Jableh	Kaniewskietal2019	Pollen
-1155	0.35	3	Jableh	Kaniewskietal2019	Pollen
-1218	-0.41	3	Jableh	Kaniewskietal2019	Pollen
-1280	-0.06	3	Jableh	Kaniewskietal2019	Pollen
-1300	-0.03	3	Jableh	Kaniewskietal2019	Pollen
-1362	0.82	3	Jableh	Kaniewskietal2019	Pollen
-1425	0.68	3	Jableh	Kaniewskietal2019	Pollen
-1487	0.19	3	Jableh	Kaniewskietal2019	Pollen
-1549	0.42	3	Jableh	Kaniewskietal2019	Pollen
-2456	0.88	3	Jableh	Kaniewskietal2019	Pollen
-2467	0.69	3	Jableh	Kaniewskietal2019	Pollen
-2478	1.5	3	Jableh	Kaniewskietal2019	Pollen
-2489	2.58	3	Jableh	Kaniewskietal2019	Pollen
-2500	1.66	3	Jableh	Kaniewskietal2019	Pollen
-2511	1.85	3	Jableh	Kaniewskietal2019	Pollen
-2522	2.31	3	Jableh	Kaniewskietal2019	Pollen
-2533	1.88	3	Jableh	Kaniewskietal2019	Pollen
-2544	2.29	3	Jableh	Kaniewskietal2019	Pollen
-2555	2.6	3	Jableh	Kaniewskietal2019	Pollen
-2566	2.33	3	Jableh	Kaniewskietal2019	Pollen
-2582	2.26	3	Jableh	Kaniewskietal2019	Pollen
-2593	2.4	3	Jableh	Kaniewskietal2019	Pollen
-2604	2.59	3	Jableh	Kaniewskietal2019	Pollen
-2615	2.18	3	Jableh	Kaniewskietal2019	Pollen
-2631	1.89	3	Jableh	Kaniewskietal2019	Pollen
-2642	2.23	3	Jableh	Kaniewskietal2019	Pollen
-2653	2.49	3	Jableh	Kaniewskietal2019	Pollen
-2664	2.3	3	Jableh	Kaniewskietal2019	Pollen
-2675	2.07	3	Jableh	Kaniewskietal2019	Pollen
-2686	0.97	3	Jableh	Kaniewskietal2019	Pollen
-2719	1.51	3	Jableh	Kaniewskietal2019	Pollen
-2750	2.31	3	Jableh	Kaniewskietal2019	Pollen
-2752	2.69	3	Jableh	Kaniewskietal2019	Pollen
-2754	2.3	3	Jableh	Kaniewskietal2019	Pollen
-2756	2.43	3	Jableh	Kaniewskietal2019	Pollen
-2760	2.16	3	Jableh	Kaniewskietal2019	Pollen
-2763	1.97	3	Jableh	Kaniewskietal2019	Pollen
-2765	2.26	3	Jableh	Kaniewskietal2019	Pollen
-2769	2.48	3	Jableh	Kaniewskietal2019	Pollen
-2773	2.11	3	Jableh	Kaniewskietal2019	Pollen
-2774	1.87	3	Jableh	Kaniewskietal2019	Pollen
-2778	2.26	3	Jableh	Kaniewskietal2019	Pollen
-2782	1.82	3	Jableh	Kaniewskietal2019	Pollen
-2784	1.88	3	Jableh	Kaniewskietal2019	Pollen
-2786	1.96	3	Jableh	Kaniewskietal2019	Pollen
-2790	1.04	3	Jableh	Kaniewskietal2019	Pollen
-2795	1.07	3	Jableh	Kaniewskietal2019	Pollen
-2806	-0.95	3	Jableh	Kaniewskietal2019	Pollen
-2808	-0.97	3	Jableh	Kaniewskietal2019	Pollen
-2817	0.73	3	Jableh	Kaniewskietal2019	Pollen
-2826	-0.42	3	Jableh	Kaniewskietal2019	Pollen
-2828	0.18	3	Jableh	Kaniewskietal2019	Pollen
-2833	0.63	3	Jableh	Kaniewskietal2019	Pollen
-2839	1.78	3	Jableh	Kaniewskietal2019	Pollen
-2850	0.37	3	Jableh	Kaniewskietal2019	Pollen
-2859	-2.06	3	Jableh	Kaniewskietal2019	Pollen
-2861	-2.06	3	Jableh	Kaniewskietal2019	Pollen
-2871	-1.43	3	Jableh	Kaniewskietal2019	Pollen
-2874	-1.49	3	Jableh	Kaniewskietal2019	Pollen
-2882	0.64	3	Jableh	Kaniewskietal2019	Pollen
-2892	0.18	3	Jableh	Kaniewskietal2019	Pollen
-2893	1.33	3	Jableh	Kaniewskietal2019	Pollen
-2897	0.6	3	Jableh	Kaniewskietal2019	Pollen
-2903	1.45	3	Jableh	Kaniewskietal2019	Pollen
-2905	1.28	3	Jableh	Kaniewskietal2019	Pollen
-2919	1.74	3	Jableh	Kaniewskietal2019	Pollen
-2936	3.58	3	Jableh	Kaniewskietal2019	Pollen
-2952	3.15	3	Jableh	Kaniewskietal2019	Pollen
-2968	2.25	3	Jableh	Kaniewskietal2019	Pollen
-3000	2.05	3	Jableh	Kaniewskietal2019	Pollen
-3010	0.48	3	Jableh	Kaniewskietal2019	Pollen
-3021	0.45	3	Jableh	Kaniewskietal2019	Pollen
-3035	1.01	3	Jableh	Kaniewskietal2019	Pollen
-3042	0.95	3	Jableh	Kaniewskietal2019	Pollen
-3053	3.38	3	Jableh	Kaniewskietal2019	Pollen
-3064	3.42	3	Jableh	Kaniewskietal2019	Pollen
-3107	3.01	3	Jableh	Kaniewskietal2019	Pollen
-3117	3.08	3	Jableh	Kaniewskietal2019	Pollen
-3128	3.63	3	Jableh	Kaniewskietal2019	Pollen
-3139	3.66	3	Jableh	Kaniewskietal2019	Pollen
-3149	3.88	3	Jableh	Kaniewskietal2019	Pollen
-3160	3.77	3	Jableh	Kaniewskietal2019	Pollen
-3279	3.72	3	Jableh	Kaniewskietal2019	Pollen
-3456	3.57	3	Jableh	Kaniewskietal2019	Pollen
-3634	3.68	3	Jableh	Kaniewskietal2019	Pollen
-3812	3.67	3	Jableh	Kaniewskietal2019	Pollen
-3990	3.71	3	Jableh	Kaniewskietal2019	Pollen
-4041	3.68	3	Jableh	Kaniewskietal2019	Pollen
-4080	1.92	3	Jableh	Kaniewskietal2019	Pollen
-4119	2.02	3	Jableh	Kaniewskietal2019	Pollen
--40	0.5	4	Koycegiz	Herzschuhetal22	Pollen
--10	0.1	4	Koycegiz	Herzschuhetal22	Pollen
-50	-0.6	4	Koycegiz	Herzschuhetal22	Pollen
-120	0.5	4	Koycegiz	Herzschuhetal22	Pollen
-180	-0.9	4	Koycegiz	Herzschuhetal22	Pollen
-240	-0.5	4	Koycegiz	Herzschuhetal22	Pollen
-310	-0.4	4	Koycegiz	Herzschuhetal22	Pollen
-370	-0.5	4	Koycegiz	Herzschuhetal22	Pollen
-490	0.9	4	Koycegiz	Herzschuhetal22	Pollen
-600	-1.6	4	Koycegiz	Herzschuhetal22	Pollen
-690	-0.5	4	Koycegiz	Herzschuhetal22	Pollen
-830	0.5	4	Koycegiz	Herzschuhetal22	Pollen
-920	-3.3	4	Koycegiz	Herzschuhetal22	Pollen
-1100	2.8	4	Koycegiz	Herzschuhetal22	Pollen
-1280	3	4	Koycegiz	Herzschuhetal22	Pollen
-1480	0.8	4	Koycegiz	Herzschuhetal22	Pollen
-1650	2.7	4	Koycegiz	Herzschuhetal22	Pollen
-1880	1.9	4	Koycegiz	Herzschuhetal22	Pollen
-2010	0.8	4	Koycegiz	Herzschuhetal22	Pollen
-2200	1.8	4	Koycegiz	Herzschuhetal22	Pollen
-2430	1	4	Koycegiz	Herzschuhetal22	Pollen
-2560	2	4	Koycegiz	Herzschuhetal22	Pollen
-2650	3	4	Koycegiz	Herzschuhetal22	Pollen
-2750	1.4	4	Koycegiz	Herzschuhetal22	Pollen
-2840	1	4	Koycegiz	Herzschuhetal22	Pollen
-2930	2	4	Koycegiz	Herzschuhetal22	Pollen
-3020	1.8	4	Koycegiz	Herzschuhetal22	Pollen
-3110	-1.5	4	Koycegiz	Herzschuhetal22	Pollen
-3200	-0.4	4	Koycegiz	Herzschuhetal22	Pollen
-3280	-0.4	4	Koycegiz	Herzschuhetal22	Pollen
-3410	0.5	4	Koycegiz	Herzschuhetal22	Pollen
-3530	2.7	4	Koycegiz	Herzschuhetal22	Pollen
-3620	0.1	4	Koycegiz	Herzschuhetal22	Pollen
-3780	1	4	Koycegiz	Herzschuhetal22	Pollen
-3870	1.8	4	Koycegiz	Herzschuhetal22	Pollen
-3950	1.6	4	Koycegiz	Herzschuhetal22	Pollen
-4200	1.3	4	Koycegiz	Herzschuhetal22	Pollen
-4280	5.2	4	Koycegiz	Herzschuhetal22	Pollen
-4450	0.7	4	Koycegiz	Herzschuhetal22	Pollen
-4580	2.6	4	Koycegiz	Herzschuhetal22	Pollen
-4710	1.6	4	Koycegiz	Herzschuhetal22	Pollen
-4790	1.9	4	Koycegiz	Herzschuhetal22	Pollen
-4870	2.1	4	Koycegiz	Herzschuhetal22	Pollen
-4960	1.1	4	Koycegiz	Herzschuhetal22	Pollen
-5040	1	4	Koycegiz	Herzschuhetal22	Pollen
-5130	1.5	4	Koycegiz	Herzschuhetal22	Pollen
-5210	1.2	4	Koycegiz	Herzschuhetal22	Pollen
--30	0.1	5	Karamik	Herzschuhetal22	Pollen
-30	-0.1	5	Karamik	Herzschuhetal22	Pollen
-260	-0.1	5	Karamik	Herzschuhetal22	Pollen
-650	0.3	5	Karamik	Herzschuhetal22	Pollen
-1030	-0.1	5	Karamik	Herzschuhetal22	Pollen
-1430	-0.3	5	Karamik	Herzschuhetal22	Pollen
-1820	-1.2	5	Karamik	Herzschuhetal22	Pollen
-2200	-0.4	5	Karamik	Herzschuhetal22	Pollen
-2600	-1	5	Karamik	Herzschuhetal22	Pollen
-3000	0.6	5	Karamik	Herzschuhetal22	Pollen
-3390	-0.8	5	Karamik	Herzschuhetal22	Pollen
-3770	-1.3	5	Karamik	Herzschuhetal22	Pollen
-4140	-0.7	5	Karamik	Herzschuhetal22	Pollen
-4520	0.2	5	Karamik	Herzschuhetal22	Pollen
-4880	0.2	5	Karamik	Herzschuhetal22	Pollen
-5270	0.1	5	Karamik	Herzschuhetal22	Pollen
-5460	-0.9	5	Karamik	Herzschuhetal22	Pollen
-5640	-0.4	5	Karamik	Herzschuhetal22	Pollen
-5830	0.7	5	Karamik	Herzschuhetal22	Pollen
-6020	-1.4	5	Karamik	Herzschuhetal22	Pollen
-6390	-0.1	5	Karamik	Herzschuhetal22	Pollen
-6800	0.5	5	Karamik	Herzschuhetal22	Pollen
-6980	-0.3	5	Karamik	Herzschuhetal22	Pollen
-7170	0.8	5	Karamik	Herzschuhetal22	Pollen
-7720	-0.6	5	Karamik	Herzschuhetal22	Pollen
-8510	-0.5	5	Karamik	Herzschuhetal22	Pollen
-9200	-0.3	5	Karamik	Herzschuhetal22	Pollen
-10140	-0.7	5	Karamik	Herzschuhetal22	Pollen
-7.26	0	6	Maleshevska	Kaufmanetal2020	Pollen
-502.76	1.02	6	Maleshevska	Kaufmanetal2020	Pollen
-998.27	1.17	6	Maleshevska	Kaufmanetal2020	Pollen
-1493.78	0.05	6	Maleshevska	Kaufmanetal2020	Pollen
-1989.29	-0.73	6	Maleshevska	Kaufmanetal2020	Pollen
-2484.79	-0.89	6	Maleshevska	Kaufmanetal2020	Pollen
-2761.39	-0.05	6	Maleshevska	Kaufmanetal2020	Pollen
-2819.08	0.55	6	Maleshevska	Kaufmanetal2020	Pollen
-2876.77	3.07	6	Maleshevska	Kaufmanetal2020	Pollen
-2934.46	0.55	6	Maleshevska	Kaufmanetal2020	Pollen
-2992.15	0.07	6	Maleshevska	Kaufmanetal2020	Pollen
-3049.84	-0.39	6	Maleshevska	Kaufmanetal2020	Pollen
-3107.53	2.44	6	Maleshevska	Kaufmanetal2020	Pollen
-3165.22	-0.25	6	Maleshevska	Kaufmanetal2020	Pollen
-3222.91	0.3	6	Maleshevska	Kaufmanetal2020	Pollen
-3280.6	0.75	6	Maleshevska	Kaufmanetal2020	Pollen
-3338.29	0.75	6	Maleshevska	Kaufmanetal2020	Pollen
-3395.98	0.14	6	Maleshevska	Kaufmanetal2020	Pollen
-3871.51	-0.21	6	Maleshevska	Kaufmanetal2020	Pollen
-4625.6	0.44	6	Maleshevska	Kaufmanetal2020	Pollen
-5379.69	-1.02	6	Maleshevska	Kaufmanetal2020	Pollen
-6133.78	0.79	6	Maleshevska	Kaufmanetal2020	Pollen
-6817.17	-1.55	6	Maleshevska	Kaufmanetal2020	Pollen
-6911.49	-0.76	6	Maleshevska	Kaufmanetal2020	Pollen
-6958.65	-0.66	6	Maleshevska	Kaufmanetal2020	Pollen
-7005.8	-0.67	6	Maleshevska	Kaufmanetal2020	Pollen
-7052.96	-1.28	6	Maleshevska	Kaufmanetal2020	Pollen
-7100.12	-0.77	6	Maleshevska	Kaufmanetal2020	Pollen
-7147.28	-1.05	6	Maleshevska	Kaufmanetal2020	Pollen
-7194.43	-1.21	6	Maleshevska	Kaufmanetal2020	Pollen
-7241.59	1.15	6	Maleshevska	Kaufmanetal2020	Pollen
-7288.75	-0.62	6	Maleshevska	Kaufmanetal2020	Pollen
-7335.9	-0.6	6	Maleshevska	Kaufmanetal2020	Pollen
-7383.06	-1.07	6	Maleshevska	Kaufmanetal2020	Pollen
-7430.22	-1.32	6	Maleshevska	Kaufmanetal2020	Pollen
-7472.66	-1.02	6	Maleshevska	Kaufmanetal2020	Pollen
-7519.82	0.51	6	Maleshevska	Kaufmanetal2020	Pollen
-7566.97	0.33	6	Maleshevska	Kaufmanetal2020	Pollen
-7614.13	-1.15	6	Maleshevska	Kaufmanetal2020	Pollen
-7661.29	-0.51	6	Maleshevska	Kaufmanetal2020	Pollen
-7708.44	-2.13	6	Maleshevska	Kaufmanetal2020	Pollen
-9.62	0	7	Straldzhamire	Kaufmanetal2020	Pollen
-90.74	-1.42	7	Straldzhamire	Kaufmanetal2020	Pollen
-193.53	-0.31	7	Straldzhamire	Kaufmanetal2020	Pollen
-321.83	-4.33	7	Straldzhamire	Kaufmanetal2020	Pollen
-472.9	-0.86	7	Straldzhamire	Kaufmanetal2020	Pollen
-643.29	0.6	7	Straldzhamire	Kaufmanetal2020	Pollen
-829.52	1	7	Straldzhamire	Kaufmanetal2020	Pollen
-1028.11	0.08	7	Straldzhamire	Kaufmanetal2020	Pollen
-1235.59	0.75	7	Straldzhamire	Kaufmanetal2020	Pollen
-1448.48	1.82	7	Straldzhamire	Kaufmanetal2020	Pollen
-1663.31	3.21	7	Straldzhamire	Kaufmanetal2020	Pollen
-1876.61	0.61	7	Straldzhamire	Kaufmanetal2020	Pollen
-2084.9	3.64	7	Straldzhamire	Kaufmanetal2020	Pollen
-2284.72	2.84	7	Straldzhamire	Kaufmanetal2020	Pollen
-2474	1.93	7	Straldzhamire	Kaufmanetal2020	Pollen
-2653.34	3.67	7	Straldzhamire	Kaufmanetal2020	Pollen
-2823.69	2.74	7	Straldzhamire	Kaufmanetal2020	Pollen
-3141.07	2.44	7	Straldzhamire	Kaufmanetal2020	Pollen
-3289.97	2.65	7	Straldzhamire	Kaufmanetal2020	Pollen
-3433.58	2.4	7	Straldzhamire	Kaufmanetal2020	Pollen
-3572.81	0.44	7	Straldzhamire	Kaufmanetal2020	Pollen
-3708.61	5.27	7	Straldzhamire	Kaufmanetal2020	Pollen
-3841.89	2.05	7	Straldzhamire	Kaufmanetal2020	Pollen
-3973.58	0.63	7	Straldzhamire	Kaufmanetal2020	Pollen
-4104.61	4.47	7	Straldzhamire	Kaufmanetal2020	Pollen
-4235.59	-0.11	7	Straldzhamire	Kaufmanetal2020	Pollen
-4366.56	-0.33	7	Straldzhamire	Kaufmanetal2020	Pollen
--7.26	-0.07	8	Lailias	Kaufmanetal2020	Pollen
-36.64	0.07	8	Lailias	Kaufmanetal2020	Pollen
-81.25	0.59	8	Lailias	Kaufmanetal2020	Pollen
-127.28	0.58	8	Lailias	Kaufmanetal2020	Pollen
-175.46	2.05	8	Lailias	Kaufmanetal2020	Pollen
-226.48	3.84	8	Lailias	Kaufmanetal2020	Pollen
-281.07	0.41	8	Lailias	Kaufmanetal2020	Pollen
-340.1	0.34	8	Lailias	Kaufmanetal2020	Pollen
-404.97	0.21	8	Lailias	Kaufmanetal2020	Pollen
-477.25	3.51	8	Lailias	Kaufmanetal2020	Pollen
-558.45	5.9	8	Lailias	Kaufmanetal2020	Pollen
-650.13	5.95	8	Lailias	Kaufmanetal2020	Pollen
-753.82	3.94	8	Lailias	Kaufmanetal2020	Pollen
-871.06	7.49	8	Lailias	Kaufmanetal2020	Pollen
-1002.59	4.85	8	Lailias	Kaufmanetal2020	Pollen
-1146.41	4.25	8	Lailias	Kaufmanetal2020	Pollen
-1299.92	2.38	8	Lailias	Kaufmanetal2020	Pollen
-1460.54	3.93	8	Lailias	Kaufmanetal2020	Pollen
-1625.67	3.97	8	Lailias	Kaufmanetal2020	Pollen
-1792.73	5.4	8	Lailias	Kaufmanetal2020	Pollen
-1959.96	2.26	8	Lailias	Kaufmanetal2020	Pollen
-2127.2	2.67	8	Lailias	Kaufmanetal2020	Pollen
-2294.43	5.24	8	Lailias	Kaufmanetal2020	Pollen
-2461.66	4.74	8	Lailias	Kaufmanetal2020	Pollen
-2628.89	5.09	8	Lailias	Kaufmanetal2020	Pollen
-2796.12	6.47	8	Lailias	Kaufmanetal2020	Pollen
-2963.36	3.53	8	Lailias	Kaufmanetal2020	Pollen
--1.79	0	9	Kupena	Kaufmanetal2020	Pollen
-1128.66	-0.03	9	Kupena	Kaufmanetal2020	Pollen
-2259.1	4.16	9	Kupena	Kaufmanetal2020	Pollen
-2978.88	5.03	9	Kupena	Kaufmanetal2020	Pollen
-3698.67	5.43	9	Kupena	Kaufmanetal2020	Pollen
-4418.45	3.54	9	Kupena	Kaufmanetal2020	Pollen
-5138.23	4.45	9	Kupena	Kaufmanetal2020	Pollen
-5858.01	4.28	9	Kupena	Kaufmanetal2020	Pollen
-6913.54	4.52	9	Kupena	Kaufmanetal2020	Pollen
-7969.07	6.44	9	Kupena	Kaufmanetal2020	Pollen
-9024.59	7.85	9	Kupena	Kaufmanetal2020	Pollen
-9595.99	6.62	9	Kupena	Kaufmanetal2020	Pollen
-700	-0.5	10	Documentary	Teleis2005	AirTemp
-800	-0.5	10	Documentary	Teleis2005	AirTemp
-900	-0.5	10	Documentary	Teleis2005	AirTemp
-1300	-0.5	10	Documentary	Teleis2005	AirTemp
-30	0	11	GEDI97	Herzschuhetal22	Pollen
-200	0.3	11	GEDI97	Herzschuhetal22	Pollen
-330	-0.9	11	GEDI97	Herzschuhetal22	Pollen
-480	-0.1	11	GEDI97	Herzschuhetal22	Pollen
-640	-0.6	11	GEDI97	Herzschuhetal22	Pollen
-790	-0.8	11	GEDI97	Herzschuhetal22	Pollen
-920	-1.3	11	GEDI97	Herzschuhetal22	Pollen
-1100	-0.6	11	GEDI97	Herzschuhetal22	Pollen
-1290	-0.2	11	GEDI97	Herzschuhetal22	Pollen
-1430	0.4	11	GEDI97	Herzschuhetal22	Pollen
-1530	-0.1	11	GEDI97	Herzschuhetal22	Pollen
-1690	0.2	11	GEDI97	Herzschuhetal22	Pollen
-1900	-0.1	11	GEDI97	Herzschuhetal22	Pollen
-2050	-0.5	11	GEDI97	Herzschuhetal22	Pollen
-2170	-0.4	11	GEDI97	Herzschuhetal22	Pollen
-2280	1.8	11	GEDI97	Herzschuhetal22	Pollen
-2450	0.8	11	GEDI97	Herzschuhetal22	Pollen
-2930	0.8	11	GEDI97	Herzschuhetal22	Pollen
-3180	1.8	11	GEDI97	Herzschuhetal22	Pollen
-3300	0	11	GEDI97	Herzschuhetal22	Pollen
-3400	-0.1	11	GEDI97	Herzschuhetal22	Pollen
-3490	0.6	11	GEDI97	Herzschuhetal22	Pollen
-3570	0.3	11	GEDI97	Herzschuhetal22	Pollen
-3650	3	11	GEDI97	Herzschuhetal22	Pollen
-3770	1.7	11	GEDI97	Herzschuhetal22	Pollen
-3930	-0.8	11	GEDI97	Herzschuhetal22	Pollen
-4100	-0.6	11	GEDI97	Herzschuhetal22	Pollen
-4300	0.9	11	GEDI97	Herzschuhetal22	Pollen
-4590	-0.2	11	GEDI97	Herzschuhetal22	Pollen
-4700	0.8	11	GEDI97	Herzschuhetal22	Pollen
-4820	0.3	11	GEDI97	Herzschuhetal22	Pollen
-4990	0.3	11	GEDI97	Herzschuhetal22	Pollen
-5220	0.8	11	GEDI97	Herzschuhetal22	Pollen
-5430	-0.7	11	GEDI97	Herzschuhetal22	Pollen
-5650	0.5	11	GEDI97	Herzschuhetal22	Pollen
-5810	0.4	11	GEDI97	Herzschuhetal22	Pollen
-5940	-0.8	11	GEDI97	Herzschuhetal22	Pollen
-6080	0.1	11	GEDI97	Herzschuhetal22	Pollen
-6200	0.2	11	GEDI97	Herzschuhetal22	Pollen
-6320	0	11	GEDI97	Herzschuhetal22	Pollen
-6450	-0.5	11	GEDI97	Herzschuhetal22	Pollen
-6570	-0.8	11	GEDI97	Herzschuhetal22	Pollen
-6690	0.7	11	GEDI97	Herzschuhetal22	Pollen
-6800	-1.5	11	GEDI97	Herzschuhetal22	Pollen
-6910	-1.1	11	GEDI97	Herzschuhetal22	Pollen
-7020	0.3	11	GEDI97	Herzschuhetal22	Pollen
-7130	0.3	11	GEDI97	Herzschuhetal22	Pollen
-8030	-0.6	11	GEDI97	Herzschuhetal22	Pollen
-8150	0.7	11	GEDI97	Herzschuhetal22	Pollen
-8250	-0.1	11	GEDI97	Herzschuhetal22	Pollen
-8310	-0.6	11	GEDI97	Herzschuhetal22	Pollen
-8390	-0.6	11	GEDI97	Herzschuhetal22	Pollen
-8470	-0.6	11	GEDI97	Herzschuhetal22	Pollen
-8560	0.3	11	GEDI97	Herzschuhetal22	Pollen
-8650	-0.5	11	GEDI97	Herzschuhetal22	Pollen
-8810	-0.6	11	GEDI97	Herzschuhetal22	Pollen
-8980	-0.8	11	GEDI97	Herzschuhetal22	Pollen
-9170	-0.8	11	GEDI97	Herzschuhetal22	Pollen
--40	0.55	12	DS7	Herzschuhetal22	Pollen
-50	-0.55	12	DS7	Herzschuhetal22	Pollen
-160	-0.15	12	DS7	Herzschuhetal22	Pollen
-210	0.65	12	DS7	Herzschuhetal22	Pollen
-220	-0.85	12	DS7	Herzschuhetal22	Pollen
-230	0.55	12	DS7	Herzschuhetal22	Pollen
-250	0.35	12	DS7	Herzschuhetal22	Pollen
-290	-0.05	12	DS7	Herzschuhetal22	Pollen
-310	-1.05	12	DS7	Herzschuhetal22	Pollen
-430	-0.95	12	DS7	Herzschuhetal22	Pollen
-540	0.05	12	DS7	Herzschuhetal22	Pollen
-650	-0.45	12	DS7	Herzschuhetal22	Pollen
-740	-0.25	12	DS7	Herzschuhetal22	Pollen
-830	1.25	12	DS7	Herzschuhetal22	Pollen
-890	0.65	12	DS7	Herzschuhetal22	Pollen
-970	1.25	12	DS7	Herzschuhetal22	Pollen
-1070	0.45	12	DS7	Herzschuhetal22	Pollen
-1140	0.05	12	DS7	Herzschuhetal22	Pollen
-1220	2.05	12	DS7	Herzschuhetal22	Pollen
-1300	0.95	12	DS7	Herzschuhetal22	Pollen
-1360	-0.35	12	DS7	Herzschuhetal22	Pollen
-1460	1.45	12	DS7	Herzschuhetal22	Pollen
-1500	-0.25	12	DS7	Herzschuhetal22	Pollen
-1520	1.25	12	DS7	Herzschuhetal22	Pollen
-1540	0.05	12	DS7	Herzschuhetal22	Pollen
-1560	0.65	12	DS7	Herzschuhetal22	Pollen
-1590	2.15	12	DS7	Herzschuhetal22	Pollen
-1620	-0.25	12	DS7	Herzschuhetal22	Pollen
-1640	-1.25	12	DS7	Herzschuhetal22	Pollen
-1680	0.35	12	DS7	Herzschuhetal22	Pollen
-1710	0.65	12	DS7	Herzschuhetal22	Pollen
-1740	1.05	12	DS7	Herzschuhetal22	Pollen
-1780	-0.65	12	DS7	Herzschuhetal22	Pollen
-1840	-0.85	12	DS7	Herzschuhetal22	Pollen
-1860	0.05	12	DS7	Herzschuhetal22	Pollen
-1920	0.65	12	DS7	Herzschuhetal22	Pollen
-1990	-0.25	12	DS7	Herzschuhetal22	Pollen
-2030	1.25	12	DS7	Herzschuhetal22	Pollen
-2090	-0.15	12	DS7	Herzschuhetal22	Pollen
-2130	0.45	12	DS7	Herzschuhetal22	Pollen
-2190	1.75	12	DS7	Herzschuhetal22	Pollen
-2200	0.05	12	DS7	Herzschuhetal22	Pollen
-2230	0.25	12	DS7	Herzschuhetal22	Pollen
-2260	0.15	12	DS7	Herzschuhetal22	Pollen
-2300	0.35	12	DS7	Herzschuhetal22	Pollen
-2320	0.05	12	DS7	Herzschuhetal22	Pollen
-2360	0.85	12	DS7	Herzschuhetal22	Pollen
-2370	-0.15	12	DS7	Herzschuhetal22	Pollen
-2390	0.15	12	DS7	Herzschuhetal22	Pollen
-2410	1.05	12	DS7	Herzschuhetal22	Pollen
-2430	-0.55	12	DS7	Herzschuhetal22	Pollen
-2440	-0.55	12	DS7	Herzschuhetal22	Pollen
-2480	0.45	12	DS7	Herzschuhetal22	Pollen
-2520	0.85	12	DS7	Herzschuhetal22	Pollen
-2550	0.95	12	DS7	Herzschuhetal22	Pollen
-2910	-0.75	12	DS7	Herzschuhetal22	Pollen
-10	0	13	SOGUT	Herzschuhetal22	Pollen
-130	-0.9	13	SOGUT	Herzschuhetal22	Pollen
-280	-1.2	13	SOGUT	Herzschuhetal22	Pollen
-410	-2	13	SOGUT	Herzschuhetal22	Pollen
-560	-0.5	13	SOGUT	Herzschuhetal22	Pollen
-710	-0.8	13	SOGUT	Herzschuhetal22	Pollen
-860	-0.9	13	SOGUT	Herzschuhetal22	Pollen
-1010	-0.7	13	SOGUT	Herzschuhetal22	Pollen
-1180	-0.3	13	SOGUT	Herzschuhetal22	Pollen
-1340	-1.3	13	SOGUT	Herzschuhetal22	Pollen
-1480	-0.6	13	SOGUT	Herzschuhetal22	Pollen
-1630	0.1	13	SOGUT	Herzschuhetal22	Pollen
-1800	-0.2	13	SOGUT	Herzschuhetal22	Pollen
-1930	0	13	SOGUT	Herzschuhetal22	Pollen
-2080	0.4	13	SOGUT	Herzschuhetal22	Pollen
-2250	-0.1	13	SOGUT	Herzschuhetal22	Pollen
-2400	0.3	13	SOGUT	Herzschuhetal22	Pollen
-2480	-0.8	13	SOGUT	Herzschuhetal22	Pollen
-2550	-1.1	13	SOGUT	Herzschuhetal22	Pollen
-2630	-1	13	SOGUT	Herzschuhetal22	Pollen
-2700	-0.1	13	SOGUT	Herzschuhetal22	Pollen
-2780	0.4	13	SOGUT	Herzschuhetal22	Pollen
-2860	-0.4	13	SOGUT	Herzschuhetal22	Pollen
-2960	-0.9	13	SOGUT	Herzschuhetal22	Pollen
-3480	0.1	13	SOGUT	Herzschuhetal22	Pollen
-4460	1.1	13	SOGUT	Herzschuhetal22	Pollen
-4980	0.6	13	SOGUT	Herzschuhetal22	Pollen
-5580	1.3	13	SOGUT	Herzschuhetal22	Pollen
-6210	1.2	13	SOGUT	Herzschuhetal22	Pollen
-6890	0.4	13	SOGUT	Herzschuhetal22	Pollen
-7840	-0.3	13	SOGUT	Herzschuhetal22	Pollen
-8760	1.2	13	SOGUT	Herzschuhetal22	Pollen
-9350	1.4	13	SOGUT	Herzschuhetal22	Pollen
-10330	2	13	SOGUT	Herzschuhetal22	Pollen
-10	0	14	PINARBAS	Herzschuhetal22	Pollen
-200	0.7	14	PINARBAS	Herzschuhetal22	Pollen
-460	0.9	14	PINARBAS	Herzschuhetal22	Pollen
-720	-0.6	14	PINARBAS	Herzschuhetal22	Pollen
-980	-1.5	14	PINARBAS	Herzschuhetal22	Pollen
-1240	-1	14	PINARBAS	Herzschuhetal22	Pollen
-1370	0.1	14	PINARBAS	Herzschuhetal22	Pollen
-1560	0.5	14	PINARBAS	Herzschuhetal22	Pollen
-1760	-1.1	14	PINARBAS	Herzschuhetal22	Pollen
-2020	-1.6	14	PINARBAS	Herzschuhetal22	Pollen
-2150	-0.7	14	PINARBAS	Herzschuhetal22	Pollen
-2280	-0.5	14	PINARBAS	Herzschuhetal22	Pollen
-2400	-1.3	14	PINARBAS	Herzschuhetal22	Pollen
-2540	-1.3	14	PINARBAS	Herzschuhetal22	Pollen
-2660	1	14	PINARBAS	Herzschuhetal22	Pollen
-2790	1.3	14	PINARBAS	Herzschuhetal22	Pollen
-2920	1	14	PINARBAS	Herzschuhetal22	Pollen
-3050	1.7	14	PINARBAS	Herzschuhetal22	Pollen
-3180	2.2	14	PINARBAS	Herzschuhetal22	Pollen
-3310	1.4	14	PINARBAS	Herzschuhetal22	Pollen
-3570	-0.8	14	PINARBAS	Herzschuhetal22	Pollen
-3640	-0.8	14	PINARBAS	Herzschuhetal22	Pollen
-3710	-1.1	14	PINARBAS	Herzschuhetal22	Pollen
-3790	-1.4	14	PINARBAS	Herzschuhetal22	Pollen
-3860	-2.3	14	PINARBAS	Herzschuhetal22	Pollen
-4150	-0.1	14	PINARBAS	Herzschuhetal22	Pollen
-4440	-0.7	14	PINARBAS	Herzschuhetal22	Pollen
-4730	-1.2	14	PINARBAS	Herzschuhetal22	Pollen
-5020	-1.3	14	PINARBAS	Herzschuhetal22	Pollen
-5170	-0.8	14	PINARBAS	Herzschuhetal22	Pollen
-5310	-0.1	14	PINARBAS	Herzschuhetal22	Pollen
-5460	-0.5	14	PINARBAS	Herzschuhetal22	Pollen
-5610	-0.9	14	PINARBAS	Herzschuhetal22	Pollen
-5890	-0.2	14	PINARBAS	Herzschuhetal22	Pollen
-6190	-1	14	PINARBAS	Herzschuhetal22	Pollen
-6480	1.1	14	PINARBAS	Herzschuhetal22	Pollen
-6770	-1	14	PINARBAS	Herzschuhetal22	Pollen
-7050	-2	14	PINARBAS	Herzschuhetal22	Pollen
-7320	0	14	PINARBAS	Herzschuhetal22	Pollen
--40	0.1	15	ASIG1	Herzschuhetal22	Pollen
--20	0.4	15	ASIG1	Herzschuhetal22	Pollen
--10	0.1	15	ASIG1	Herzschuhetal22	Pollen
-10	0.8	15	ASIG1	Herzschuhetal22	Pollen
-20	1.2	15	ASIG1	Herzschuhetal22	Pollen
-40	-2.5	15	ASIG1	Herzschuhetal22	Pollen
-50	-0.1	15	ASIG1	Herzschuhetal22	Pollen
-70	-4.3	15	ASIG1	Herzschuhetal22	Pollen
-80	-1.9	15	ASIG1	Herzschuhetal22	Pollen
-100	0.5	15	ASIG1	Herzschuhetal22	Pollen
-110	-2.4	15	ASIG1	Herzschuhetal22	Pollen
-130	1.7	15	ASIG1	Herzschuhetal22	Pollen
-140	-0.5	15	ASIG1	Herzschuhetal22	Pollen
-160	-0.2	15	ASIG1	Herzschuhetal22	Pollen
-170	-0.4	15	ASIG1	Herzschuhetal22	Pollen
-190	-1.2	15	ASIG1	Herzschuhetal22	Pollen
-200	1.1	15	ASIG1	Herzschuhetal22	Pollen
-220	1.4	15	ASIG1	Herzschuhetal22	Pollen
-240	0.2	15	ASIG1	Herzschuhetal22	Pollen
-250	2	15	ASIG1	Herzschuhetal22	Pollen
-270	-0.6	15	ASIG1	Herzschuhetal22	Pollen
-280	1.2	15	ASIG1	Herzschuhetal22	Pollen
-300	0	15	ASIG1	Herzschuhetal22	Pollen
-310	-0.8	15	ASIG1	Herzschuhetal22	Pollen
-330	0.6	15	ASIG1	Herzschuhetal22	Pollen
-340	-1.7	15	ASIG1	Herzschuhetal22	Pollen
-360	-1.3	15	ASIG1	Herzschuhetal22	Pollen
-370	-1.3	15	ASIG1	Herzschuhetal22	Pollen
-390	-2.3	15	ASIG1	Herzschuhetal22	Pollen
-410	-0.3	15	ASIG1	Herzschuhetal22	Pollen
-420	-0.6	15	ASIG1	Herzschuhetal22	Pollen
-440	0.3	15	ASIG1	Herzschuhetal22	Pollen
-450	0.1	15	ASIG1	Herzschuhetal22	Pollen
-470	-0.1	15	ASIG1	Herzschuhetal22	Pollen
-500	-4.4	15	ASIG1	Herzschuhetal2222	Pollen
-510	-1.1	15	ASIG1	Herzschuhetal22	Pollen
-530	-1	15	ASIG1	Herzschuhetal22	Pollen
-540	-2.7	15	ASIG1	Herzschuhetal22	Pollen
-560	0	15	ASIG1	Herzschuhetal22	Pollen
-580	-2.7	15	ASIG1	Herzschuhetal22	Pollen
-590	-2.7	15	ASIG1	Herzschuhetal22	Pollen
-610	-5.5	15	ASIG1	Herzschuhetal22	Pollen
-620	-0.3	15	ASIG1	Herzschuhetal22	Pollen
-640	-0.1	15	ASIG1	Herzschuhetal22	Pollen
-650	-3.6	15	ASIG1	Herzschuhetal22	Pollen
-670	0.2	15	ASIG1	Herzschuhetal22	Pollen
-680	-0.3	15	ASIG1	Herzschuhetal22	Pollen
-700	-0.5	15	ASIG1	Herzschuhetal22	Pollen
-710	0.3	15	ASIG1	Herzschuhetal22	Pollen
-730	-0.9	15	ASIG1	Herzschuhetal22	Pollen
-740	1	15	ASIG1	Herzschuhetal22	Pollen
-760	1	15	ASIG1	Herzschuhetal22	Pollen
-770	0.8	15	ASIG1	Herzschuhetal22	Pollen
-790	2.6	15	ASIG1	Herzschuhetal22	Pollen
-800	0.5	15	ASIG1	Herzschuhetal22	Pollen
-820	1	15	ASIG1	Herzschuhetal22	Pollen
-830	-0.7	15	ASIG1	Herzschuhetal22	Pollen
-850	-1.5	15	ASIG1	Herzschuhetal22	Pollen
-860	-0.9	15	ASIG1	Herzschuhetal22	Pollen
-880	-1.8	15	ASIG1	Herzschuhetal22	Pollen
-890	1.3	15	ASIG1	Herzschuhetal22	Pollen
-910	4.3	15	ASIG1	Herzschuhetal22	Pollen
-920	4.5	15	ASIG1	Herzschuhetal22	Pollen
-940	2.4	15	ASIG1	Herzschuhetal22	Pollen
-950	4.2	15	ASIG1	Herzschuhetal22	Pollen
-970	2.2	15	ASIG1	Herzschuhetal22	Pollen
-980	3.9	15	ASIG1	Herzschuhetal22	Pollen
-1000	4.9	15	ASIG1	Herzschuhetal22	Pollen
-1030	4.8	15	ASIG1	Herzschuhetal22	Pollen
-1040	4.9	15	ASIG1	Herzschuhetal22	Pollen
-1060	4.8	15	ASIG1	Herzschuhetal22	Pollen
-1070	3.5	15	ASIG1	Herzschuhetal22	Pollen
-1090	0.3	15	ASIG1	Herzschuhetal22	Pollen
-1120	3	15	ASIG1	Herzschuhetal22	Pollen
-1130	1.7	15	ASIG1	Herzschuhetal22	Pollen
-1150	4.7	15	ASIG1	Herzschuhetal22	Pollen
-1160	4.7	15	ASIG1	Herzschuhetal22	Pollen
-1180	2.6	15	ASIG1	Herzschuhetal22	Pollen
-1190	4.3	15	ASIG1	Herzschuhetal22	Pollen
-1200	0.7	15	ASIG1	Herzschuhetal22	Pollen
-1220	5.4	15	ASIG1	Herzschuhetal22	Pollen
-1230	5	15	ASIG1	Herzschuhetal22	Pollen
-1250	3.2	15	ASIG1	Herzschuhetal22	Pollen
-1260	3.9	15	ASIG1	Herzschuhetal22	Pollen
-1270	4.5	15	ASIG1	Herzschuhetal22	Pollen
-1290	3.2	15	ASIG1	Herzschuhetal22	Pollen
-1300	4.8	15	ASIG1	Herzschuhetal22	Pollen
-1320	3.3	15	ASIG1	Herzschuhetal22	Pollen
-1330	3.6	15	ASIG1	Herzschuhetal22	Pollen
-1340	3.2	15	ASIG1	Herzschuhetal22	Pollen
-1360	4	15	ASIG1	Herzschuhetal22	Pollen
-1370	3.2	15	ASIG1	Herzschuhetal22	Pollen
-10	0	16	SAR26	Herzschuhetal22	Pollen
-90	0	16	SAR26	Herzschuhetal22	Pollen
-210	-1.4	16	SAR26	Herzschuhetal22	Pollen
-320	0.9	16	SAR26	Herzschuhetal22	Pollen
-420	1.8	16	SAR26	Herzschuhetal22	Pollen
-560	1.3	16	SAR26	Herzschuhetal22	Pollen
-720	-0.2	16	SAR26	Herzschuhetal22	Pollen
-800	-0.4	16	SAR26	Herzschuhetal22	Pollen
-920	0.1	16	SAR26	Herzschuhetal22	Pollen
-990	0	16	SAR26	Herzschuhetal22	Pollen
-1060	-0.8	16	SAR26	Herzschuhetal22	Pollen
-1140	0.3	16	SAR26	Herzschuhetal22	Pollen
-1220	1	16	SAR26	Herzschuhetal22	Pollen
-1240	0.8	16	SAR26	Herzschuhetal22	Pollen
-1270	2.6	16	SAR26	Herzschuhetal22	Pollen
-1300	0.1	16	SAR26	Herzschuhetal22	Pollen
-1330	1.7	16	SAR26	Herzschuhetal22	Pollen
-1350	1.5	16	SAR26	Herzschuhetal22	Pollen
-1370	1.5	16	SAR26	Herzschuhetal22	Pollen
-1390	-1.9	16	SAR26	Herzschuhetal22	Pollen
-1410	-2.5	16	SAR26	Herzschuhetal22	Pollen
-1430	0.6	16	SAR26	Herzschuhetal22	Pollen
-1450	0.1	16	SAR26	Herzschuhetal22	Pollen
-1470	-0.1	16	SAR26	Herzschuhetal22	Pollen
-1480	-1	16	SAR26	Herzschuhetal22	Pollen
-1510	1.1	16	SAR26	Herzschuhetal22	Pollen
-1520	0.4	16	SAR26	Herzschuhetal22	Pollen
-1540	1.1	16	SAR26	Herzschuhetal22	Pollen
-1560	-0.4	16	SAR26	Herzschuhetal22	Pollen
-1590	-1.1	16	SAR26	Herzschuhetal22	Pollen
-1610	1.2	16	SAR26	Herzschuhetal22	Pollen
-1650	1	16	SAR26	Herzschuhetal22	Pollen
-1670	2.4	16	SAR26	Herzschuhetal22	Pollen
-1740	-0.2	16	SAR26	Herzschuhetal22	Pollen
-1770	-1	16	SAR26	Herzschuhetal22	Pollen
-1830	0.9	16	SAR26	Herzschuhetal22	Pollen
-1850	6.1	16	SAR26	Herzschuhetal22	Pollen
-1930	0	16	SAR26	Herzschuhetal22	Pollen
--10	0	17	LERNA	Herzschuhetal22	Pollen
-120	-1.4	17	LERNA	Herzschuhetal22	Pollen
-300	-0.6	17	LERNA	Herzschuhetal22	Pollen
-430	-2	17	LERNA	Herzschuhetal22	Pollen
-540	0.2	17	LERNA	Herzschuhetal22	Pollen
-900	-0.7	17	LERNA	Herzschuhetal22	Pollen
-1060	-1.5	17	LERNA	Herzschuhetal22	Pollen
-1270	-0.6	17	LERNA	Herzschuhetal22	Pollen
-1440	1.9	17	LERNA	Herzschuhetal22	Pollen
-1520	1.7	17	LERNA	Herzschuhetal22	Pollen
-1700	1.2	17	LERNA	Herzschuhetal22	Pollen
-1840	-0.7	17	LERNA	Herzschuhetal22	Pollen
-2000	-1.2	17	LERNA	Herzschuhetal22	Pollen
-2110	0.1	17	LERNA	Herzschuhetal22	Pollen
-2230	0.3	17	LERNA	Herzschuhetal22	Pollen
-2370	2	17	LERNA	Herzschuhetal22	Pollen
-2510	-2.1	17	LERNA	Herzschuhetal22	Pollen
-2640	-0.1	17	LERNA	Herzschuhetal22	Pollen
-2710	1.5	17	LERNA	Herzschuhetal22	Pollen
-2800	1.4	17	LERNA	Herzschuhetal22	Pollen
-2890	1.2	17	LERNA	Herzschuhetal22	Pollen
-3000	-1.2	17	LERNA	Herzschuhetal22	Pollen
-3100	-1.7	17	LERNA	Herzschuhetal22	Pollen
-3150	-2.7	17	LERNA	Herzschuhetal22	Pollen
-3350	3.1	17	LERNA	Herzschuhetal22	Pollen
-3440	0.5	17	LERNA	Herzschuhetal22	Pollen
-3530	1.8	17	LERNA	Herzschuhetal22	Pollen
-3700	0.4	17	LERNA	Herzschuhetal22	Pollen
-3880	0.4	17	LERNA	Herzschuhetal22	Pollen
-4020	0.9	17	LERNA	Herzschuhetal22	Pollen
-4160	0	17	LERNA	Herzschuhetal22	Pollen
-4400	0.6	17	LERNA	Herzschuhetal22	Pollen
-4590	1.5	17	LERNA	Herzschuhetal22	Pollen
-4730	1.6	17	LERNA	Herzschuhetal22	Pollen
-4850	0.5	17	LERNA	Herzschuhetal22	Pollen
-4960	0.1	17	LERNA	Herzschuhetal22	Pollen
-5090	0.9	17	LERNA	Herzschuhetal22	Pollen
-5230	1	17	LERNA	Herzschuhetal22	Pollen
-5370	2.3	17	LERNA	Herzschuhetal22	Pollen
-5450	1.2	17	LERNA	Herzschuhetal22	Pollen
-5590	3.5	17	LERNA	Herzschuhetal22	Pollen
-5700	1.7	17	LERNA	Herzschuhetal22	Pollen
-5840	1.4	17	LERNA	Herzschuhetal22	Pollen
-5910	1.2	17	LERNA	Herzschuhetal22	Pollen
-6040	1.6	17	LERNA	Herzschuhetal22	Pollen
-6140	1.9	17	LERNA	Herzschuhetal22	Pollen
-6250	1.7	17	LERNA	Herzschuhetal22	Pollen
-6340	1.1	17	LERNA	Herzschuhetal22	Pollen
-6480	0.2	17	LERNA	Herzschuhetal22	Pollen
-6560	-0.3	17	LERNA	Herzschuhetal22	Pollen
-6710	0.1	17	LERNA	Herzschuhetal22	Pollen
-6840	-1.3	17	LERNA	Herzschuhetal22	Pollen
-6970	1.8	17	LERNA	Herzschuhetal22	Pollen
-7110	1.7	17	LERNA	Herzschuhetal22	Pollen
-7190	1.1	17	LERNA	Herzschuhetal22	Pollen
-7310	0.1	17	LERNA	Herzschuhetal22	Pollen
-7370	0	17	LERNA	Herzschuhetal22	Pollen
-7500	-3.1	17	LERNA	Herzschuhetal22	Pollen
-7660	-3.4	17	LERNA	Herzschuhetal22	Pollen
--60	0.2	18	LITOCHOR	Herzschuhetal22	Pollen
--10	0.1	18	LITOCHOR	Herzschuhetal22	Pollen
-30	-0.3	18	LITOCHOR	Herzschuhetal22	Pollen
-70	0.8	18	LITOCHOR	Herzschuhetal22	Pollen
-120	1.2	18	LITOCHOR	Herzschuhetal22	Pollen
-160	0.2	18	LITOCHOR	Herzschuhetal22	Pollen
-210	-1	18	LITOCHOR	Herzschuhetal22	Pollen
-260	1.1	18	LITOCHOR	Herzschuhetal22	Pollen
-310	1.6	18	LITOCHOR	Herzschuhetal22	Pollen
-350	-0.3	18	LITOCHOR	Herzschuhetal22	Pollen
-410	0.2	18	LITOCHOR	Herzschuhetal22	Pollen
-450	-0.5	18	LITOCHOR	Herzschuhetal22	Pollen
-500	1.2	18	LITOCHOR	Herzschuhetal22	Pollen
-580	-0.3	18	LITOCHOR	Herzschuhetal22	Pollen
-640	0.8	18	LITOCHOR	Herzschuhetal22	Pollen
-690	-0.4	18	LITOCHOR	Herzschuhetal22	Pollen
-730	0	18	LITOCHOR	Herzschuhetal22	Pollen
-780	-0.3	18	LITOCHOR	Herzschuhetal22	Pollen
-850	0.3	18	LITOCHOR	Herzschuhetal22	Pollen
-910	-0.4	18	LITOCHOR	Herzschuhetal22	Pollen
-980	-1.4	18	LITOCHOR	Herzschuhetal22	Pollen
-1020	-0.5	18	LITOCHOR	Herzschuhetal22	Pollen
-1090	-0.4	18	LITOCHOR	Herzschuhetal22	Pollen
-1190	-0.5	18	LITOCHOR	Herzschuhetal22	Pollen
-1280	-1.4	18	LITOCHOR	Herzschuhetal22	Pollen
-1360	-1	18	LITOCHOR	Herzschuhetal22	Pollen
-1470	0.5	18	LITOCHOR	Herzschuhetal22	Pollen
-1540	-0.8	18	LITOCHOR	Herzschuhetal22	Pollen
-1620	-0.8	18	LITOCHOR	Herzschuhetal22	Pollen
-1720	-0.5	18	LITOCHOR	Herzschuhetal22	Pollen
-1820	-0.4	18	LITOCHOR	Herzschuhetal22	Pollen
-1930	-0.7	18	LITOCHOR	Herzschuhetal22	Pollen
-2040	-1.5	18	LITOCHOR	Herzschuhetal22	Pollen
-2150	-1.3	18	LITOCHOR	Herzschuhetal22	Pollen
-2220	-0.9	18	LITOCHOR	Herzschuhetal22	Pollen
-2290	0.5	18	LITOCHOR	Herzschuhetal22	Pollen
-2360	0.1	18	LITOCHOR	Herzschuhetal22	Pollen
-2400	-0.8	18	LITOCHOR	Herzschuhetal22	Pollen
-2430	-0.2	18	LITOCHOR	Herzschuhetal22	Pollen
-2500	0.1	18	LITOCHOR	Herzschuhetal22	Pollen
-2610	-0.8	18	LITOCHOR	Herzschuhetal22	Pollen
-2660	-0.3	18	LITOCHOR	Herzschuhetal22	Pollen
-2710	-0.5	18	LITOCHOR	Herzschuhetal22	Pollen
-2790	-1.6	18	LITOCHOR	Herzschuhetal22	Pollen
-2850	-0.8	18	LITOCHOR	Herzschuhetal22	Pollen
-2940	-0.9	18	LITOCHOR	Herzschuhetal22	Pollen
-3020	-0.5	18	LITOCHOR	Herzschuhetal22	Pollen
-3110	-0.6	18	LITOCHOR	Herzschuhetal22	Pollen
-3230	-0.6	18	LITOCHOR	Herzschuhetal22	Pollen
-3510	1	18	LITOCHOR	Herzschuhetal22	Pollen
-3520	-0.2	18	LITOCHOR	Herzschuhetal22	Pollen
-3570	1	18	LITOCHOR	Herzschuhetal22	Pollen
-3730	0.4	18	LITOCHOR	Herzschuhetal22	Pollen
-3840	1.2	18	LITOCHOR	Herzschuhetal22	Pollen
-3920	2.8	18	LITOCHOR	Herzschuhetal22	Pollen
-4000	3.6	18	LITOCHOR	Herzschuhetal22	Pollen
-4170	1.1	18	LITOCHOR	Herzschuhetal22	Pollen
-4290	-0.3	18	LITOCHOR	Herzschuhetal22	Pollen
-4420	-0.6	18	LITOCHOR	Herzschuhetal22	Pollen
-4590	-0.7	18	LITOCHOR	Herzschuhetal22	Pollen
-4690	0.2	18	LITOCHOR	Herzschuhetal22	Pollen
-4750	0.8	18	LITOCHOR	Herzschuhetal22	Pollen
-4810	1.4	18	LITOCHOR	Herzschuhetal22	Pollen
-4870	1.3	18	LITOCHOR	Herzschuhetal22	Pollen
--50	0	19	XINIAS_neotoma	Herzschuhetal22	Pollen
-660	0.2	19	XINIAS_neotoma	Herzschuhetal22	Pollen
-2120	-0.5	19	XINIAS_neotoma	Herzschuhetal22	Pollen
-3610	-1.4	19	XINIAS_neotoma	Herzschuhetal22	Pollen
-5750	-1.4	19	XINIAS_neotoma	Herzschuhetal22	Pollen
-6440	-0.8	19	XINIAS_neotoma	Herzschuhetal22	Pollen
-7520	-0.3	19	XINIAS_neotoma	Herzschuhetal22	Pollen
-8440	-0.4	19	XINIAS_neotoma	Herzschuhetal22	Pollen
-9390	-0.9	19	XINIAS_neotoma	Herzschuhetal22	Pollen
--60	-0.25	20	PERTOYLI	Herzschuhetal22	Pollen
-40	0.25	20	PERTOYLI	Herzschuhetal22	Pollen
-140	-0.45	20	PERTOYLI	Herzschuhetal22	Pollen
-240	1.25	20	PERTOYLI	Herzschuhetal22	Pollen
-340	1.95	20	PERTOYLI	Herzschuhetal22	Pollen
-390	-0.85	20	PERTOYLI	Herzschuhetal22	Pollen
-520	1.35	20	PERTOYLI	Herzschuhetal22	Pollen
-740	0.85	20	PERTOYLI	Herzschuhetal22	Pollen
-1080	2.35	20	PERTOYLI	Herzschuhetal22	Pollen
-1400	2.05	20	PERTOYLI	Herzschuhetal22	Pollen
-1750	2.05	20	PERTOYLI	Herzschuhetal22	Pollen
-2090	2.45	20	PERTOYLI	Herzschuhetal22	Pollen
-2420	1.65	20	PERTOYLI	Herzschuhetal22	Pollen
-2760	2.25	20	PERTOYLI	Herzschuhetal22	Pollen
-3060	2.55	20	PERTOYLI	Herzschuhetal22	Pollen
-3350	2.45	20	PERTOYLI	Herzschuhetal22	Pollen
-3620	0.65	20	PERTOYLI	Herzschuhetal22	Pollen
-3850	1.45	20	PERTOYLI	Herzschuhetal22	Pollen
-4080	-0.45	20	PERTOYLI	Herzschuhetal22	Pollen
-4310	2.15	20	PERTOYLI	Herzschuhetal22	Pollen
-4560	1.15	20	PERTOYLI	Herzschuhetal22	Pollen
-4800	0.95	20	PERTOYLI	Herzschuhetal22	Pollen
-5040	0.95	20	PERTOYLI	Herzschuhetal22	Pollen
-5400	2.75	20	PERTOYLI	Herzschuhetal22	Pollen
--50	0	21	PIERIA	Herzschuhetal22	Pollen
-70	0.1	21	PIERIA	Herzschuhetal22	Pollen
-200	0.7	21	PIERIA	Herzschuhetal22	Pollen
-330	0	21	PIERIA	Herzschuhetal22	Pollen
-460	0.5	21	PIERIA	Herzschuhetal22	Pollen
-590	0	21	PIERIA	Herzschuhetal22	Pollen
-760	0.6	21	PIERIA	Herzschuhetal22	Pollen
-930	0.3	21	PIERIA	Herzschuhetal22	Pollen
-1100	0.3	21	PIERIA	Herzschuhetal22	Pollen
-1280	-0.5	21	PIERIA	Herzschuhetal22	Pollen
-1460	0.5	21	PIERIA	Herzschuhetal22	Pollen
-1630	0.2	21	PIERIA	Herzschuhetal22	Pollen
-1800	0.4	21	PIERIA	Herzschuhetal22	Pollen
-1970	1	21	PIERIA	Herzschuhetal22	Pollen
-2120	1.2	21	PIERIA	Herzschuhetal22	Pollen
-2270	0.8	21	PIERIA	Herzschuhetal22	Pollen
--50	0	22	KHIMAIII	Herzschuhetal22	Pollen
-130	1.1	22	KHIMAIII	Herzschuhetal22	Pollen
-480	0.8	22	KHIMAIII	Herzschuhetal22	Pollen
-700	1.1	22	KHIMAIII	Herzschuhetal22	Pollen
-1030	0.8	22	KHIMAIII	Herzschuhetal22	Pollen
-1270	2.4	22	KHIMAIII	Herzschuhetal22	Pollen
-1490	1.9	22	KHIMAIII	Herzschuhetal22	Pollen
-1710	1.5	22	KHIMAIII	Herzschuhetal22	Pollen
-1940	2.4	22	KHIMAIII	Herzschuhetal22	Pollen
-2170	1.4	22	KHIMAIII	Herzschuhetal22	Pollen
-2390	2	22	KHIMAIII	Herzschuhetal22	Pollen
-2730	1.8	22	KHIMAIII	Herzschuhetal22	Pollen
-2940	2.3	22	KHIMAIII	Herzschuhetal22	Pollen
-3250	1.9	22	KHIMAIII	Herzschuhetal22	Pollen
-3610	1	22	KHIMAIII	Herzschuhetal22	Pollen
-5300	1.5	22	KHIMAIII	Herzschuhetal22	Pollen
-7150	0.3	22	KHIMAIII	Herzschuhetal22	Pollen
-8150	1.5	22	KHIMAIII	Herzschuhetal22	Pollen
-8900	0.9	22	KHIMAIII	Herzschuhetal22	Pollen
-9290	0.4	22	KHIMAIII	Herzschuhetal22	Pollen
-10	0	23	ORETSG25	Herzschuhetal22	Pollen
-110	1.8	23	ORETSG25	Herzschuhetal22	Pollen
-220	0.8	23	ORETSG25	Herzschuhetal22	Pollen
-320	0.7	23	ORETSG25	Herzschuhetal22	Pollen
-400	3.7	23	ORETSG25	Herzschuhetal22	Pollen
-480	1.5	23	ORETSG25	Herzschuhetal22	Pollen
-660	1	23	ORETSG25	Herzschuhetal22	Pollen
-730	-1.5	23	ORETSG25	Herzschuhetal22	Pollen
-840	1.7	23	ORETSG25	Herzschuhetal22	Pollen
-910	-1.3	23	ORETSG25	Herzschuhetal22	Pollen
-1000	0.1	23	ORETSG25	Herzschuhetal22	Pollen
-1080	1.4	23	ORETSG25	Herzschuhetal22	Pollen
-1160	0.3	23	ORETSG25	Herzschuhetal22	Pollen
-1250	2.8	23	ORETSG25	Herzschuhetal22	Pollen
-1330	2.1	23	ORETSG25	Herzschuhetal22	Pollen
-1420	3.1	23	ORETSG25	Herzschuhetal22	Pollen
-1530	-0.3	23	ORETSG25	Herzschuhetal22	Pollen
-1640	2.2	23	ORETSG25	Herzschuhetal22	Pollen
-1750	3.1	23	ORETSG25	Herzschuhetal22	Pollen
-1860	2.7	23	ORETSG25	Herzschuhetal22	Pollen
-2050	-0.7	23	ORETSG25	Herzschuhetal22	Pollen
-2430	1.5	23	ORETSG25	Herzschuhetal22	Pollen
-2730	1.9	23	ORETSG25	Herzschuhetal22	Pollen
-3330	3.2	23	ORETSG25	Herzschuhetal22	Pollen
-3780	2.1	23	ORETSG25	Herzschuhetal22	Pollen
-4310	2.2	23	ORETSG25	Herzschuhetal22	Pollen
-4720	2.7	23	ORETSG25	Herzschuhetal22	Pollen
-4820	2.7	23	ORETSG25	Herzschuhetal22	Pollen
-4920	2.4	23	ORETSG25	Herzschuhetal22	Pollen
-5020	2.8	23	ORETSG25	Herzschuhetal22	Pollen
-5120	4.3	23	ORETSG25	Herzschuhetal22	Pollen
-5190	2.6	23	ORETSG25	Herzschuhetal22	Pollen
-5290	4	23	ORETSG25	Herzschuhetal22	Pollen
-5420	1.4	23	ORETSG25	Herzschuhetal22	Pollen
-5540	2.2	23	ORETSG25	Herzschuhetal22	Pollen
-5650	2.1	23	ORETSG25	Herzschuhetal22	Pollen
-5750	2.2	23	ORETSG25	Herzschuhetal22	Pollen
-5830	0.8	23	ORETSG25	Herzschuhetal22	Pollen
-5860	2	23	ORETSG25	Herzschuhetal22	Pollen
-5950	1.6	23	ORETSG25	Herzschuhetal22	Pollen
-6060	3.3	23	ORETSG25	Herzschuhetal22	Pollen
-6180	3	23	ORETSG25	Herzschuhetal22	Pollen
-6300	4	23	ORETSG25	Herzschuhetal22	Pollen
-6430	2.8	23	ORETSG25	Herzschuhetal22	Pollen
-6570	4.4	23	ORETSG25	Herzschuhetal22	Pollen
-6690	3.4	23	ORETSG25	Herzschuhetal22	Pollen
-6750	2.1	23	ORETSG25	Herzschuhetal22	Pollen
-6840	2.5	23	ORETSG25	Herzschuhetal22	Pollen
-6940	2.9	23	ORETSG25	Herzschuhetal22	Pollen
-6980	2.2	23	ORETSG25	Herzschuhetal22	Pollen
-7020	4.9	23	ORETSG25	Herzschuhetal22	Pollen
-7050	0.6	23	ORETSG25	Herzschuhetal22	Pollen
-7080	2.8	23	ORETSG25	Herzschuhetal22	Pollen
-7110	0.9	23	ORETSG25	Herzschuhetal22	Pollen
-7140	2.6	23	ORETSG25	Herzschuhetal22	Pollen
-7160	2.1	23	ORETSG25	Herzschuhetal22	Pollen
-7190	3.5	23	ORETSG25	Herzschuhetal22	Pollen
-7210	2.8	23	ORETSG25	Herzschuhetal22	Pollen
-7230	1.8	23	ORETSG25	Herzschuhetal22	Pollen
-7250	2.2	23	ORETSG25	Herzschuhetal22	Pollen
-7280	-1.7	23	ORETSG25	Herzschuhetal22	Pollen
-7300	-0.7	23	ORETSG25	Herzschuhetal22	Pollen
-7320	1.7	23	ORETSG25	Herzschuhetal22	Pollen
-7350	-1.8	23	ORETSG25	Herzschuhetal22	Pollen
-7370	-0.2	23	ORETSG25	Herzschuhetal22	Pollen
-7420	1.9	23	ORETSG25	Herzschuhetal22	Pollen
-7460	0.2	23	ORETSG25	Herzschuhetal22	Pollen
-7540	3.4	23	ORETSG25	Herzschuhetal22	Pollen
-7660	2.7	23	ORETSG25	Herzschuhetal22	Pollen
-7720	0.1	23	ORETSG25	Herzschuhetal22	Pollen
-7940	2.5	23	ORETSG25	Herzschuhetal22	Pollen
-8430	1.2	23	ORETSG25	Herzschuhetal22	Pollen
-8510	2.8	23	ORETSG25	Herzschuhetal22	Pollen
-8580	1.9	23	ORETSG25	Herzschuhetal22	Pollen
-8650	2.5	23	ORETSG25	Herzschuhetal22	Pollen
-8740	2.4	23	ORETSG25	Herzschuhetal22	Pollen
-8790	2.8	23	ORETSG25	Herzschuhetal22	Pollen
-8840	3.1	23	ORETSG25	Herzschuhetal22	Pollen
-8900	1.7	23	ORETSG25	Herzschuhetal22	Pollen
-8930	3.1	23	ORETSG25	Herzschuhetal22	Pollen
-9050	4.3	23	ORETSG25	Herzschuhetal22	Pollen
-9150	1.8	23	ORETSG25	Herzschuhetal22	Pollen
--60	0.7	24	RHODOPI	Herzschuhetal22	Pollen
-50	-0.7	24	RHODOPI	Herzschuhetal22	Pollen
-170	1	24	RHODOPI	Herzschuhetal22	Pollen
-290	0.9	24	RHODOPI	Herzschuhetal22	Pollen
-410	1.4	24	RHODOPI	Herzschuhetal22	Pollen
-520	1.1	24	RHODOPI	Herzschuhetal22	Pollen
-680	0.4	24	RHODOPI	Herzschuhetal22	Pollen
-880	0.6	24	RHODOPI	Herzschuhetal22	Pollen
-1110	1.3	24	RHODOPI	Herzschuhetal22	Pollen
-1340	1.3	24	RHODOPI	Herzschuhetal22	Pollen
-1570	1.2	24	RHODOPI	Herzschuhetal22	Pollen
-1800	0.9	24	RHODOPI	Herzschuhetal22	Pollen
-2030	1.3	24	RHODOPI	Herzschuhetal22	Pollen
-2270	0.6	24	RHODOPI	Herzschuhetal22	Pollen
-2500	-0.6	24	RHODOPI	Herzschuhetal22	Pollen
-2730	0.3	24	RHODOPI	Herzschuhetal22	Pollen
-2960	0.8	24	RHODOPI	Herzschuhetal22	Pollen
-3180	1.1	24	RHODOPI	Herzschuhetal22	Pollen
-3420	0.9	24	RHODOPI	Herzschuhetal22	Pollen
-3620	0.7	24	RHODOPI	Herzschuhetal22	Pollen
-20	0	25	EDESSA	Herzschuhetal22	Pollen
-270	1	25	EDESSA	Herzschuhetal22	Pollen
-460	0.5	25	EDESSA	Herzschuhetal22	Pollen
-830	0.6	25	EDESSA	Herzschuhetal22	Pollen
-1200	1.8	25	EDESSA	Herzschuhetal22	Pollen
-1390	0.1	25	EDESSA	Herzschuhetal22	Pollen
-1760	1.2	25	EDESSA	Herzschuhetal22	Pollen
-2120	0.5	25	EDESSA	Herzschuhetal22	Pollen
-2480	1.8	25	EDESSA	Herzschuhetal22	Pollen
-2860	1.4	25	EDESSA	Herzschuhetal22	Pollen
-3040	1.4	25	EDESSA	Herzschuhetal22	Pollen
-3400	1.2	25	EDESSA	Herzschuhetal22	Pollen
-3740	0.7	25	EDESSA	Herzschuhetal22	Pollen
-4120	1.4	25	EDESSA	Herzschuhetal22	Pollen
-4520	1.3	25	EDESSA	Herzschuhetal22	Pollen
-4940	1.2	25	EDESSA	Herzschuhetal22	Pollen
-5350	0.7	25	EDESSA	Herzschuhetal22	Pollen
-5450	1.2	25	EDESSA	Herzschuhetal22	Pollen
-5930	2.1	25	EDESSA	Herzschuhetal22	Pollen
-6060	1.9	25	EDESSA	Herzschuhetal22	Pollen
-6260	1.1	25	EDESSA	Herzschuhetal22	Pollen
-6460	3.2	25	EDESSA	Herzschuhetal22	Pollen
-6670	1.8	25	EDESSA	Herzschuhetal22	Pollen
-6830	2.3	25	EDESSA	Herzschuhetal22	Pollen
-7080	1.4	25	EDESSA	Herzschuhetal22	Pollen
-7440	3.3	25	EDESSA	Herzschuhetal22	Pollen
-8000	2.3	25	EDESSA	Herzschuhetal22	Pollen
-8740	2.5	25	EDESSA	Herzschuhetal22	Pollen
-9190	4	25	EDESSA	Herzschuhetal22	Pollen
-9360	3.6	25	EDESSA	Herzschuhetal22	Pollen
-9690	2.6	25	EDESSA	Herzschuhetal22	Pollen
-10030	2.3	25	EDESSA	Herzschuhetal22	Pollen
--60	0.15	26	VORAS	Herzschuhetal22	Pollen
-40	-0.15	26	VORAS	Herzschuhetal22	Pollen
-170	-0.85	26	VORAS	Herzschuhetal22	Pollen
-290	0.95	26	VORAS	Herzschuhetal22	Pollen
-420	-0.35	26	VORAS	Herzschuhetal22	Pollen
-550	0.85	26	VORAS	Herzschuhetal22	Pollen
-670	0.45	26	VORAS	Herzschuhetal22	Pollen
-800	-0.05	26	VORAS	Herzschuhetal22	Pollen
-920	-0.05	26	VORAS	Herzschuhetal22	Pollen
-1040	1.15	26	VORAS	Herzschuhetal22	Pollen
-1160	1.95	26	VORAS	Herzschuhetal22	Pollen
-1310	-0.75	26	VORAS	Herzschuhetal22	Pollen
-1610	0.25	26	VORAS	Herzschuhetal22	Pollen
-1890	0.85	26	VORAS	Herzschuhetal22	Pollen
-2110	0.75	26	VORAS	Herzschuhetal22	Pollen
-2580	1.65	26	VORAS	Herzschuhetal22	Pollen
-3320	-0.25	26	VORAS	Herzschuhetal22	Pollen
-4010	0.35	26	VORAS	Herzschuhetal22	Pollen
-4720	-0.35	26	VORAS	Herzschuhetal22	Pollen
-5450	-0.55	26	VORAS	Herzschuhetal22	Pollen
-6160	-0.05	26	VORAS	Herzschuhetal22	Pollen
-6450	-0.45	26	VORAS	Herzschuhetal22	Pollen
-6770	0.45	26	VORAS	Herzschuhetal22	Pollen
-6880	0.85	26	VORAS	Herzschuhetal22	Pollen
-7100	0.45	26	VORAS	Herzschuhetal22	Pollen
--40	0	27	PAIKO	Herzschuhetal22	Pollen
-120	-1.2	27	PAIKO	Herzschuhetal22	Pollen
-320	-1.1	27	PAIKO	Herzschuhetal22	Pollen
-440	-0.8	27	PAIKO	Herzschuhetal22	Pollen
-520	-2.2	27	PAIKO	Herzschuhetal22	Pollen
-720	-2	27	PAIKO	Herzschuhetal22	Pollen
-830	-2.3	27	PAIKO	Herzschuhetal22	Pollen
-930	-3.2	27	PAIKO	Herzschuhetal22	Pollen
-1130	-2.4	27	PAIKO	Herzschuhetal22	Pollen
-1330	-1.7	27	PAIKO	Herzschuhetal22	Pollen
-1420	-1.7	27	PAIKO	Herzschuhetal22	Pollen
-1510	-1.6	27	PAIKO	Herzschuhetal22	Pollen
-1650	-1.1	27	PAIKO	Herzschuhetal22	Pollen
-1770	-1.8	27	PAIKO	Herzschuhetal22	Pollen
-1850	-2.4	27	PAIKO	Herzschuhetal22	Pollen
-2010	-1.5	27	PAIKO	Herzschuhetal22	Pollen
-2180	-1.3	27	PAIKO	Herzschuhetal22	Pollen
-2350	-1.2	27	PAIKO	Herzschuhetal22	Pollen
-2510	-1.9	27	PAIKO	Herzschuhetal22	Pollen
-2560	-2.8	27	PAIKO	Herzschuhetal22	Pollen
-2620	-1.4	27	PAIKO	Herzschuhetal22	Pollen
-2730	-2.3	27	PAIKO	Herzschuhetal22	Pollen
-2830	-2.9	27	PAIKO	Herzschuhetal22	Pollen
-2950	-1.5	27	PAIKO	Herzschuhetal22	Pollen
-3000	-1.6	27	PAIKO	Herzschuhetal22	Pollen
-3130	-1.3	27	PAIKO	Herzschuhetal22	Pollen
--60	0	28	GYOLA	Herzschuhetal22	Pollen
-100	-0.1	28	GYOLA	Herzschuhetal22	Pollen
-300	-0.5	28	GYOLA	Herzschuhetal22	Pollen
-500	0.6	28	GYOLA	Herzschuhetal22	Pollen
-690	1	28	GYOLA	Herzschuhetal22	Pollen
-780	0.3	28	GYOLA	Herzschuhetal22	Pollen
-820	0.9	28	GYOLA	Herzschuhetal22	Pollen
-920	1.7	28	GYOLA	Herzschuhetal22	Pollen
-960	0.8	28	GYOLA	Herzschuhetal22	Pollen
-1060	0.2	28	GYOLA	Herzschuhetal22	Pollen
-1230	0.3	28	GYOLA	Herzschuhetal22	Pollen
-1320	0.6	28	GYOLA	Herzschuhetal22	Pollen
-2460	0.9	28	GYOLA	Herzschuhetal22	Pollen
-3440	1.2	28	GYOLA	Herzschuhetal22	Pollen
-4420	0.9	28	GYOLA	Herzschuhetal22	Pollen
-5710	2.4	28	GYOLA	Herzschuhetal22	Pollen
-6720	1.1	28	GYOLA	Herzschuhetal22	Pollen
-7660	3.2	28	GYOLA	Herzschuhetal22	Pollen
-8070	2.1	28	GYOLA	Herzschuhetal22	Pollen
--50	0	29	A159	Herzschuhetal22	Pollen
-690	-0.6	29	A159	Herzschuhetal22	Pollen
-1590	-0.5	29	A159	Herzschuhetal22	Pollen
-2470	-0.1	29	A159	Herzschuhetal22	Pollen
-3280	-0.6	29	A159	Herzschuhetal22	Pollen
-4080	0.3	29	A159	Herzschuhetal22	Pollen
-5060	0	29	A159	Herzschuhetal22	Pollen
-5520	0.6	29	A159	Herzschuhetal22	Pollen
-6880	0.1	29	A159	Herzschuhetal22	Pollen
-7480	1	29	A159	Herzschuhetal22	Pollen
-7800	-0.2	29	A159	Herzschuhetal22	Pollen
-8140	0.2	29	A159	Herzschuhetal22	Pollen
-8490	-0.2	29	A159	Herzschuhetal22	Pollen
-8840	0.5	29	A159	Herzschuhetal22	Pollen
-9190	-0.1	29	A159	Herzschuhetal22	Pollen
-9540	-1	29	A159	Herzschuhetal22	Pollen
-9890	0.9	29	A159	Herzschuhetal22	Pollen
-50	0	30	AR1	Herzschuhetal22	Pollen
-100	0.3	30	AR1	Herzschuhetal22	Pollen
-380	1.3	30	AR1	Herzschuhetal22	Pollen
-500	0.5	30	AR1	Herzschuhetal22	Pollen
-690	1.3	30	AR1	Herzschuhetal22	Pollen
-880	-0.5	30	AR1	Herzschuhetal22	Pollen
-1120	1.6	30	AR1	Herzschuhetal22	Pollen
-1300	0.4	30	AR1	Herzschuhetal22	Pollen
-1450	2.1	30	AR1	Herzschuhetal22	Pollen
-1610	0.6	30	AR1	Herzschuhetal22	Pollen
-1760	0.1	30	AR1	Herzschuhetal22	Pollen
-2080	0.7	30	AR1	Herzschuhetal22	Pollen
-2380	1.4	30	AR1	Herzschuhetal22	Pollen
-2680	1	30	AR1	Herzschuhetal22	Pollen
-2980	0.1	30	AR1	Herzschuhetal22	Pollen
-3400	2.9	30	AR1	Herzschuhetal22	Pollen
-3560	1.6	30	AR1	Herzschuhetal22	Pollen
-3720	1.3	30	AR1	Herzschuhetal22	Pollen
-3880	1.6	30	AR1	Herzschuhetal22	Pollen
-4040	1.6	30	AR1	Herzschuhetal22	Pollen
-4210	2.1	30	AR1	Herzschuhetal22	Pollen
-4370	1.9	30	AR1	Herzschuhetal22	Pollen
-4540	0.4	30	AR1	Herzschuhetal22	Pollen
-4720	2.8	30	AR1	Herzschuhetal22	Pollen
-4880	2.5	30	AR1	Herzschuhetal22	Pollen
-4980	2.4	30	AR1	Herzschuhetal22	Pollen
-5070	3	30	AR1	Herzschuhetal22	Pollen
-5160	0.8	30	AR1	Herzschuhetal22	Pollen
-5260	1.7	30	AR1	Herzschuhetal22	Pollen
-5350	2.1	30	AR1	Herzschuhetal22	Pollen
-5450	2	30	AR1	Herzschuhetal22	Pollen
-5540	1.5	30	AR1	Herzschuhetal22	Pollen
-5650	0.9	30	AR1	Herzschuhetal22	Pollen
-5750	1	30	AR1	Herzschuhetal22	Pollen
-5840	1.1	30	AR1	Herzschuhetal22	Pollen
-5940	2.1	30	AR1	Herzschuhetal22	Pollen
-6030	2.3	30	AR1	Herzschuhetal22	Pollen
-6120	2.6	30	AR1	Herzschuhetal22	Pollen
-6220	0.2	30	AR1	Herzschuhetal22	Pollen
-6320	2.4	30	AR1	Herzschuhetal22	Pollen
-6390	2.4	30	AR1	Herzschuhetal22	Pollen
-6450	1.3	30	AR1	Herzschuhetal22	Pollen
-6520	2.2	30	AR1	Herzschuhetal22	Pollen
-6590	0.7	30	AR1	Herzschuhetal22	Pollen
-6700	0.7	30	AR1	Herzschuhetal22	Pollen
-6780	1.7	30	AR1	Herzschuhetal22	Pollen
-6970	0.7	30	AR1	Herzschuhetal22	Pollen
-7410	0.7	30	AR1	Herzschuhetal22	Pollen
-7600	-1.2	30	AR1	Herzschuhetal22	Pollen
-7760	-3.7	30	AR1	Herzschuhetal22	Pollen
-7910	-2.5	30	AR1	Herzschuhetal22	Pollen
-50	0	31	AR2	Herzschuhetal22	Pollen
-330	1.4	31	AR2	Herzschuhetal22	Pollen
-610	3.5	31	AR2	Herzschuhetal22	Pollen
-920	2.4	31	AR2	Herzschuhetal22	Pollen
-1370	1.5	31	AR2	Herzschuhetal22	Pollen
-1700	2.4	31	AR2	Herzschuhetal22	Pollen
-1850	7.4	31	AR2	Herzschuhetal22	Pollen
-2240	3	31	AR2	Herzschuhetal22	Pollen
-2400	1.2	31	AR2	Herzschuhetal22	Pollen
-2700	1.5	31	AR2	Herzschuhetal22	Pollen
-2900	6	31	AR2	Herzschuhetal22	Pollen
-3040	3.4	31	AR2	Herzschuhetal22	Pollen
-3230	1.7	31	AR2	Herzschuhetal22	Pollen
-3640	6.3	31	AR2	Herzschuhetal22	Pollen
-3870	2.4	31	AR2	Herzschuhetal22	Pollen
-4210	3.3	31	AR2	Herzschuhetal22	Pollen
-4460	1.4	31	AR2	Herzschuhetal22	Pollen
-4750	1.3	31	AR2	Herzschuhetal22	Pollen
-4950	1	31	AR2	Herzschuhetal22	Pollen
-5300	0.4	31	AR2	Herzschuhetal22	Pollen
-5550	1.8	31	AR2	Herzschuhetal22	Pollen
-5810	0.9	31	AR2	Herzschuhetal22	Pollen
-5880	0.4	31	AR2	Herzschuhetal22	Pollen
-5920	0.1	31	AR2	Herzschuhetal22	Pollen
-5960	0.5	31	AR2	Herzschuhetal22	Pollen
-5990	0.5	31	AR2	Herzschuhetal22	Pollen
-6030	0.3	31	AR2	Herzschuhetal22	Pollen
-6060	4.2	31	AR2	Herzschuhetal22	Pollen
-6090	-0.3	31	AR2	Herzschuhetal22	Pollen
-6130	-0.1	31	AR2	Herzschuhetal22	Pollen
-6140	0.7	31	AR2	Herzschuhetal22	Pollen
-6150	-0.7	31	AR2	Herzschuhetal22	Pollen
-6170	1.8	31	AR2	Herzschuhetal22	Pollen
-6180	1	31	AR2	Herzschuhetal22	Pollen
-6200	0.7	31	AR2	Herzschuhetal22	Pollen
-6220	1.6	31	AR2	Herzschuhetal22	Pollen
-6260	2.5	31	AR2	Herzschuhetal22	Pollen
-6280	0.6	31	AR2	Herzschuhetal22	Pollen
-6320	2.3	31	AR2	Herzschuhetal22	Pollen
-6360	1.1	31	AR2	Herzschuhetal22	Pollen
-6390	1.9	31	AR2	Herzschuhetal22	Pollen
-6420	-0.6	31	AR2	Herzschuhetal22	Pollen
-6450	-1.1	31	AR2	Herzschuhetal22	Pollen
-6490	2.3	31	AR2	Herzschuhetal22	Pollen
-6510	1.1	31	AR2	Herzschuhetal22	Pollen
-6550	1	31	AR2	Herzschuhetal22	Pollen
-6590	0.5	31	AR2	Herzschuhetal22	Pollen
-6610	0.3	31	AR2	Herzschuhetal22	Pollen
-6640	1.7	31	AR2	Herzschuhetal22	Pollen
-6680	-0.3	31	AR2	Herzschuhetal22	Pollen
-6710	1.7	31	AR2	Herzschuhetal22	Pollen
-6740	2.6	31	AR2	Herzschuhetal22	Pollen
-6770	1.4	31	AR2	Herzschuhetal22	Pollen
-6810	1.3	31	AR2	Herzschuhetal22	Pollen
-6860	0.7	31	AR2	Herzschuhetal22	Pollen
-6890	1.5	31	AR2	Herzschuhetal22	Pollen
-6930	1.2	31	AR2	Herzschuhetal22	Pollen
-6960	2.1	31	AR2	Herzschuhetal22	Pollen
-6980	0.6	31	AR2	Herzschuhetal22	Pollen
-7010	0.9	31	AR2	Herzschuhetal22	Pollen
-7050	1.2	31	AR2	Herzschuhetal22	Pollen
-7080	2.6	31	AR2	Herzschuhetal22	Pollen
-7110	2.4	31	AR2	Herzschuhetal22	Pollen
-7150	0.6	31	AR2	Herzschuhetal22	Pollen
-7210	0.6	31	AR2	Herzschuhetal22	Pollen
-7260	0.9	31	AR2	Herzschuhetal22	Pollen
-7310	1	31	AR2	Herzschuhetal22	Pollen
-7360	0.9	31	AR2	Herzschuhetal22	Pollen
-7470	-0.8	31	AR2	Herzschuhetal22	Pollen
-7560	1	31	AR2	Herzschuhetal22	Pollen
-7660	2.3	31	AR2	Herzschuhetal22	Pollen
-7750	1.2	31	AR2	Herzschuhetal22	Pollen
-7840	0.9	31	AR2	Herzschuhetal22	Pollen
--60	-0.56	32	BLATISTO	Herzschuhetal22	Pollen
--40	0.24	32	BLATISTO	Herzschuhetal22	Pollen
--20	-0.16	32	BLATISTO	Herzschuhetal22	Pollen
-10	0.44	32	BLATISTO	Herzschuhetal22	Pollen
-50	0.04	32	BLATISTO	Herzschuhetal22	Pollen
-70	-0.06	32	BLATISTO	Herzschuhetal22	Pollen
-90	1.24	32	BLATISTO	Herzschuhetal22	Pollen
-120	-0.16	32	BLATISTO	Herzschuhetal22	Pollen
-140	-2.16	32	BLATISTO	Herzschuhetal22	Pollen
-180	-0.96	32	BLATISTO	Herzschuhetal22	Pollen
-210	-1.66	32	BLATISTO	Herzschuhetal22	Pollen
-230	-0.86	32	BLATISTO	Herzschuhetal22	Pollen
-270	-0.96	32	BLATISTO	Herzschuhetal22	Pollen
-280	-0.46	32	BLATISTO	Herzschuhetal22	Pollen
-300	-0.66	32	BLATISTO	Herzschuhetal22	Pollen
-320	-0.66	32	BLATISTO	Herzschuhetal22	Pollen
-340	-0.46	32	BLATISTO	Herzschuhetal22	Pollen
-360	-1.56	32	BLATISTO	Herzschuhetal22	Pollen
-380	-0.26	32	BLATISTO	Herzschuhetal22	Pollen
-390	0.54	32	BLATISTO	Herzschuhetal22	Pollen
-420	-0.06	32	BLATISTO	Herzschuhetal22	Pollen
-430	1.14	32	BLATISTO	Herzschuhetal22	Pollen
-440	0.04	32	BLATISTO	Herzschuhetal22	Pollen
-460	0.64	32	BLATISTO	Herzschuhetal22	Pollen
-470	-0.06	32	BLATISTO	Herzschuhetal22	Pollen
-470	-0.66	32	BLATISTO	Herzschuhetal22	Pollen
-480	0.04	32	BLATISTO	Herzschuhetal22	Pollen
-490	0.04	32	BLATISTO	Herzschuhetal22	Pollen
-500	-0.46	32	BLATISTO	Herzschuhetal22	Pollen
-500	-0.96	32	BLATISTO	Herzschuhetal22	Pollen
-510	0.34	32	BLATISTO	Herzschuhetal22	Pollen
-520	0.34	32	BLATISTO	Herzschuhetal22	Pollen
-530	2.24	32	BLATISTO	Herzschuhetal22	Pollen
-530	1.14	32	BLATISTO	Herzschuhetal22	Pollen
-540	-0.46	32	BLATISTO	Herzschuhetal22	Pollen
-550	1.04	32	BLATISTO	Herzschuhetal22	Pollen
-560	0.34	32	BLATISTO	Herzschuhetal22	Pollen
-560	-0.06	32	BLATISTO	Herzschuhetal22	Pollen
-570	1.94	32	BLATISTO	Herzschuhetal22	Pollen
-580	1.64	32	BLATISTO	Herzschuhetal22	Pollen
-580	0.44	32	BLATISTO	Herzschuhetal22	Pollen
-590	-0.36	32	BLATISTO	Herzschuhetal22	Pollen
-590	-0.66	32	BLATISTO	Herzschuhetal22	Pollen
-600	0.24	32	BLATISTO	Herzschuhetal22	Pollen
-610	-0.86	32	BLATISTO	Herzschuhetal22	Pollen
-620	0.44	32	BLATISTO	Herzschuhetal22	Pollen
-620	-0.36	32	BLATISTO	Herzschuhetal22	Pollen
-630	-0.36	32	BLATISTO	Herzschuhetal22	Pollen
-640	-0.16	32	BLATISTO	Herzschuhetal22	Pollen
-650	0.74	32	BLATISTO	Herzschuhetal22	Pollen
-660	0.54	32	BLATISTO	Herzschuhetal22	Pollen
-670	0.44	32	BLATISTO	Herzschuhetal22	Pollen
-680	-0.46	32	BLATISTO	Herzschuhetal22	Pollen
-690	0.14	32	BLATISTO	Herzschuhetal22	Pollen
-690	0.24	32	BLATISTO	Herzschuhetal22	Pollen
-700	0.34	32	BLATISTO	Herzschuhetal22	Pollen
-710	0.74	32	BLATISTO	Herzschuhetal22	Pollen
-720	-1.16	32	BLATISTO	Herzschuhetal22	Pollen
-730	-1.96	32	BLATISTO	Herzschuhetal22	Pollen
-740	-0.16	32	BLATISTO	Herzschuhetal22	Pollen
-750	0.14	32	BLATISTO	Herzschuhetal22	Pollen
-750	-0.46	32	BLATISTO	Herzschuhetal22	Pollen
-760	0.74	32	BLATISTO	Herzschuhetal22	Pollen
-770	-0.16	32	BLATISTO	Herzschuhetal22	Pollen
-780	-1.36	32	BLATISTO	Herzschuhetal22	Pollen
-790	-0.06	32	BLATISTO	Herzschuhetal22	Pollen
-800	-0.96	32	BLATISTO	Herzschuhetal22	Pollen
-810	-0.26	32	BLATISTO	Herzschuhetal22	Pollen
-810	0.14	32	BLATISTO	Herzschuhetal22	Pollen
-820	-1.46	32	BLATISTO	Herzschuhetal22	Pollen
-830	-0.76	32	BLATISTO	Herzschuhetal22	Pollen
-840	-1.66	32	BLATISTO	Herzschuhetal22	Pollen
-850	-2.16	32	BLATISTO	Herzschuhetal22	Pollen
-860	-0.16	32	BLATISTO	Herzschuhetal22	Pollen
-860	-0.66	32	BLATISTO	Herzschuhetal22	Pollen
-880	-2.16	32	BLATISTO	Herzschuhetal22	Pollen
-880	-0.46	32	BLATISTO	Herzschuhetal22	Pollen
-890	-0.26	32	BLATISTO	Herzschuhetal22	Pollen
-900	-2.16	32	BLATISTO	Herzschuhetal22	Pollen
-910	-0.86	32	BLATISTO	Herzschuhetal22	Pollen
-920	-1.46	32	BLATISTO	Herzschuhetal22	Pollen
-930	-1.56	32	BLATISTO	Herzschuhetal22	Pollen
-940	-1.26	32	BLATISTO	Herzschuhetal22	Pollen
-950	-4.76	32	BLATISTO	Herzschuhetal22	Pollen
-950	-2.96	32	BLATISTO	Herzschuhetal22	Pollen
-960	-1.56	32	BLATISTO	Herzschuhetal22	Pollen
-960	-1.86	32	BLATISTO	Herzschuhetal22	Pollen
-980	-2.56	32	BLATISTO	Herzschuhetal22	Pollen
-980	-1.86	32	BLATISTO	Herzschuhetal22	Pollen
-990	-1.86	32	BLATISTO	Herzschuhetal22	Pollen
-1000	-0.76	32	BLATISTO	Herzschuhetal22	Pollen
-1010	-0.36	32	BLATISTO	Herzschuhetal22	Pollen
-1020	-1.16	32	BLATISTO	Herzschuhetal22	Pollen
-1030	-1.96	32	BLATISTO	Herzschuhetal22	Pollen
-1040	-0.96	32	BLATISTO	Herzschuhetal22	Pollen
-1040	-1.06	32	BLATISTO	Herzschuhetal22	Pollen
-1050	-2.16	32	BLATISTO	Herzschuhetal22	Pollen
-1060	-2.36	32	BLATISTO	Herzschuhetal22	Pollen
-1070	-0.06	32	BLATISTO	Herzschuhetal22	Pollen
-1080	-1.06	32	BLATISTO	Herzschuhetal22	Pollen
-1090	-1.26	32	BLATISTO	Herzschuhetal22	Pollen
-1090	-1.26	32	BLATISTO	Herzschuhetal22	Pollen
-1110	-1.46	32	BLATISTO	Herzschuhetal22	Pollen
-1110	-1.56	32	BLATISTO	Herzschuhetal22	Pollen
-1120	-1.16	32	BLATISTO	Herzschuhetal22	Pollen
-1130	-1.66	32	BLATISTO	Herzschuhetal22	Pollen
-1140	-1.46	32	BLATISTO	Herzschuhetal22	Pollen
-1150	-1.26	32	BLATISTO	Herzschuhetal22	Pollen
-1160	-0.96	32	BLATISTO	Herzschuhetal22	Pollen
-1170	-0.16	32	BLATISTO	Herzschuhetal22	Pollen
-1170	0.84	32	BLATISTO	Herzschuhetal22	Pollen
-1180	-0.66	32	BLATISTO	Herzschuhetal22	Pollen
-1190	-0.06	32	BLATISTO	Herzschuhetal22	Pollen
-1200	0.04	32	BLATISTO	Herzschuhetal22	Pollen
-1210	-0.46	32	BLATISTO	Herzschuhetal22	Pollen
-1220	0.34	32	BLATISTO	Herzschuhetal22	Pollen
-1220	-0.56	32	BLATISTO	Herzschuhetal22	Pollen
-1240	-1.16	32	BLATISTO	Herzschuhetal22	Pollen
-1240	-0.46	32	BLATISTO	Herzschuhetal22	Pollen
-1250	-1.36	32	BLATISTO	Herzschuhetal22	Pollen
-1260	-1.56	32	BLATISTO	Herzschuhetal22	Pollen
-1270	-1.86	32	BLATISTO	Herzschuhetal22	Pollen
-1280	-1.56	32	BLATISTO	Herzschuhetal22	Pollen
-1290	-1.36	32	BLATISTO	Herzschuhetal22	Pollen
-1310	-0.56	32	BLATISTO	Herzschuhetal22	Pollen
-1310	-1.26	32	BLATISTO	Herzschuhetal22	Pollen
-1320	-0.06	32	BLATISTO	Herzschuhetal22	Pollen
-1330	-0.56	32	BLATISTO	Herzschuhetal22	Pollen
-1340	-0.66	32	BLATISTO	Herzschuhetal22	Pollen
-1350	-1.46	32	BLATISTO	Herzschuhetal22	Pollen
-1360	-0.36	32	BLATISTO	Herzschuhetal22	Pollen
-1370	-1.06	32	BLATISTO	Herzschuhetal22	Pollen
-1390	-1.46	32	BLATISTO	Herzschuhetal22	Pollen
-1400	-0.76	32	BLATISTO	Herzschuhetal22	Pollen
-1410	0.24	32	BLATISTO	Herzschuhetal22	Pollen
-1420	-0.56	32	BLATISTO	Herzschuhetal22	Pollen
-1440	-0.26	32	BLATISTO	Herzschuhetal22	Pollen
-1440	-0.36	32	BLATISTO	Herzschuhetal22	Pollen
-1460	-0.16	32	BLATISTO	Herzschuhetal22	Pollen
-1470	0.24	32	BLATISTO	Herzschuhetal22	Pollen
-1490	-1.46	32	BLATISTO	Herzschuhetal22	Pollen
-1500	0.34	32	BLATISTO	Herzschuhetal22	Pollen
--60	-0.45	33	BELIYA2C	Herzschuhetal22	Pollen
-40	0.45	33	BELIYA2C	Herzschuhetal22	Pollen
-160	-1.25	33	BELIYA2C	Herzschuhetal22	Pollen
-280	-0.75	33	BELIYA2C	Herzschuhetal22	Pollen
-390	-0.35	33	BELIYA2C	Herzschuhetal22	Pollen
-540	0.05	33	BELIYA2C	Herzschuhetal22	Pollen
-720	-0.85	33	BELIYA2C	Herzschuhetal22	Pollen
-910	-1.15	33	BELIYA2C	Herzschuhetal22	Pollen
-1110	-1.25	33	BELIYA2C	Herzschuhetal22	Pollen
-1440	-1.55	33	BELIYA2C	Herzschuhetal22	Pollen
-3830	-2.25	33	BELIYA2C	Herzschuhetal22	Pollen
-7320	-0.85	33	BELIYA2C	Herzschuhetal22	Pollen
-7680	-0.85	33	BELIYA2C	Herzschuhetal22	Pollen
-8230	-0.15	33	BELIYA2C	Herzschuhetal22	Pollen
-8710	1.65	33	BELIYA2C	Herzschuhetal22	Pollen
-9270	0.85	33	BELIYA2C	Herzschuhetal22	Pollen
-9910	0.85	33	BELIYA2C	Herzschuhetal22	Pollen
+age_BP,T_anomaly,Code,Location,Reference,Proxy_type
+513,-1.53,1,HalaSultan,Kaniewskietal2020,Pollen
+537,-1.28,1,HalaSultan,Kaniewskietal2020,Pollen
+562,-0.07,1,HalaSultan,Kaniewskietal2020,Pollen
+592,-0.08,1,HalaSultan,Kaniewskietal2020,Pollen
+623,-1.58,1,HalaSultan,Kaniewskietal2020,Pollen
+675,0.72,1,HalaSultan,Kaniewskietal2020,Pollen
+691,-0.17,1,HalaSultan,Kaniewskietal2020,Pollen
+710,0.4,1,HalaSultan,Kaniewskietal2020,Pollen
+730,-0.42,1,HalaSultan,Kaniewskietal2020,Pollen
+842,-0.97,1,HalaSultan,Kaniewskietal2020,Pollen
+955,-0.41,1,HalaSultan,Kaniewskietal2020,Pollen
+1067,0.62,1,HalaSultan,Kaniewskietal2020,Pollen
+1123,0.82,1,HalaSultan,Kaniewskietal2020,Pollen
+1179,-0.13,1,HalaSultan,Kaniewskietal2020,Pollen
+1404,-1.03,1,HalaSultan,Kaniewskietal2020,Pollen
+1685,-0.79,1,HalaSultan,Kaniewskietal2020,Pollen
+1741,-1.73,1,HalaSultan,Kaniewskietal2020,Pollen
+1853,-0.8,1,HalaSultan,Kaniewskietal2020,Pollen
+1966,-0.61,1,HalaSultan,Kaniewskietal2020,Pollen
+2078,-0.8,1,HalaSultan,Kaniewskietal2020,Pollen
+2190,-0.22,1,HalaSultan,Kaniewskietal2020,Pollen
+2303,-0.86,1,HalaSultan,Kaniewskietal2020,Pollen
+2415,0.79,1,HalaSultan,Kaniewskietal2020,Pollen
+2527,-0.14,1,HalaSultan,Kaniewskietal2020,Pollen
+2584,-0.43,1,HalaSultan,Kaniewskietal2020,Pollen
+2640,-0.22,1,HalaSultan,Kaniewskietal2020,Pollen
+2707,-0.25,1,HalaSultan,Kaniewskietal2020,Pollen
+2741,0.13,1,HalaSultan,Kaniewskietal2020,Pollen
+2808,-1.08,1,HalaSultan,Kaniewskietal2020,Pollen
+2864,-2.33,1,HalaSultan,Kaniewskietal2020,Pollen
+2943,-0.58,1,HalaSultan,Kaniewskietal2020,Pollen
+2977,-0.79,1,HalaSultan,Kaniewskietal2020,Pollen
+3201,-2.55,1,HalaSultan,Kaniewskietal2020,Pollen
+3258,0.27,1,HalaSultan,Kaniewskietal2020,Pollen
+3290,-0.05,1,HalaSultan,Kaniewskietal2020,Pollen
+3308,0.7,1,HalaSultan,Kaniewskietal2020,Pollen
+3325,-0.5,1,HalaSultan,Kaniewskietal2020,Pollen
+3343,0.34,1,HalaSultan,Kaniewskietal2020,Pollen
+3360,1.15,1,HalaSultan,Kaniewskietal2020,Pollen
+3378,1.24,1,HalaSultan,Kaniewskietal2020,Pollen
+3395,0.97,1,HalaSultan,Kaniewskietal2020,Pollen
+3413,0.46,1,HalaSultan,Kaniewskietal2020,Pollen
+3430,1.41,1,HalaSultan,Kaniewskietal2020,Pollen
+3448,1.31,1,HalaSultan,Kaniewskietal2020,Pollen
+3465,0.53,1,HalaSultan,Kaniewskietal2020,Pollen
+3483,0.17,1,HalaSultan,Kaniewskietal2020,Pollen
+3500,0.38,1,HalaSultan,Kaniewskietal2020,Pollen
+3513,-0.04,1,HalaSultan,Kaniewskietal2020,Pollen
+3527,0.22,1,HalaSultan,Kaniewskietal2020,Pollen
+3540,1.04,1,HalaSultan,Kaniewskietal2020,Pollen
+3581,0.98,1,HalaSultan,Kaniewskietal2020,Pollen
+3622,0.22,1,HalaSultan,Kaniewskietal2020,Pollen
+3663,-0.06,1,HalaSultan,Kaniewskietal2020,Pollen
+3704,0.32,1,HalaSultan,Kaniewskietal2020,Pollen
+3746,-0.18,1,HalaSultan,Kaniewskietal2020,Pollen
+3787,0.52,1,HalaSultan,Kaniewskietal2020,Pollen
+3828,0.34,1,HalaSultan,Kaniewskietal2020,Pollen
+3869,0.72,1,HalaSultan,Kaniewskietal2020,Pollen
+3910,0.21,1,HalaSultan,Kaniewskietal2020,Pollen
+3961,-0.99,1,HalaSultan,Kaniewskietal2020,Pollen
+4011,-1.73,1,HalaSultan,Kaniewskietal2020,Pollen
+4062,-1.96,1,HalaSultan,Kaniewskietal2020,Pollen
+4113,-1.9,1,HalaSultan,Kaniewskietal2020,Pollen
+4163,-2.08,1,HalaSultan,Kaniewskietal2020,Pollen
+4214,-2.67,1,HalaSultan,Kaniewskietal2020,Pollen
+4264,-0.65,1,HalaSultan,Kaniewskietal2020,Pollen
+4315,-0.5,1,HalaSultan,Kaniewskietal2020,Pollen
+4335,-0.37,1,HalaSultan,Kaniewskietal2020,Pollen
+4355,-0.36,1,HalaSultan,Kaniewskietal2020,Pollen
+4375,0.34,1,HalaSultan,Kaniewskietal2020,Pollen
+4395,-0.26,1,HalaSultan,Kaniewskietal2020,Pollen
+4415,0.12,1,HalaSultan,Kaniewskietal2020,Pollen
+4435,0.03,1,HalaSultan,Kaniewskietal2020,Pollen
+4455,0.2,1,HalaSultan,Kaniewskietal2020,Pollen
+4475,0.21,1,HalaSultan,Kaniewskietal2020,Pollen
+4495,-0.13,1,HalaSultan,Kaniewskietal2020,Pollen
+4515,-0.16,1,HalaSultan,Kaniewskietal2020,Pollen
+4535,-0.43,1,HalaSultan,Kaniewskietal2020,Pollen
+4555,-0.07,1,HalaSultan,Kaniewskietal2020,Pollen
+4575,-0.28,1,HalaSultan,Kaniewskietal2020,Pollen
+4595,-0.05,1,HalaSultan,Kaniewskietal2020,Pollen
+4615,-0.08,1,HalaSultan,Kaniewskietal2020,Pollen
+4635,-0.38,1,HalaSultan,Kaniewskietal2020,Pollen
+4655,-0.93,1,HalaSultan,Kaniewskietal2020,Pollen
+4675,-1.13,1,HalaSultan,Kaniewskietal2020,Pollen
+4691,-0.64,1,HalaSultan,Kaniewskietal2020,Pollen
+4708,-1.18,1,HalaSultan,Kaniewskietal2020,Pollen
+4724,-1.11,1,HalaSultan,Kaniewskietal2020,Pollen
+4741,-0.39,1,HalaSultan,Kaniewskietal2020,Pollen
+4757,-0.29,1,HalaSultan,Kaniewskietal2020,Pollen
+4774,-0.72,1,HalaSultan,Kaniewskietal2020,Pollen
+4790,-0.62,1,HalaSultan,Kaniewskietal2020,Pollen
+4807,-1.65,1,HalaSultan,Kaniewskietal2020,Pollen
+4823,-1.37,1,HalaSultan,Kaniewskietal2020,Pollen
+4840,-1.18,1,HalaSultan,Kaniewskietal2020,Pollen
+4856,-1.28,1,HalaSultan,Kaniewskietal2020,Pollen
+4873,-1.15,1,HalaSultan,Kaniewskietal2020,Pollen
+4889,-1.12,1,HalaSultan,Kaniewskietal2020,Pollen
+4906,-1.77,1,HalaSultan,Kaniewskietal2020,Pollen
+4922,-0.92,1,HalaSultan,Kaniewskietal2020,Pollen
+4939,-1.22,1,HalaSultan,Kaniewskietal2020,Pollen
+4955,-1,1,HalaSultan,Kaniewskietal2020,Pollen
+4972,-0.73,1,HalaSultan,Kaniewskietal2020,Pollen
+4988,-0.42,1,HalaSultan,Kaniewskietal2020,Pollen
+5005,-0.8,1,HalaSultan,Kaniewskietal2020,Pollen
+5021,-0.3,1,HalaSultan,Kaniewskietal2020,Pollen
+5038,-0.88,1,HalaSultan,Kaniewskietal2020,Pollen
+5054,-0.64,1,HalaSultan,Kaniewskietal2020,Pollen
+5071,-0.85,1,HalaSultan,Kaniewskietal2020,Pollen
+5087,-1.74,1,HalaSultan,Kaniewskietal2020,Pollen
+5104,-2.02,1,HalaSultan,Kaniewskietal2020,Pollen
+5120,-2.19,1,HalaSultan,Kaniewskietal2020,Pollen
+5136,-1.89,1,HalaSultan,Kaniewskietal2020,Pollen
+5153,-1.88,1,HalaSultan,Kaniewskietal2020,Pollen
+5169,-2.45,1,HalaSultan,Kaniewskietal2020,Pollen
+5186,-2.67,1,HalaSultan,Kaniewskietal2020,Pollen
+5202,-2.58,1,HalaSultan,Kaniewskietal2020,Pollen
+5219,-2.92,1,HalaSultan,Kaniewskietal2020,Pollen
+5235,-2.34,1,HalaSultan,Kaniewskietal2020,Pollen
+5252,-3.03,1,HalaSultan,Kaniewskietal2020,Pollen
+5268,-2.83,1,HalaSultan,Kaniewskietal2020,Pollen
+5285,-1.93,1,HalaSultan,Kaniewskietal2020,Pollen
+5301,-2.3,1,HalaSultan,Kaniewskietal2020,Pollen
+5318,-1.66,1,HalaSultan,Kaniewskietal2020,Pollen
+5334,-1.58,1,HalaSultan,Kaniewskietal2020,Pollen
+5351,-1.58,1,HalaSultan,Kaniewskietal2020,Pollen
+5367,-2.6,1,HalaSultan,Kaniewskietal2020,Pollen
+5384,-2.27,1,HalaSultan,Kaniewskietal2020,Pollen
+5400,-2.43,1,HalaSultan,Kaniewskietal2020,Pollen
+5417,-1.83,1,HalaSultan,Kaniewskietal2020,Pollen
+5433,-2.45,1,HalaSultan,Kaniewskietal2020,Pollen
+5450,-1.69,1,HalaSultan,Kaniewskietal2020,Pollen
+5466,-1.93,1,HalaSultan,Kaniewskietal2020,Pollen
+5483,-2.18,1,HalaSultan,Kaniewskietal2020,Pollen
+5499,-2.15,1,HalaSultan,Kaniewskietal2020,Pollen
+5516,-2.7,1,HalaSultan,Kaniewskietal2020,Pollen
+5532,-2.03,1,HalaSultan,Kaniewskietal2020,Pollen
+5549,-2.4,1,HalaSultan,Kaniewskietal2020,Pollen
+5565,-2.68,1,HalaSultan,Kaniewskietal2020,Pollen
+5581,-1.93,1,HalaSultan,Kaniewskietal2020,Pollen
+5598,-2.89,1,HalaSultan,Kaniewskietal2020,Pollen
+5614,-2.27,1,HalaSultan,Kaniewskietal2020,Pollen
+5631,-1.74,1,HalaSultan,Kaniewskietal2020,Pollen
+5647,-2,1,HalaSultan,Kaniewskietal2020,Pollen
+5664,-2.14,1,HalaSultan,Kaniewskietal2020,Pollen
+5680,-3.14,1,HalaSultan,Kaniewskietal2020,Pollen
+5697,-2.62,1,HalaSultan,Kaniewskietal2020,Pollen
+5713,-3.04,1,HalaSultan,Kaniewskietal2020,Pollen
+5730,-1.88,1,HalaSultan,Kaniewskietal2020,Pollen
+5746,-2.31,1,HalaSultan,Kaniewskietal2020,Pollen
+50,0,2,Akko,Kaniewskietal2013,Pollen
+82,0.5,2,Akko,Kaniewskietal2013,Pollen
+170,-1.4,2,Akko,Kaniewskietal2013,Pollen
+327,1.1,2,Akko,Kaniewskietal2013,Pollen
+432,0.28,2,Akko,Kaniewskietal2013,Pollen
+537,0.5,2,Akko,Kaniewskietal2013,Pollen
+641,-0.41,2,Akko,Kaniewskietal2013,Pollen
+746,-3.67,2,Akko,Kaniewskietal2013,Pollen
+851,-6.29,2,Akko,Kaniewskietal2013,Pollen
+956,-1.45,2,Akko,Kaniewskietal2013,Pollen
+1060,0.21,2,Akko,Kaniewskietal2013,Pollen
+1165,-3.22,2,Akko,Kaniewskietal2013,Pollen
+1270,-1.96,2,Akko,Kaniewskietal2013,Pollen
+1369,-2.03,2,Akko,Kaniewskietal2013,Pollen
+1469,-0.69,2,Akko,Kaniewskietal2013,Pollen
+1568,-0.7,2,Akko,Kaniewskietal2013,Pollen
+1668,-4.88,2,Akko,Kaniewskietal2013,Pollen
+1767,-0.24,2,Akko,Kaniewskietal2013,Pollen
+1866,-3.51,2,Akko,Kaniewskietal2013,Pollen
+1966,-8.22,2,Akko,Kaniewskietal2013,Pollen
+2065,-3.1,2,Akko,Kaniewskietal2013,Pollen
+2164,-3.77,2,Akko,Kaniewskietal2013,Pollen
+2264,-1.72,2,Akko,Kaniewskietal2013,Pollen
+2363,-4.15,2,Akko,Kaniewskietal2013,Pollen
+2463,-1.21,2,Akko,Kaniewskietal2013,Pollen
+2562,-7.07,2,Akko,Kaniewskietal2013,Pollen
+2661,-0.05,2,Akko,Kaniewskietal2013,Pollen
+2761,-0.17,2,Akko,Kaniewskietal2013,Pollen
+2860,-0.25,2,Akko,Kaniewskietal2013,Pollen
+2960,-1.4,2,Akko,Kaniewskietal2013,Pollen
+3060,0.54,2,Akko,Kaniewskietal2013,Pollen
+3160,0.3,2,Akko,Kaniewskietal2013,Pollen
+3260,-0.02,2,Akko,Kaniewskietal2013,Pollen
+3360,0.89,2,Akko,Kaniewskietal2013,Pollen
+3460,-8.12,2,Akko,Kaniewskietal2013,Pollen
+3560,-2.06,2,Akko,Kaniewskietal2013,Pollen
+3660,-0.68,2,Akko,Kaniewskietal2013,Pollen
+3760,-4.56,2,Akko,Kaniewskietal2013,Pollen
+3860,-5.24,2,Akko,Kaniewskietal2013,Pollen
+3960,-4.78,2,Akko,Kaniewskietal2013,Pollen
+4060,0.45,2,Akko,Kaniewskietal2013,Pollen
+4160,1.45,2,Akko,Kaniewskietal2013,Pollen
+4260,1.25,2,Akko,Kaniewskietal2013,Pollen
+4360,0.73,2,Akko,Kaniewskietal2013,Pollen
+4460,-2.94,2,Akko,Kaniewskietal2013,Pollen
+4560,-0.94,2,Akko,Kaniewskietal2013,Pollen
+4660,-2.18,2,Akko,Kaniewskietal2013,Pollen
+4760,0.17,2,Akko,Kaniewskietal2013,Pollen
+4860,-4.02,2,Akko,Kaniewskietal2013,Pollen
+4911,-1.98,2,Akko,Kaniewskietal2013,Pollen
+4962,-2.1,2,Akko,Kaniewskietal2013,Pollen
+5013,-4.75,2,Akko,Kaniewskietal2013,Pollen
+5064,-4.23,2,Akko,Kaniewskietal2013,Pollen
+5115,1,2,Akko,Kaniewskietal2013,Pollen
+5166,0.84,2,Akko,Kaniewskietal2013,Pollen
+5217,1.01,2,Akko,Kaniewskietal2013,Pollen
+5268,-0.01,2,Akko,Kaniewskietal2013,Pollen
+5319,0.69,2,Akko,Kaniewskietal2013,Pollen
+5370,-0.35,2,Akko,Kaniewskietal2013,Pollen
+5420,-5.3,2,Akko,Kaniewskietal2013,Pollen
+5471,-1.97,2,Akko,Kaniewskietal2013,Pollen
+5522,-2.21,2,Akko,Kaniewskietal2013,Pollen
+5573,1.2,2,Akko,Kaniewskietal2013,Pollen
+5624,0.47,2,Akko,Kaniewskietal2013,Pollen
+5675,0.54,2,Akko,Kaniewskietal2013,Pollen
+5726,-7.58,2,Akko,Kaniewskietal2013,Pollen
+5777,-1.88,2,Akko,Kaniewskietal2013,Pollen
+5828,-6.55,2,Akko,Kaniewskietal2013,Pollen
+5879,-0.17,2,Akko,Kaniewskietal2013,Pollen
+5930,-0.81,2,Akko,Kaniewskietal2013,Pollen
+7,0.43,3,Jableh,Kaniewskietal2019,Pollen
+21,-0.18,3,Jableh,Kaniewskietal2019,Pollen
+41,-0.24,3,Jableh,Kaniewskietal2019,Pollen
+62,1.28,3,Jableh,Kaniewskietal2019,Pollen
+83,0.38,3,Jableh,Kaniewskietal2019,Pollen
+96,0.63,3,Jableh,Kaniewskietal2019,Pollen
+117,0.38,3,Jableh,Kaniewskietal2019,Pollen
+134,1.23,3,Jableh,Kaniewskietal2019,Pollen
+148,0.29,3,Jableh,Kaniewskietal2019,Pollen
+165,0.38,3,Jableh,Kaniewskietal2019,Pollen
+186,0.68,3,Jableh,Kaniewskietal2019,Pollen
+207,0.38,3,Jableh,Kaniewskietal2019,Pollen
+227,-0.16,3,Jableh,Kaniewskietal2019,Pollen
+248,0.38,3,Jableh,Kaniewskietal2019,Pollen
+269,1.43,3,Jableh,Kaniewskietal2019,Pollen
+289,0.38,3,Jableh,Kaniewskietal2019,Pollen
+310,0.71,3,Jableh,Kaniewskietal2019,Pollen
+375,0.29,3,Jableh,Kaniewskietal2019,Pollen
+453,-0.24,3,Jableh,Kaniewskietal2019,Pollen
+531,-0.18,3,Jableh,Kaniewskietal2019,Pollen
+635,-0.16,3,Jableh,Kaniewskietal2019,Pollen
+687,-0.18,3,Jableh,Kaniewskietal2019,Pollen
+765,1.83,3,Jableh,Kaniewskietal2019,Pollen
+775,0.61,3,Jableh,Kaniewskietal2019,Pollen
+784,0.68,3,Jableh,Kaniewskietal2019,Pollen
+794,0.98,3,Jableh,Kaniewskietal2019,Pollen
+803,1.6,3,Jableh,Kaniewskietal2019,Pollen
+813,0.98,3,Jableh,Kaniewskietal2019,Pollen
+822,1.83,3,Jableh,Kaniewskietal2019,Pollen
+832,-0.24,3,Jableh,Kaniewskietal2019,Pollen
+842,0.95,3,Jableh,Kaniewskietal2019,Pollen
+851,1.28,3,Jableh,Kaniewskietal2019,Pollen
+861,1.18,3,Jableh,Kaniewskietal2019,Pollen
+870,1.68,3,Jableh,Kaniewskietal2019,Pollen
+880,1.18,3,Jableh,Kaniewskietal2019,Pollen
+889,1.18,3,Jableh,Kaniewskietal2019,Pollen
+899,1.6,3,Jableh,Kaniewskietal2019,Pollen
+909,2.52,3,Jableh,Kaniewskietal2019,Pollen
+918,1.83,3,Jableh,Kaniewskietal2019,Pollen
+928,1.83,3,Jableh,Kaniewskietal2019,Pollen
+936,1.82,3,Jableh,Kaniewskietal2019,Pollen
+944,1.97,3,Jableh,Kaniewskietal2019,Pollen
+953,1.43,3,Jableh,Kaniewskietal2019,Pollen
+963,1.33,3,Jableh,Kaniewskietal2019,Pollen
+972,-0.16,3,Jableh,Kaniewskietal2019,Pollen
+982,1.43,3,Jableh,Kaniewskietal2019,Pollen
+990,1.39,3,Jableh,Kaniewskietal2019,Pollen
+998,1.32,3,Jableh,Kaniewskietal2019,Pollen
+1008,0.29,3,Jableh,Kaniewskietal2019,Pollen
+1017,1.01,3,Jableh,Kaniewskietal2019,Pollen
+1027,1.33,3,Jableh,Kaniewskietal2019,Pollen
+1036,0.75,3,Jableh,Kaniewskietal2019,Pollen
+1046,0.9,3,Jableh,Kaniewskietal2019,Pollen
+1055,1.23,3,Jableh,Kaniewskietal2019,Pollen
+1065,0.59,3,Jableh,Kaniewskietal2019,Pollen
+1075,1.53,3,Jableh,Kaniewskietal2019,Pollen
+1084,1.76,3,Jableh,Kaniewskietal2019,Pollen
+1094,0.43,3,Jableh,Kaniewskietal2019,Pollen
+1155,0.35,3,Jableh,Kaniewskietal2019,Pollen
+1218,-0.41,3,Jableh,Kaniewskietal2019,Pollen
+1280,-0.06,3,Jableh,Kaniewskietal2019,Pollen
+1300,-0.03,3,Jableh,Kaniewskietal2019,Pollen
+1362,0.82,3,Jableh,Kaniewskietal2019,Pollen
+1425,0.68,3,Jableh,Kaniewskietal2019,Pollen
+1487,0.19,3,Jableh,Kaniewskietal2019,Pollen
+1549,0.42,3,Jableh,Kaniewskietal2019,Pollen
+2456,0.88,3,Jableh,Kaniewskietal2019,Pollen
+2467,0.69,3,Jableh,Kaniewskietal2019,Pollen
+2478,1.5,3,Jableh,Kaniewskietal2019,Pollen
+2489,2.58,3,Jableh,Kaniewskietal2019,Pollen
+2500,1.66,3,Jableh,Kaniewskietal2019,Pollen
+2511,1.85,3,Jableh,Kaniewskietal2019,Pollen
+2522,2.31,3,Jableh,Kaniewskietal2019,Pollen
+2533,1.88,3,Jableh,Kaniewskietal2019,Pollen
+2544,2.29,3,Jableh,Kaniewskietal2019,Pollen
+2555,2.6,3,Jableh,Kaniewskietal2019,Pollen
+2566,2.33,3,Jableh,Kaniewskietal2019,Pollen
+2582,2.26,3,Jableh,Kaniewskietal2019,Pollen
+2593,2.4,3,Jableh,Kaniewskietal2019,Pollen
+2604,2.59,3,Jableh,Kaniewskietal2019,Pollen
+2615,2.18,3,Jableh,Kaniewskietal2019,Pollen
+2631,1.89,3,Jableh,Kaniewskietal2019,Pollen
+2642,2.23,3,Jableh,Kaniewskietal2019,Pollen
+2653,2.49,3,Jableh,Kaniewskietal2019,Pollen
+2664,2.3,3,Jableh,Kaniewskietal2019,Pollen
+2675,2.07,3,Jableh,Kaniewskietal2019,Pollen
+2686,0.97,3,Jableh,Kaniewskietal2019,Pollen
+2719,1.51,3,Jableh,Kaniewskietal2019,Pollen
+2750,2.31,3,Jableh,Kaniewskietal2019,Pollen
+2752,2.69,3,Jableh,Kaniewskietal2019,Pollen
+2754,2.3,3,Jableh,Kaniewskietal2019,Pollen
+2756,2.43,3,Jableh,Kaniewskietal2019,Pollen
+2760,2.16,3,Jableh,Kaniewskietal2019,Pollen
+2763,1.97,3,Jableh,Kaniewskietal2019,Pollen
+2765,2.26,3,Jableh,Kaniewskietal2019,Pollen
+2769,2.48,3,Jableh,Kaniewskietal2019,Pollen
+2773,2.11,3,Jableh,Kaniewskietal2019,Pollen
+2774,1.87,3,Jableh,Kaniewskietal2019,Pollen
+2778,2.26,3,Jableh,Kaniewskietal2019,Pollen
+2782,1.82,3,Jableh,Kaniewskietal2019,Pollen
+2784,1.88,3,Jableh,Kaniewskietal2019,Pollen
+2786,1.96,3,Jableh,Kaniewskietal2019,Pollen
+2790,1.04,3,Jableh,Kaniewskietal2019,Pollen
+2795,1.07,3,Jableh,Kaniewskietal2019,Pollen
+2806,-0.95,3,Jableh,Kaniewskietal2019,Pollen
+2808,-0.97,3,Jableh,Kaniewskietal2019,Pollen
+2817,0.73,3,Jableh,Kaniewskietal2019,Pollen
+2826,-0.42,3,Jableh,Kaniewskietal2019,Pollen
+2828,0.18,3,Jableh,Kaniewskietal2019,Pollen
+2833,0.63,3,Jableh,Kaniewskietal2019,Pollen
+2839,1.78,3,Jableh,Kaniewskietal2019,Pollen
+2850,0.37,3,Jableh,Kaniewskietal2019,Pollen
+2859,-2.06,3,Jableh,Kaniewskietal2019,Pollen
+2861,-2.06,3,Jableh,Kaniewskietal2019,Pollen
+2871,-1.43,3,Jableh,Kaniewskietal2019,Pollen
+2874,-1.49,3,Jableh,Kaniewskietal2019,Pollen
+2882,0.64,3,Jableh,Kaniewskietal2019,Pollen
+2892,0.18,3,Jableh,Kaniewskietal2019,Pollen
+2893,1.33,3,Jableh,Kaniewskietal2019,Pollen
+2897,0.6,3,Jableh,Kaniewskietal2019,Pollen
+2903,1.45,3,Jableh,Kaniewskietal2019,Pollen
+2905,1.28,3,Jableh,Kaniewskietal2019,Pollen
+2919,1.74,3,Jableh,Kaniewskietal2019,Pollen
+2936,3.58,3,Jableh,Kaniewskietal2019,Pollen
+2952,3.15,3,Jableh,Kaniewskietal2019,Pollen
+2968,2.25,3,Jableh,Kaniewskietal2019,Pollen
+3000,2.05,3,Jableh,Kaniewskietal2019,Pollen
+3010,0.48,3,Jableh,Kaniewskietal2019,Pollen
+3021,0.45,3,Jableh,Kaniewskietal2019,Pollen
+3035,1.01,3,Jableh,Kaniewskietal2019,Pollen
+3042,0.95,3,Jableh,Kaniewskietal2019,Pollen
+3053,3.38,3,Jableh,Kaniewskietal2019,Pollen
+3064,3.42,3,Jableh,Kaniewskietal2019,Pollen
+3107,3.01,3,Jableh,Kaniewskietal2019,Pollen
+3117,3.08,3,Jableh,Kaniewskietal2019,Pollen
+3128,3.63,3,Jableh,Kaniewskietal2019,Pollen
+3139,3.66,3,Jableh,Kaniewskietal2019,Pollen
+3149,3.88,3,Jableh,Kaniewskietal2019,Pollen
+3160,3.77,3,Jableh,Kaniewskietal2019,Pollen
+3279,3.72,3,Jableh,Kaniewskietal2019,Pollen
+3456,3.57,3,Jableh,Kaniewskietal2019,Pollen
+3634,3.68,3,Jableh,Kaniewskietal2019,Pollen
+3812,3.67,3,Jableh,Kaniewskietal2019,Pollen
+3990,3.71,3,Jableh,Kaniewskietal2019,Pollen
+4041,3.68,3,Jableh,Kaniewskietal2019,Pollen
+4080,1.92,3,Jableh,Kaniewskietal2019,Pollen
+4119,2.02,3,Jableh,Kaniewskietal2019,Pollen
+-40,0.5,4,Koycegiz,Herzschuhetal22,Pollen
+-10,0.1,4,Koycegiz,Herzschuhetal22,Pollen
+50,-0.6,4,Koycegiz,Herzschuhetal22,Pollen
+120,0.5,4,Koycegiz,Herzschuhetal22,Pollen
+180,-0.9,4,Koycegiz,Herzschuhetal22,Pollen
+240,-0.5,4,Koycegiz,Herzschuhetal22,Pollen
+310,-0.4,4,Koycegiz,Herzschuhetal22,Pollen
+370,-0.5,4,Koycegiz,Herzschuhetal22,Pollen
+490,0.9,4,Koycegiz,Herzschuhetal22,Pollen
+600,-1.6,4,Koycegiz,Herzschuhetal22,Pollen
+690,-0.5,4,Koycegiz,Herzschuhetal22,Pollen
+830,0.5,4,Koycegiz,Herzschuhetal22,Pollen
+920,-3.3,4,Koycegiz,Herzschuhetal22,Pollen
+1100,2.8,4,Koycegiz,Herzschuhetal22,Pollen
+1280,3,4,Koycegiz,Herzschuhetal22,Pollen
+1480,0.8,4,Koycegiz,Herzschuhetal22,Pollen
+1650,2.7,4,Koycegiz,Herzschuhetal22,Pollen
+1880,1.9,4,Koycegiz,Herzschuhetal22,Pollen
+2010,0.8,4,Koycegiz,Herzschuhetal22,Pollen
+2200,1.8,4,Koycegiz,Herzschuhetal22,Pollen
+2430,1,4,Koycegiz,Herzschuhetal22,Pollen
+2560,2,4,Koycegiz,Herzschuhetal22,Pollen
+2650,3,4,Koycegiz,Herzschuhetal22,Pollen
+2750,1.4,4,Koycegiz,Herzschuhetal22,Pollen
+2840,1,4,Koycegiz,Herzschuhetal22,Pollen
+2930,2,4,Koycegiz,Herzschuhetal22,Pollen
+3020,1.8,4,Koycegiz,Herzschuhetal22,Pollen
+3110,-1.5,4,Koycegiz,Herzschuhetal22,Pollen
+3200,-0.4,4,Koycegiz,Herzschuhetal22,Pollen
+3280,-0.4,4,Koycegiz,Herzschuhetal22,Pollen
+3410,0.5,4,Koycegiz,Herzschuhetal22,Pollen
+3530,2.7,4,Koycegiz,Herzschuhetal22,Pollen
+3620,0.1,4,Koycegiz,Herzschuhetal22,Pollen
+3780,1,4,Koycegiz,Herzschuhetal22,Pollen
+3870,1.8,4,Koycegiz,Herzschuhetal22,Pollen
+3950,1.6,4,Koycegiz,Herzschuhetal22,Pollen
+4200,1.3,4,Koycegiz,Herzschuhetal22,Pollen
+4280,5.2,4,Koycegiz,Herzschuhetal22,Pollen
+4450,0.7,4,Koycegiz,Herzschuhetal22,Pollen
+4580,2.6,4,Koycegiz,Herzschuhetal22,Pollen
+4710,1.6,4,Koycegiz,Herzschuhetal22,Pollen
+4790,1.9,4,Koycegiz,Herzschuhetal22,Pollen
+4870,2.1,4,Koycegiz,Herzschuhetal22,Pollen
+4960,1.1,4,Koycegiz,Herzschuhetal22,Pollen
+5040,1,4,Koycegiz,Herzschuhetal22,Pollen
+5130,1.5,4,Koycegiz,Herzschuhetal22,Pollen
+5210,1.2,4,Koycegiz,Herzschuhetal22,Pollen
+-30,0.1,5,Karamik,Herzschuhetal22,Pollen
+30,-0.1,5,Karamik,Herzschuhetal22,Pollen
+260,-0.1,5,Karamik,Herzschuhetal22,Pollen
+650,0.3,5,Karamik,Herzschuhetal22,Pollen
+1030,-0.1,5,Karamik,Herzschuhetal22,Pollen
+1430,-0.3,5,Karamik,Herzschuhetal22,Pollen
+1820,-1.2,5,Karamik,Herzschuhetal22,Pollen
+2200,-0.4,5,Karamik,Herzschuhetal22,Pollen
+2600,-1,5,Karamik,Herzschuhetal22,Pollen
+3000,0.6,5,Karamik,Herzschuhetal22,Pollen
+3390,-0.8,5,Karamik,Herzschuhetal22,Pollen
+3770,-1.3,5,Karamik,Herzschuhetal22,Pollen
+4140,-0.7,5,Karamik,Herzschuhetal22,Pollen
+4520,0.2,5,Karamik,Herzschuhetal22,Pollen
+4880,0.2,5,Karamik,Herzschuhetal22,Pollen
+5270,0.1,5,Karamik,Herzschuhetal22,Pollen
+5460,-0.9,5,Karamik,Herzschuhetal22,Pollen
+5640,-0.4,5,Karamik,Herzschuhetal22,Pollen
+5830,0.7,5,Karamik,Herzschuhetal22,Pollen
+6020,-1.4,5,Karamik,Herzschuhetal22,Pollen
+6390,-0.1,5,Karamik,Herzschuhetal22,Pollen
+6800,0.5,5,Karamik,Herzschuhetal22,Pollen
+6980,-0.3,5,Karamik,Herzschuhetal22,Pollen
+7170,0.8,5,Karamik,Herzschuhetal22,Pollen
+7720,-0.6,5,Karamik,Herzschuhetal22,Pollen
+8510,-0.5,5,Karamik,Herzschuhetal22,Pollen
+9200,-0.3,5,Karamik,Herzschuhetal22,Pollen
+10140,-0.7,5,Karamik,Herzschuhetal22,Pollen
+7.26,0,6,Maleshevska,Kaufmanetal2020,Pollen
+502.76,1.02,6,Maleshevska,Kaufmanetal2020,Pollen
+998.27,1.17,6,Maleshevska,Kaufmanetal2020,Pollen
+1493.78,0.05,6,Maleshevska,Kaufmanetal2020,Pollen
+1989.29,-0.73,6,Maleshevska,Kaufmanetal2020,Pollen
+2484.79,-0.89,6,Maleshevska,Kaufmanetal2020,Pollen
+2761.39,-0.05,6,Maleshevska,Kaufmanetal2020,Pollen
+2819.08,0.55,6,Maleshevska,Kaufmanetal2020,Pollen
+2876.77,3.07,6,Maleshevska,Kaufmanetal2020,Pollen
+2934.46,0.55,6,Maleshevska,Kaufmanetal2020,Pollen
+2992.15,0.07,6,Maleshevska,Kaufmanetal2020,Pollen
+3049.84,-0.39,6,Maleshevska,Kaufmanetal2020,Pollen
+3107.53,2.44,6,Maleshevska,Kaufmanetal2020,Pollen
+3165.22,-0.25,6,Maleshevska,Kaufmanetal2020,Pollen
+3222.91,0.3,6,Maleshevska,Kaufmanetal2020,Pollen
+3280.6,0.75,6,Maleshevska,Kaufmanetal2020,Pollen
+3338.29,0.75,6,Maleshevska,Kaufmanetal2020,Pollen
+3395.98,0.14,6,Maleshevska,Kaufmanetal2020,Pollen
+3871.51,-0.21,6,Maleshevska,Kaufmanetal2020,Pollen
+4625.6,0.44,6,Maleshevska,Kaufmanetal2020,Pollen
+5379.69,-1.02,6,Maleshevska,Kaufmanetal2020,Pollen
+6133.78,0.79,6,Maleshevska,Kaufmanetal2020,Pollen
+6817.17,-1.55,6,Maleshevska,Kaufmanetal2020,Pollen
+6911.49,-0.76,6,Maleshevska,Kaufmanetal2020,Pollen
+6958.65,-0.66,6,Maleshevska,Kaufmanetal2020,Pollen
+7005.8,-0.67,6,Maleshevska,Kaufmanetal2020,Pollen
+7052.96,-1.28,6,Maleshevska,Kaufmanetal2020,Pollen
+7100.12,-0.77,6,Maleshevska,Kaufmanetal2020,Pollen
+7147.28,-1.05,6,Maleshevska,Kaufmanetal2020,Pollen
+7194.43,-1.21,6,Maleshevska,Kaufmanetal2020,Pollen
+7241.59,1.15,6,Maleshevska,Kaufmanetal2020,Pollen
+7288.75,-0.62,6,Maleshevska,Kaufmanetal2020,Pollen
+7335.9,-0.6,6,Maleshevska,Kaufmanetal2020,Pollen
+7383.06,-1.07,6,Maleshevska,Kaufmanetal2020,Pollen
+7430.22,-1.32,6,Maleshevska,Kaufmanetal2020,Pollen
+7472.66,-1.02,6,Maleshevska,Kaufmanetal2020,Pollen
+7519.82,0.51,6,Maleshevska,Kaufmanetal2020,Pollen
+7566.97,0.33,6,Maleshevska,Kaufmanetal2020,Pollen
+7614.13,-1.15,6,Maleshevska,Kaufmanetal2020,Pollen
+7661.29,-0.51,6,Maleshevska,Kaufmanetal2020,Pollen
+7708.44,-2.13,6,Maleshevska,Kaufmanetal2020,Pollen
+9.62,0,7,Straldzhamire,Kaufmanetal2020,Pollen
+90.74,-1.42,7,Straldzhamire,Kaufmanetal2020,Pollen
+193.53,-0.31,7,Straldzhamire,Kaufmanetal2020,Pollen
+321.83,-4.33,7,Straldzhamire,Kaufmanetal2020,Pollen
+472.9,-0.86,7,Straldzhamire,Kaufmanetal2020,Pollen
+643.29,0.6,7,Straldzhamire,Kaufmanetal2020,Pollen
+829.52,1,7,Straldzhamire,Kaufmanetal2020,Pollen
+1028.11,0.08,7,Straldzhamire,Kaufmanetal2020,Pollen
+1235.59,0.75,7,Straldzhamire,Kaufmanetal2020,Pollen
+1448.48,1.82,7,Straldzhamire,Kaufmanetal2020,Pollen
+1663.31,3.21,7,Straldzhamire,Kaufmanetal2020,Pollen
+1876.61,0.61,7,Straldzhamire,Kaufmanetal2020,Pollen
+2084.9,3.64,7,Straldzhamire,Kaufmanetal2020,Pollen
+2284.72,2.84,7,Straldzhamire,Kaufmanetal2020,Pollen
+2474,1.93,7,Straldzhamire,Kaufmanetal2020,Pollen
+2653.34,3.67,7,Straldzhamire,Kaufmanetal2020,Pollen
+2823.69,2.74,7,Straldzhamire,Kaufmanetal2020,Pollen
+3141.07,2.44,7,Straldzhamire,Kaufmanetal2020,Pollen
+3289.97,2.65,7,Straldzhamire,Kaufmanetal2020,Pollen
+3433.58,2.4,7,Straldzhamire,Kaufmanetal2020,Pollen
+3572.81,0.44,7,Straldzhamire,Kaufmanetal2020,Pollen
+3708.61,5.27,7,Straldzhamire,Kaufmanetal2020,Pollen
+3841.89,2.05,7,Straldzhamire,Kaufmanetal2020,Pollen
+3973.58,0.63,7,Straldzhamire,Kaufmanetal2020,Pollen
+4104.61,4.47,7,Straldzhamire,Kaufmanetal2020,Pollen
+4235.59,-0.11,7,Straldzhamire,Kaufmanetal2020,Pollen
+4366.56,-0.33,7,Straldzhamire,Kaufmanetal2020,Pollen
+-7.26,-0.07,8,Lailias,Kaufmanetal2020,Pollen
+36.64,0.07,8,Lailias,Kaufmanetal2020,Pollen
+81.25,0.59,8,Lailias,Kaufmanetal2020,Pollen
+127.28,0.58,8,Lailias,Kaufmanetal2020,Pollen
+175.46,2.05,8,Lailias,Kaufmanetal2020,Pollen
+226.48,3.84,8,Lailias,Kaufmanetal2020,Pollen
+281.07,0.41,8,Lailias,Kaufmanetal2020,Pollen
+340.1,0.34,8,Lailias,Kaufmanetal2020,Pollen
+404.97,0.21,8,Lailias,Kaufmanetal2020,Pollen
+477.25,3.51,8,Lailias,Kaufmanetal2020,Pollen
+558.45,5.9,8,Lailias,Kaufmanetal2020,Pollen
+650.13,5.95,8,Lailias,Kaufmanetal2020,Pollen
+753.82,3.94,8,Lailias,Kaufmanetal2020,Pollen
+871.06,7.49,8,Lailias,Kaufmanetal2020,Pollen
+1002.59,4.85,8,Lailias,Kaufmanetal2020,Pollen
+1146.41,4.25,8,Lailias,Kaufmanetal2020,Pollen
+1299.92,2.38,8,Lailias,Kaufmanetal2020,Pollen
+1460.54,3.93,8,Lailias,Kaufmanetal2020,Pollen
+1625.67,3.97,8,Lailias,Kaufmanetal2020,Pollen
+1792.73,5.4,8,Lailias,Kaufmanetal2020,Pollen
+1959.96,2.26,8,Lailias,Kaufmanetal2020,Pollen
+2127.2,2.67,8,Lailias,Kaufmanetal2020,Pollen
+2294.43,5.24,8,Lailias,Kaufmanetal2020,Pollen
+2461.66,4.74,8,Lailias,Kaufmanetal2020,Pollen
+2628.89,5.09,8,Lailias,Kaufmanetal2020,Pollen
+2796.12,6.47,8,Lailias,Kaufmanetal2020,Pollen
+2963.36,3.53,8,Lailias,Kaufmanetal2020,Pollen
+-1.79,0,9,Kupena,Kaufmanetal2020,Pollen
+1128.66,-0.03,9,Kupena,Kaufmanetal2020,Pollen
+2259.1,4.16,9,Kupena,Kaufmanetal2020,Pollen
+2978.88,5.03,9,Kupena,Kaufmanetal2020,Pollen
+3698.67,5.43,9,Kupena,Kaufmanetal2020,Pollen
+4418.45,3.54,9,Kupena,Kaufmanetal2020,Pollen
+5138.23,4.45,9,Kupena,Kaufmanetal2020,Pollen
+5858.01,4.28,9,Kupena,Kaufmanetal2020,Pollen
+6913.54,4.52,9,Kupena,Kaufmanetal2020,Pollen
+7969.07,6.44,9,Kupena,Kaufmanetal2020,Pollen
+9024.59,7.85,9,Kupena,Kaufmanetal2020,Pollen
+9595.99,6.62,9,Kupena,Kaufmanetal2020,Pollen
+700,-0.5,10,Documentary,Teleis2005,AirTemp
+800,-0.5,10,Documentary,Teleis2005,AirTemp
+900,-0.5,10,Documentary,Teleis2005,AirTemp
+1300,-0.5,10,Documentary,Teleis2005,AirTemp
+30,0,11,GEDI97,Herzschuhetal22,Pollen
+200,0.3,11,GEDI97,Herzschuhetal22,Pollen
+330,-0.9,11,GEDI97,Herzschuhetal22,Pollen
+480,-0.1,11,GEDI97,Herzschuhetal22,Pollen
+640,-0.6,11,GEDI97,Herzschuhetal22,Pollen
+790,-0.8,11,GEDI97,Herzschuhetal22,Pollen
+920,-1.3,11,GEDI97,Herzschuhetal22,Pollen
+1100,-0.6,11,GEDI97,Herzschuhetal22,Pollen
+1290,-0.2,11,GEDI97,Herzschuhetal22,Pollen
+1430,0.4,11,GEDI97,Herzschuhetal22,Pollen
+1530,-0.1,11,GEDI97,Herzschuhetal22,Pollen
+1690,0.2,11,GEDI97,Herzschuhetal22,Pollen
+1900,-0.1,11,GEDI97,Herzschuhetal22,Pollen
+2050,-0.5,11,GEDI97,Herzschuhetal22,Pollen
+2170,-0.4,11,GEDI97,Herzschuhetal22,Pollen
+2280,1.8,11,GEDI97,Herzschuhetal22,Pollen
+2450,0.8,11,GEDI97,Herzschuhetal22,Pollen
+2930,0.8,11,GEDI97,Herzschuhetal22,Pollen
+3180,1.8,11,GEDI97,Herzschuhetal22,Pollen
+3300,0,11,GEDI97,Herzschuhetal22,Pollen
+3400,-0.1,11,GEDI97,Herzschuhetal22,Pollen
+3490,0.6,11,GEDI97,Herzschuhetal22,Pollen
+3570,0.3,11,GEDI97,Herzschuhetal22,Pollen
+3650,3,11,GEDI97,Herzschuhetal22,Pollen
+3770,1.7,11,GEDI97,Herzschuhetal22,Pollen
+3930,-0.8,11,GEDI97,Herzschuhetal22,Pollen
+4100,-0.6,11,GEDI97,Herzschuhetal22,Pollen
+4300,0.9,11,GEDI97,Herzschuhetal22,Pollen
+4590,-0.2,11,GEDI97,Herzschuhetal22,Pollen
+4700,0.8,11,GEDI97,Herzschuhetal22,Pollen
+4820,0.3,11,GEDI97,Herzschuhetal22,Pollen
+4990,0.3,11,GEDI97,Herzschuhetal22,Pollen
+5220,0.8,11,GEDI97,Herzschuhetal22,Pollen
+5430,-0.7,11,GEDI97,Herzschuhetal22,Pollen
+5650,0.5,11,GEDI97,Herzschuhetal22,Pollen
+5810,0.4,11,GEDI97,Herzschuhetal22,Pollen
+5940,-0.8,11,GEDI97,Herzschuhetal22,Pollen
+6080,0.1,11,GEDI97,Herzschuhetal22,Pollen
+6200,0.2,11,GEDI97,Herzschuhetal22,Pollen
+6320,0,11,GEDI97,Herzschuhetal22,Pollen
+6450,-0.5,11,GEDI97,Herzschuhetal22,Pollen
+6570,-0.8,11,GEDI97,Herzschuhetal22,Pollen
+6690,0.7,11,GEDI97,Herzschuhetal22,Pollen
+6800,-1.5,11,GEDI97,Herzschuhetal22,Pollen
+6910,-1.1,11,GEDI97,Herzschuhetal22,Pollen
+7020,0.3,11,GEDI97,Herzschuhetal22,Pollen
+7130,0.3,11,GEDI97,Herzschuhetal22,Pollen
+8030,-0.6,11,GEDI97,Herzschuhetal22,Pollen
+8150,0.7,11,GEDI97,Herzschuhetal22,Pollen
+8250,-0.1,11,GEDI97,Herzschuhetal22,Pollen
+8310,-0.6,11,GEDI97,Herzschuhetal22,Pollen
+8390,-0.6,11,GEDI97,Herzschuhetal22,Pollen
+8470,-0.6,11,GEDI97,Herzschuhetal22,Pollen
+8560,0.3,11,GEDI97,Herzschuhetal22,Pollen
+8650,-0.5,11,GEDI97,Herzschuhetal22,Pollen
+8810,-0.6,11,GEDI97,Herzschuhetal22,Pollen
+8980,-0.8,11,GEDI97,Herzschuhetal22,Pollen
+9170,-0.8,11,GEDI97,Herzschuhetal22,Pollen
+-40,0.55,12,DS7,Herzschuhetal22,Pollen
+50,-0.55,12,DS7,Herzschuhetal22,Pollen
+160,-0.15,12,DS7,Herzschuhetal22,Pollen
+210,0.65,12,DS7,Herzschuhetal22,Pollen
+220,-0.85,12,DS7,Herzschuhetal22,Pollen
+230,0.55,12,DS7,Herzschuhetal22,Pollen
+250,0.35,12,DS7,Herzschuhetal22,Pollen
+290,-0.05,12,DS7,Herzschuhetal22,Pollen
+310,-1.05,12,DS7,Herzschuhetal22,Pollen
+430,-0.95,12,DS7,Herzschuhetal22,Pollen
+540,0.05,12,DS7,Herzschuhetal22,Pollen
+650,-0.45,12,DS7,Herzschuhetal22,Pollen
+740,-0.25,12,DS7,Herzschuhetal22,Pollen
+830,1.25,12,DS7,Herzschuhetal22,Pollen
+890,0.65,12,DS7,Herzschuhetal22,Pollen
+970,1.25,12,DS7,Herzschuhetal22,Pollen
+1070,0.45,12,DS7,Herzschuhetal22,Pollen
+1140,0.05,12,DS7,Herzschuhetal22,Pollen
+1220,2.05,12,DS7,Herzschuhetal22,Pollen
+1300,0.95,12,DS7,Herzschuhetal22,Pollen
+1360,-0.35,12,DS7,Herzschuhetal22,Pollen
+1460,1.45,12,DS7,Herzschuhetal22,Pollen
+1500,-0.25,12,DS7,Herzschuhetal22,Pollen
+1520,1.25,12,DS7,Herzschuhetal22,Pollen
+1540,0.05,12,DS7,Herzschuhetal22,Pollen
+1560,0.65,12,DS7,Herzschuhetal22,Pollen
+1590,2.15,12,DS7,Herzschuhetal22,Pollen
+1620,-0.25,12,DS7,Herzschuhetal22,Pollen
+1640,-1.25,12,DS7,Herzschuhetal22,Pollen
+1680,0.35,12,DS7,Herzschuhetal22,Pollen
+1710,0.65,12,DS7,Herzschuhetal22,Pollen
+1740,1.05,12,DS7,Herzschuhetal22,Pollen
+1780,-0.65,12,DS7,Herzschuhetal22,Pollen
+1840,-0.85,12,DS7,Herzschuhetal22,Pollen
+1860,0.05,12,DS7,Herzschuhetal22,Pollen
+1920,0.65,12,DS7,Herzschuhetal22,Pollen
+1990,-0.25,12,DS7,Herzschuhetal22,Pollen
+2030,1.25,12,DS7,Herzschuhetal22,Pollen
+2090,-0.15,12,DS7,Herzschuhetal22,Pollen
+2130,0.45,12,DS7,Herzschuhetal22,Pollen
+2190,1.75,12,DS7,Herzschuhetal22,Pollen
+2200,0.05,12,DS7,Herzschuhetal22,Pollen
+2230,0.25,12,DS7,Herzschuhetal22,Pollen
+2260,0.15,12,DS7,Herzschuhetal22,Pollen
+2300,0.35,12,DS7,Herzschuhetal22,Pollen
+2320,0.05,12,DS7,Herzschuhetal22,Pollen
+2360,0.85,12,DS7,Herzschuhetal22,Pollen
+2370,-0.15,12,DS7,Herzschuhetal22,Pollen
+2390,0.15,12,DS7,Herzschuhetal22,Pollen
+2410,1.05,12,DS7,Herzschuhetal22,Pollen
+2430,-0.55,12,DS7,Herzschuhetal22,Pollen
+2440,-0.55,12,DS7,Herzschuhetal22,Pollen
+2480,0.45,12,DS7,Herzschuhetal22,Pollen
+2520,0.85,12,DS7,Herzschuhetal22,Pollen
+2550,0.95,12,DS7,Herzschuhetal22,Pollen
+2910,-0.75,12,DS7,Herzschuhetal22,Pollen
+10,0,13,SOGUT,Herzschuhetal22,Pollen
+130,-0.9,13,SOGUT,Herzschuhetal22,Pollen
+280,-1.2,13,SOGUT,Herzschuhetal22,Pollen
+410,-2,13,SOGUT,Herzschuhetal22,Pollen
+560,-0.5,13,SOGUT,Herzschuhetal22,Pollen
+710,-0.8,13,SOGUT,Herzschuhetal22,Pollen
+860,-0.9,13,SOGUT,Herzschuhetal22,Pollen
+1010,-0.7,13,SOGUT,Herzschuhetal22,Pollen
+1180,-0.3,13,SOGUT,Herzschuhetal22,Pollen
+1340,-1.3,13,SOGUT,Herzschuhetal22,Pollen
+1480,-0.6,13,SOGUT,Herzschuhetal22,Pollen
+1630,0.1,13,SOGUT,Herzschuhetal22,Pollen
+1800,-0.2,13,SOGUT,Herzschuhetal22,Pollen
+1930,0,13,SOGUT,Herzschuhetal22,Pollen
+2080,0.4,13,SOGUT,Herzschuhetal22,Pollen
+2250,-0.1,13,SOGUT,Herzschuhetal22,Pollen
+2400,0.3,13,SOGUT,Herzschuhetal22,Pollen
+2480,-0.8,13,SOGUT,Herzschuhetal22,Pollen
+2550,-1.1,13,SOGUT,Herzschuhetal22,Pollen
+2630,-1,13,SOGUT,Herzschuhetal22,Pollen
+2700,-0.1,13,SOGUT,Herzschuhetal22,Pollen
+2780,0.4,13,SOGUT,Herzschuhetal22,Pollen
+2860,-0.4,13,SOGUT,Herzschuhetal22,Pollen
+2960,-0.9,13,SOGUT,Herzschuhetal22,Pollen
+3480,0.1,13,SOGUT,Herzschuhetal22,Pollen
+4460,1.1,13,SOGUT,Herzschuhetal22,Pollen
+4980,0.6,13,SOGUT,Herzschuhetal22,Pollen
+5580,1.3,13,SOGUT,Herzschuhetal22,Pollen
+6210,1.2,13,SOGUT,Herzschuhetal22,Pollen
+6890,0.4,13,SOGUT,Herzschuhetal22,Pollen
+7840,-0.3,13,SOGUT,Herzschuhetal22,Pollen
+8760,1.2,13,SOGUT,Herzschuhetal22,Pollen
+9350,1.4,13,SOGUT,Herzschuhetal22,Pollen
+10330,2,13,SOGUT,Herzschuhetal22,Pollen
+10,0,14,PINARBAS,Herzschuhetal22,Pollen
+200,0.7,14,PINARBAS,Herzschuhetal22,Pollen
+460,0.9,14,PINARBAS,Herzschuhetal22,Pollen
+720,-0.6,14,PINARBAS,Herzschuhetal22,Pollen
+980,-1.5,14,PINARBAS,Herzschuhetal22,Pollen
+1240,-1,14,PINARBAS,Herzschuhetal22,Pollen
+1370,0.1,14,PINARBAS,Herzschuhetal22,Pollen
+1560,0.5,14,PINARBAS,Herzschuhetal22,Pollen
+1760,-1.1,14,PINARBAS,Herzschuhetal22,Pollen
+2020,-1.6,14,PINARBAS,Herzschuhetal22,Pollen
+2150,-0.7,14,PINARBAS,Herzschuhetal22,Pollen
+2280,-0.5,14,PINARBAS,Herzschuhetal22,Pollen
+2400,-1.3,14,PINARBAS,Herzschuhetal22,Pollen
+2540,-1.3,14,PINARBAS,Herzschuhetal22,Pollen
+2660,1,14,PINARBAS,Herzschuhetal22,Pollen
+2790,1.3,14,PINARBAS,Herzschuhetal22,Pollen
+2920,1,14,PINARBAS,Herzschuhetal22,Pollen
+3050,1.7,14,PINARBAS,Herzschuhetal22,Pollen
+3180,2.2,14,PINARBAS,Herzschuhetal22,Pollen
+3310,1.4,14,PINARBAS,Herzschuhetal22,Pollen
+3570,-0.8,14,PINARBAS,Herzschuhetal22,Pollen
+3640,-0.8,14,PINARBAS,Herzschuhetal22,Pollen
+3710,-1.1,14,PINARBAS,Herzschuhetal22,Pollen
+3790,-1.4,14,PINARBAS,Herzschuhetal22,Pollen
+3860,-2.3,14,PINARBAS,Herzschuhetal22,Pollen
+4150,-0.1,14,PINARBAS,Herzschuhetal22,Pollen
+4440,-0.7,14,PINARBAS,Herzschuhetal22,Pollen
+4730,-1.2,14,PINARBAS,Herzschuhetal22,Pollen
+5020,-1.3,14,PINARBAS,Herzschuhetal22,Pollen
+5170,-0.8,14,PINARBAS,Herzschuhetal22,Pollen
+5310,-0.1,14,PINARBAS,Herzschuhetal22,Pollen
+5460,-0.5,14,PINARBAS,Herzschuhetal22,Pollen
+5610,-0.9,14,PINARBAS,Herzschuhetal22,Pollen
+5890,-0.2,14,PINARBAS,Herzschuhetal22,Pollen
+6190,-1,14,PINARBAS,Herzschuhetal22,Pollen
+6480,1.1,14,PINARBAS,Herzschuhetal22,Pollen
+6770,-1,14,PINARBAS,Herzschuhetal22,Pollen
+7050,-2,14,PINARBAS,Herzschuhetal22,Pollen
+7320,0,14,PINARBAS,Herzschuhetal22,Pollen
+-40,0.1,15,ASIG1,Herzschuhetal22,Pollen
+-20,0.4,15,ASIG1,Herzschuhetal22,Pollen
+-10,0.1,15,ASIG1,Herzschuhetal22,Pollen
+10,0.8,15,ASIG1,Herzschuhetal22,Pollen
+20,1.2,15,ASIG1,Herzschuhetal22,Pollen
+40,-2.5,15,ASIG1,Herzschuhetal22,Pollen
+50,-0.1,15,ASIG1,Herzschuhetal22,Pollen
+70,-4.3,15,ASIG1,Herzschuhetal22,Pollen
+80,-1.9,15,ASIG1,Herzschuhetal22,Pollen
+100,0.5,15,ASIG1,Herzschuhetal22,Pollen
+110,-2.4,15,ASIG1,Herzschuhetal22,Pollen
+130,1.7,15,ASIG1,Herzschuhetal22,Pollen
+140,-0.5,15,ASIG1,Herzschuhetal22,Pollen
+160,-0.2,15,ASIG1,Herzschuhetal22,Pollen
+170,-0.4,15,ASIG1,Herzschuhetal22,Pollen
+190,-1.2,15,ASIG1,Herzschuhetal22,Pollen
+200,1.1,15,ASIG1,Herzschuhetal22,Pollen
+220,1.4,15,ASIG1,Herzschuhetal22,Pollen
+240,0.2,15,ASIG1,Herzschuhetal22,Pollen
+250,2,15,ASIG1,Herzschuhetal22,Pollen
+270,-0.6,15,ASIG1,Herzschuhetal22,Pollen
+280,1.2,15,ASIG1,Herzschuhetal22,Pollen
+300,0,15,ASIG1,Herzschuhetal22,Pollen
+310,-0.8,15,ASIG1,Herzschuhetal22,Pollen
+330,0.6,15,ASIG1,Herzschuhetal22,Pollen
+340,-1.7,15,ASIG1,Herzschuhetal22,Pollen
+360,-1.3,15,ASIG1,Herzschuhetal22,Pollen
+370,-1.3,15,ASIG1,Herzschuhetal22,Pollen
+390,-2.3,15,ASIG1,Herzschuhetal22,Pollen
+410,-0.3,15,ASIG1,Herzschuhetal22,Pollen
+420,-0.6,15,ASIG1,Herzschuhetal22,Pollen
+440,0.3,15,ASIG1,Herzschuhetal22,Pollen
+450,0.1,15,ASIG1,Herzschuhetal22,Pollen
+470,-0.1,15,ASIG1,Herzschuhetal22,Pollen
+500,-4.4,15,ASIG1,Herzschuhetal2222,Pollen
+510,-1.1,15,ASIG1,Herzschuhetal22,Pollen
+530,-1,15,ASIG1,Herzschuhetal22,Pollen
+540,-2.7,15,ASIG1,Herzschuhetal22,Pollen
+560,0,15,ASIG1,Herzschuhetal22,Pollen
+580,-2.7,15,ASIG1,Herzschuhetal22,Pollen
+590,-2.7,15,ASIG1,Herzschuhetal22,Pollen
+610,-5.5,15,ASIG1,Herzschuhetal22,Pollen
+620,-0.3,15,ASIG1,Herzschuhetal22,Pollen
+640,-0.1,15,ASIG1,Herzschuhetal22,Pollen
+650,-3.6,15,ASIG1,Herzschuhetal22,Pollen
+670,0.2,15,ASIG1,Herzschuhetal22,Pollen
+680,-0.3,15,ASIG1,Herzschuhetal22,Pollen
+700,-0.5,15,ASIG1,Herzschuhetal22,Pollen
+710,0.3,15,ASIG1,Herzschuhetal22,Pollen
+730,-0.9,15,ASIG1,Herzschuhetal22,Pollen
+740,1,15,ASIG1,Herzschuhetal22,Pollen
+760,1,15,ASIG1,Herzschuhetal22,Pollen
+770,0.8,15,ASIG1,Herzschuhetal22,Pollen
+790,2.6,15,ASIG1,Herzschuhetal22,Pollen
+800,0.5,15,ASIG1,Herzschuhetal22,Pollen
+820,1,15,ASIG1,Herzschuhetal22,Pollen
+830,-0.7,15,ASIG1,Herzschuhetal22,Pollen
+850,-1.5,15,ASIG1,Herzschuhetal22,Pollen
+860,-0.9,15,ASIG1,Herzschuhetal22,Pollen
+880,-1.8,15,ASIG1,Herzschuhetal22,Pollen
+890,1.3,15,ASIG1,Herzschuhetal22,Pollen
+910,4.3,15,ASIG1,Herzschuhetal22,Pollen
+920,4.5,15,ASIG1,Herzschuhetal22,Pollen
+940,2.4,15,ASIG1,Herzschuhetal22,Pollen
+950,4.2,15,ASIG1,Herzschuhetal22,Pollen
+970,2.2,15,ASIG1,Herzschuhetal22,Pollen
+980,3.9,15,ASIG1,Herzschuhetal22,Pollen
+1000,4.9,15,ASIG1,Herzschuhetal22,Pollen
+1030,4.8,15,ASIG1,Herzschuhetal22,Pollen
+1040,4.9,15,ASIG1,Herzschuhetal22,Pollen
+1060,4.8,15,ASIG1,Herzschuhetal22,Pollen
+1070,3.5,15,ASIG1,Herzschuhetal22,Pollen
+1090,0.3,15,ASIG1,Herzschuhetal22,Pollen
+1120,3,15,ASIG1,Herzschuhetal22,Pollen
+1130,1.7,15,ASIG1,Herzschuhetal22,Pollen
+1150,4.7,15,ASIG1,Herzschuhetal22,Pollen
+1160,4.7,15,ASIG1,Herzschuhetal22,Pollen
+1180,2.6,15,ASIG1,Herzschuhetal22,Pollen
+1190,4.3,15,ASIG1,Herzschuhetal22,Pollen
+1200,0.7,15,ASIG1,Herzschuhetal22,Pollen
+1220,5.4,15,ASIG1,Herzschuhetal22,Pollen
+1230,5,15,ASIG1,Herzschuhetal22,Pollen
+1250,3.2,15,ASIG1,Herzschuhetal22,Pollen
+1260,3.9,15,ASIG1,Herzschuhetal22,Pollen
+1270,4.5,15,ASIG1,Herzschuhetal22,Pollen
+1290,3.2,15,ASIG1,Herzschuhetal22,Pollen
+1300,4.8,15,ASIG1,Herzschuhetal22,Pollen
+1320,3.3,15,ASIG1,Herzschuhetal22,Pollen
+1330,3.6,15,ASIG1,Herzschuhetal22,Pollen
+1340,3.2,15,ASIG1,Herzschuhetal22,Pollen
+1360,4,15,ASIG1,Herzschuhetal22,Pollen
+1370,3.2,15,ASIG1,Herzschuhetal22,Pollen
+10,0,16,SAR26,Herzschuhetal22,Pollen
+90,0,16,SAR26,Herzschuhetal22,Pollen
+210,-1.4,16,SAR26,Herzschuhetal22,Pollen
+320,0.9,16,SAR26,Herzschuhetal22,Pollen
+420,1.8,16,SAR26,Herzschuhetal22,Pollen
+560,1.3,16,SAR26,Herzschuhetal22,Pollen
+720,-0.2,16,SAR26,Herzschuhetal22,Pollen
+800,-0.4,16,SAR26,Herzschuhetal22,Pollen
+920,0.1,16,SAR26,Herzschuhetal22,Pollen
+990,0,16,SAR26,Herzschuhetal22,Pollen
+1060,-0.8,16,SAR26,Herzschuhetal22,Pollen
+1140,0.3,16,SAR26,Herzschuhetal22,Pollen
+1220,1,16,SAR26,Herzschuhetal22,Pollen
+1240,0.8,16,SAR26,Herzschuhetal22,Pollen
+1270,2.6,16,SAR26,Herzschuhetal22,Pollen
+1300,0.1,16,SAR26,Herzschuhetal22,Pollen
+1330,1.7,16,SAR26,Herzschuhetal22,Pollen
+1350,1.5,16,SAR26,Herzschuhetal22,Pollen
+1370,1.5,16,SAR26,Herzschuhetal22,Pollen
+1390,-1.9,16,SAR26,Herzschuhetal22,Pollen
+1410,-2.5,16,SAR26,Herzschuhetal22,Pollen
+1430,0.6,16,SAR26,Herzschuhetal22,Pollen
+1450,0.1,16,SAR26,Herzschuhetal22,Pollen
+1470,-0.1,16,SAR26,Herzschuhetal22,Pollen
+1480,-1,16,SAR26,Herzschuhetal22,Pollen
+1510,1.1,16,SAR26,Herzschuhetal22,Pollen
+1520,0.4,16,SAR26,Herzschuhetal22,Pollen
+1540,1.1,16,SAR26,Herzschuhetal22,Pollen
+1560,-0.4,16,SAR26,Herzschuhetal22,Pollen
+1590,-1.1,16,SAR26,Herzschuhetal22,Pollen
+1610,1.2,16,SAR26,Herzschuhetal22,Pollen
+1650,1,16,SAR26,Herzschuhetal22,Pollen
+1670,2.4,16,SAR26,Herzschuhetal22,Pollen
+1740,-0.2,16,SAR26,Herzschuhetal22,Pollen
+1770,-1,16,SAR26,Herzschuhetal22,Pollen
+1830,0.9,16,SAR26,Herzschuhetal22,Pollen
+1850,6.1,16,SAR26,Herzschuhetal22,Pollen
+1930,0,16,SAR26,Herzschuhetal22,Pollen
+-10,0,17,LERNA,Herzschuhetal22,Pollen
+120,-1.4,17,LERNA,Herzschuhetal22,Pollen
+300,-0.6,17,LERNA,Herzschuhetal22,Pollen
+430,-2,17,LERNA,Herzschuhetal22,Pollen
+540,0.2,17,LERNA,Herzschuhetal22,Pollen
+900,-0.7,17,LERNA,Herzschuhetal22,Pollen
+1060,-1.5,17,LERNA,Herzschuhetal22,Pollen
+1270,-0.6,17,LERNA,Herzschuhetal22,Pollen
+1440,1.9,17,LERNA,Herzschuhetal22,Pollen
+1520,1.7,17,LERNA,Herzschuhetal22,Pollen
+1700,1.2,17,LERNA,Herzschuhetal22,Pollen
+1840,-0.7,17,LERNA,Herzschuhetal22,Pollen
+2000,-1.2,17,LERNA,Herzschuhetal22,Pollen
+2110,0.1,17,LERNA,Herzschuhetal22,Pollen
+2230,0.3,17,LERNA,Herzschuhetal22,Pollen
+2370,2,17,LERNA,Herzschuhetal22,Pollen
+2510,-2.1,17,LERNA,Herzschuhetal22,Pollen
+2640,-0.1,17,LERNA,Herzschuhetal22,Pollen
+2710,1.5,17,LERNA,Herzschuhetal22,Pollen
+2800,1.4,17,LERNA,Herzschuhetal22,Pollen
+2890,1.2,17,LERNA,Herzschuhetal22,Pollen
+3000,-1.2,17,LERNA,Herzschuhetal22,Pollen
+3100,-1.7,17,LERNA,Herzschuhetal22,Pollen
+3150,-2.7,17,LERNA,Herzschuhetal22,Pollen
+3350,3.1,17,LERNA,Herzschuhetal22,Pollen
+3440,0.5,17,LERNA,Herzschuhetal22,Pollen
+3530,1.8,17,LERNA,Herzschuhetal22,Pollen
+3700,0.4,17,LERNA,Herzschuhetal22,Pollen
+3880,0.4,17,LERNA,Herzschuhetal22,Pollen
+4020,0.9,17,LERNA,Herzschuhetal22,Pollen
+4160,0,17,LERNA,Herzschuhetal22,Pollen
+4400,0.6,17,LERNA,Herzschuhetal22,Pollen
+4590,1.5,17,LERNA,Herzschuhetal22,Pollen
+4730,1.6,17,LERNA,Herzschuhetal22,Pollen
+4850,0.5,17,LERNA,Herzschuhetal22,Pollen
+4960,0.1,17,LERNA,Herzschuhetal22,Pollen
+5090,0.9,17,LERNA,Herzschuhetal22,Pollen
+5230,1,17,LERNA,Herzschuhetal22,Pollen
+5370,2.3,17,LERNA,Herzschuhetal22,Pollen
+5450,1.2,17,LERNA,Herzschuhetal22,Pollen
+5590,3.5,17,LERNA,Herzschuhetal22,Pollen
+5700,1.7,17,LERNA,Herzschuhetal22,Pollen
+5840,1.4,17,LERNA,Herzschuhetal22,Pollen
+5910,1.2,17,LERNA,Herzschuhetal22,Pollen
+6040,1.6,17,LERNA,Herzschuhetal22,Pollen
+6140,1.9,17,LERNA,Herzschuhetal22,Pollen
+6250,1.7,17,LERNA,Herzschuhetal22,Pollen
+6340,1.1,17,LERNA,Herzschuhetal22,Pollen
+6480,0.2,17,LERNA,Herzschuhetal22,Pollen
+6560,-0.3,17,LERNA,Herzschuhetal22,Pollen
+6710,0.1,17,LERNA,Herzschuhetal22,Pollen
+6840,-1.3,17,LERNA,Herzschuhetal22,Pollen
+6970,1.8,17,LERNA,Herzschuhetal22,Pollen
+7110,1.7,17,LERNA,Herzschuhetal22,Pollen
+7190,1.1,17,LERNA,Herzschuhetal22,Pollen
+7310,0.1,17,LERNA,Herzschuhetal22,Pollen
+7370,0,17,LERNA,Herzschuhetal22,Pollen
+7500,-3.1,17,LERNA,Herzschuhetal22,Pollen
+7660,-3.4,17,LERNA,Herzschuhetal22,Pollen
+-60,0.2,18,LITOCHOR,Herzschuhetal22,Pollen
+-10,0.1,18,LITOCHOR,Herzschuhetal22,Pollen
+30,-0.3,18,LITOCHOR,Herzschuhetal22,Pollen
+70,0.8,18,LITOCHOR,Herzschuhetal22,Pollen
+120,1.2,18,LITOCHOR,Herzschuhetal22,Pollen
+160,0.2,18,LITOCHOR,Herzschuhetal22,Pollen
+210,-1,18,LITOCHOR,Herzschuhetal22,Pollen
+260,1.1,18,LITOCHOR,Herzschuhetal22,Pollen
+310,1.6,18,LITOCHOR,Herzschuhetal22,Pollen
+350,-0.3,18,LITOCHOR,Herzschuhetal22,Pollen
+410,0.2,18,LITOCHOR,Herzschuhetal22,Pollen
+450,-0.5,18,LITOCHOR,Herzschuhetal22,Pollen
+500,1.2,18,LITOCHOR,Herzschuhetal22,Pollen
+580,-0.3,18,LITOCHOR,Herzschuhetal22,Pollen
+640,0.8,18,LITOCHOR,Herzschuhetal22,Pollen
+690,-0.4,18,LITOCHOR,Herzschuhetal22,Pollen
+730,0,18,LITOCHOR,Herzschuhetal22,Pollen
+780,-0.3,18,LITOCHOR,Herzschuhetal22,Pollen
+850,0.3,18,LITOCHOR,Herzschuhetal22,Pollen
+910,-0.4,18,LITOCHOR,Herzschuhetal22,Pollen
+980,-1.4,18,LITOCHOR,Herzschuhetal22,Pollen
+1020,-0.5,18,LITOCHOR,Herzschuhetal22,Pollen
+1090,-0.4,18,LITOCHOR,Herzschuhetal22,Pollen
+1190,-0.5,18,LITOCHOR,Herzschuhetal22,Pollen
+1280,-1.4,18,LITOCHOR,Herzschuhetal22,Pollen
+1360,-1,18,LITOCHOR,Herzschuhetal22,Pollen
+1470,0.5,18,LITOCHOR,Herzschuhetal22,Pollen
+1540,-0.8,18,LITOCHOR,Herzschuhetal22,Pollen
+1620,-0.8,18,LITOCHOR,Herzschuhetal22,Pollen
+1720,-0.5,18,LITOCHOR,Herzschuhetal22,Pollen
+1820,-0.4,18,LITOCHOR,Herzschuhetal22,Pollen
+1930,-0.7,18,LITOCHOR,Herzschuhetal22,Pollen
+2040,-1.5,18,LITOCHOR,Herzschuhetal22,Pollen
+2150,-1.3,18,LITOCHOR,Herzschuhetal22,Pollen
+2220,-0.9,18,LITOCHOR,Herzschuhetal22,Pollen
+2290,0.5,18,LITOCHOR,Herzschuhetal22,Pollen
+2360,0.1,18,LITOCHOR,Herzschuhetal22,Pollen
+2400,-0.8,18,LITOCHOR,Herzschuhetal22,Pollen
+2430,-0.2,18,LITOCHOR,Herzschuhetal22,Pollen
+2500,0.1,18,LITOCHOR,Herzschuhetal22,Pollen
+2610,-0.8,18,LITOCHOR,Herzschuhetal22,Pollen
+2660,-0.3,18,LITOCHOR,Herzschuhetal22,Pollen
+2710,-0.5,18,LITOCHOR,Herzschuhetal22,Pollen
+2790,-1.6,18,LITOCHOR,Herzschuhetal22,Pollen
+2850,-0.8,18,LITOCHOR,Herzschuhetal22,Pollen
+2940,-0.9,18,LITOCHOR,Herzschuhetal22,Pollen
+3020,-0.5,18,LITOCHOR,Herzschuhetal22,Pollen
+3110,-0.6,18,LITOCHOR,Herzschuhetal22,Pollen
+3230,-0.6,18,LITOCHOR,Herzschuhetal22,Pollen
+3510,1,18,LITOCHOR,Herzschuhetal22,Pollen
+3520,-0.2,18,LITOCHOR,Herzschuhetal22,Pollen
+3570,1,18,LITOCHOR,Herzschuhetal22,Pollen
+3730,0.4,18,LITOCHOR,Herzschuhetal22,Pollen
+3840,1.2,18,LITOCHOR,Herzschuhetal22,Pollen
+3920,2.8,18,LITOCHOR,Herzschuhetal22,Pollen
+4000,3.6,18,LITOCHOR,Herzschuhetal22,Pollen
+4170,1.1,18,LITOCHOR,Herzschuhetal22,Pollen
+4290,-0.3,18,LITOCHOR,Herzschuhetal22,Pollen
+4420,-0.6,18,LITOCHOR,Herzschuhetal22,Pollen
+4590,-0.7,18,LITOCHOR,Herzschuhetal22,Pollen
+4690,0.2,18,LITOCHOR,Herzschuhetal22,Pollen
+4750,0.8,18,LITOCHOR,Herzschuhetal22,Pollen
+4810,1.4,18,LITOCHOR,Herzschuhetal22,Pollen
+4870,1.3,18,LITOCHOR,Herzschuhetal22,Pollen
+-50,0,19,XINIAS_neotoma,Herzschuhetal22,Pollen
+660,0.2,19,XINIAS_neotoma,Herzschuhetal22,Pollen
+2120,-0.5,19,XINIAS_neotoma,Herzschuhetal22,Pollen
+3610,-1.4,19,XINIAS_neotoma,Herzschuhetal22,Pollen
+5750,-1.4,19,XINIAS_neotoma,Herzschuhetal22,Pollen
+6440,-0.8,19,XINIAS_neotoma,Herzschuhetal22,Pollen
+7520,-0.3,19,XINIAS_neotoma,Herzschuhetal22,Pollen
+8440,-0.4,19,XINIAS_neotoma,Herzschuhetal22,Pollen
+9390,-0.9,19,XINIAS_neotoma,Herzschuhetal22,Pollen
+-60,-0.25,20,PERTOYLI,Herzschuhetal22,Pollen
+40,0.25,20,PERTOYLI,Herzschuhetal22,Pollen
+140,-0.45,20,PERTOYLI,Herzschuhetal22,Pollen
+240,1.25,20,PERTOYLI,Herzschuhetal22,Pollen
+340,1.95,20,PERTOYLI,Herzschuhetal22,Pollen
+390,-0.85,20,PERTOYLI,Herzschuhetal22,Pollen
+520,1.35,20,PERTOYLI,Herzschuhetal22,Pollen
+740,0.85,20,PERTOYLI,Herzschuhetal22,Pollen
+1080,2.35,20,PERTOYLI,Herzschuhetal22,Pollen
+1400,2.05,20,PERTOYLI,Herzschuhetal22,Pollen
+1750,2.05,20,PERTOYLI,Herzschuhetal22,Pollen
+2090,2.45,20,PERTOYLI,Herzschuhetal22,Pollen
+2420,1.65,20,PERTOYLI,Herzschuhetal22,Pollen
+2760,2.25,20,PERTOYLI,Herzschuhetal22,Pollen
+3060,2.55,20,PERTOYLI,Herzschuhetal22,Pollen
+3350,2.45,20,PERTOYLI,Herzschuhetal22,Pollen
+3620,0.65,20,PERTOYLI,Herzschuhetal22,Pollen
+3850,1.45,20,PERTOYLI,Herzschuhetal22,Pollen
+4080,-0.45,20,PERTOYLI,Herzschuhetal22,Pollen
+4310,2.15,20,PERTOYLI,Herzschuhetal22,Pollen
+4560,1.15,20,PERTOYLI,Herzschuhetal22,Pollen
+4800,0.95,20,PERTOYLI,Herzschuhetal22,Pollen
+5040,0.95,20,PERTOYLI,Herzschuhetal22,Pollen
+5400,2.75,20,PERTOYLI,Herzschuhetal22,Pollen
+-50,0,21,PIERIA,Herzschuhetal22,Pollen
+70,0.1,21,PIERIA,Herzschuhetal22,Pollen
+200,0.7,21,PIERIA,Herzschuhetal22,Pollen
+330,0,21,PIERIA,Herzschuhetal22,Pollen
+460,0.5,21,PIERIA,Herzschuhetal22,Pollen
+590,0,21,PIERIA,Herzschuhetal22,Pollen
+760,0.6,21,PIERIA,Herzschuhetal22,Pollen
+930,0.3,21,PIERIA,Herzschuhetal22,Pollen
+1100,0.3,21,PIERIA,Herzschuhetal22,Pollen
+1280,-0.5,21,PIERIA,Herzschuhetal22,Pollen
+1460,0.5,21,PIERIA,Herzschuhetal22,Pollen
+1630,0.2,21,PIERIA,Herzschuhetal22,Pollen
+1800,0.4,21,PIERIA,Herzschuhetal22,Pollen
+1970,1,21,PIERIA,Herzschuhetal22,Pollen
+2120,1.2,21,PIERIA,Herzschuhetal22,Pollen
+2270,0.8,21,PIERIA,Herzschuhetal22,Pollen
+-50,0,22,KHIMAIII,Herzschuhetal22,Pollen
+130,1.1,22,KHIMAIII,Herzschuhetal22,Pollen
+480,0.8,22,KHIMAIII,Herzschuhetal22,Pollen
+700,1.1,22,KHIMAIII,Herzschuhetal22,Pollen
+1030,0.8,22,KHIMAIII,Herzschuhetal22,Pollen
+1270,2.4,22,KHIMAIII,Herzschuhetal22,Pollen
+1490,1.9,22,KHIMAIII,Herzschuhetal22,Pollen
+1710,1.5,22,KHIMAIII,Herzschuhetal22,Pollen
+1940,2.4,22,KHIMAIII,Herzschuhetal22,Pollen
+2170,1.4,22,KHIMAIII,Herzschuhetal22,Pollen
+2390,2,22,KHIMAIII,Herzschuhetal22,Pollen
+2730,1.8,22,KHIMAIII,Herzschuhetal22,Pollen
+2940,2.3,22,KHIMAIII,Herzschuhetal22,Pollen
+3250,1.9,22,KHIMAIII,Herzschuhetal22,Pollen
+3610,1,22,KHIMAIII,Herzschuhetal22,Pollen
+5300,1.5,22,KHIMAIII,Herzschuhetal22,Pollen
+7150,0.3,22,KHIMAIII,Herzschuhetal22,Pollen
+8150,1.5,22,KHIMAIII,Herzschuhetal22,Pollen
+8900,0.9,22,KHIMAIII,Herzschuhetal22,Pollen
+9290,0.4,22,KHIMAIII,Herzschuhetal22,Pollen
+10,0,23,ORETSG25,Herzschuhetal22,Pollen
+110,1.8,23,ORETSG25,Herzschuhetal22,Pollen
+220,0.8,23,ORETSG25,Herzschuhetal22,Pollen
+320,0.7,23,ORETSG25,Herzschuhetal22,Pollen
+400,3.7,23,ORETSG25,Herzschuhetal22,Pollen
+480,1.5,23,ORETSG25,Herzschuhetal22,Pollen
+660,1,23,ORETSG25,Herzschuhetal22,Pollen
+730,-1.5,23,ORETSG25,Herzschuhetal22,Pollen
+840,1.7,23,ORETSG25,Herzschuhetal22,Pollen
+910,-1.3,23,ORETSG25,Herzschuhetal22,Pollen
+1000,0.1,23,ORETSG25,Herzschuhetal22,Pollen
+1080,1.4,23,ORETSG25,Herzschuhetal22,Pollen
+1160,0.3,23,ORETSG25,Herzschuhetal22,Pollen
+1250,2.8,23,ORETSG25,Herzschuhetal22,Pollen
+1330,2.1,23,ORETSG25,Herzschuhetal22,Pollen
+1420,3.1,23,ORETSG25,Herzschuhetal22,Pollen
+1530,-0.3,23,ORETSG25,Herzschuhetal22,Pollen
+1640,2.2,23,ORETSG25,Herzschuhetal22,Pollen
+1750,3.1,23,ORETSG25,Herzschuhetal22,Pollen
+1860,2.7,23,ORETSG25,Herzschuhetal22,Pollen
+2050,-0.7,23,ORETSG25,Herzschuhetal22,Pollen
+2430,1.5,23,ORETSG25,Herzschuhetal22,Pollen
+2730,1.9,23,ORETSG25,Herzschuhetal22,Pollen
+3330,3.2,23,ORETSG25,Herzschuhetal22,Pollen
+3780,2.1,23,ORETSG25,Herzschuhetal22,Pollen
+4310,2.2,23,ORETSG25,Herzschuhetal22,Pollen
+4720,2.7,23,ORETSG25,Herzschuhetal22,Pollen
+4820,2.7,23,ORETSG25,Herzschuhetal22,Pollen
+4920,2.4,23,ORETSG25,Herzschuhetal22,Pollen
+5020,2.8,23,ORETSG25,Herzschuhetal22,Pollen
+5120,4.3,23,ORETSG25,Herzschuhetal22,Pollen
+5190,2.6,23,ORETSG25,Herzschuhetal22,Pollen
+5290,4,23,ORETSG25,Herzschuhetal22,Pollen
+5420,1.4,23,ORETSG25,Herzschuhetal22,Pollen
+5540,2.2,23,ORETSG25,Herzschuhetal22,Pollen
+5650,2.1,23,ORETSG25,Herzschuhetal22,Pollen
+5750,2.2,23,ORETSG25,Herzschuhetal22,Pollen
+5830,0.8,23,ORETSG25,Herzschuhetal22,Pollen
+5860,2,23,ORETSG25,Herzschuhetal22,Pollen
+5950,1.6,23,ORETSG25,Herzschuhetal22,Pollen
+6060,3.3,23,ORETSG25,Herzschuhetal22,Pollen
+6180,3,23,ORETSG25,Herzschuhetal22,Pollen
+6300,4,23,ORETSG25,Herzschuhetal22,Pollen
+6430,2.8,23,ORETSG25,Herzschuhetal22,Pollen
+6570,4.4,23,ORETSG25,Herzschuhetal22,Pollen
+6690,3.4,23,ORETSG25,Herzschuhetal22,Pollen
+6750,2.1,23,ORETSG25,Herzschuhetal22,Pollen
+6840,2.5,23,ORETSG25,Herzschuhetal22,Pollen
+6940,2.9,23,ORETSG25,Herzschuhetal22,Pollen
+6980,2.2,23,ORETSG25,Herzschuhetal22,Pollen
+7020,4.9,23,ORETSG25,Herzschuhetal22,Pollen
+7050,0.6,23,ORETSG25,Herzschuhetal22,Pollen
+7080,2.8,23,ORETSG25,Herzschuhetal22,Pollen
+7110,0.9,23,ORETSG25,Herzschuhetal22,Pollen
+7140,2.6,23,ORETSG25,Herzschuhetal22,Pollen
+7160,2.1,23,ORETSG25,Herzschuhetal22,Pollen
+7190,3.5,23,ORETSG25,Herzschuhetal22,Pollen
+7210,2.8,23,ORETSG25,Herzschuhetal22,Pollen
+7230,1.8,23,ORETSG25,Herzschuhetal22,Pollen
+7250,2.2,23,ORETSG25,Herzschuhetal22,Pollen
+7280,-1.7,23,ORETSG25,Herzschuhetal22,Pollen
+7300,-0.7,23,ORETSG25,Herzschuhetal22,Pollen
+7320,1.7,23,ORETSG25,Herzschuhetal22,Pollen
+7350,-1.8,23,ORETSG25,Herzschuhetal22,Pollen
+7370,-0.2,23,ORETSG25,Herzschuhetal22,Pollen
+7420,1.9,23,ORETSG25,Herzschuhetal22,Pollen
+7460,0.2,23,ORETSG25,Herzschuhetal22,Pollen
+7540,3.4,23,ORETSG25,Herzschuhetal22,Pollen
+7660,2.7,23,ORETSG25,Herzschuhetal22,Pollen
+7720,0.1,23,ORETSG25,Herzschuhetal22,Pollen
+7940,2.5,23,ORETSG25,Herzschuhetal22,Pollen
+8430,1.2,23,ORETSG25,Herzschuhetal22,Pollen
+8510,2.8,23,ORETSG25,Herzschuhetal22,Pollen
+8580,1.9,23,ORETSG25,Herzschuhetal22,Pollen
+8650,2.5,23,ORETSG25,Herzschuhetal22,Pollen
+8740,2.4,23,ORETSG25,Herzschuhetal22,Pollen
+8790,2.8,23,ORETSG25,Herzschuhetal22,Pollen
+8840,3.1,23,ORETSG25,Herzschuhetal22,Pollen
+8900,1.7,23,ORETSG25,Herzschuhetal22,Pollen
+8930,3.1,23,ORETSG25,Herzschuhetal22,Pollen
+9050,4.3,23,ORETSG25,Herzschuhetal22,Pollen
+9150,1.8,23,ORETSG25,Herzschuhetal22,Pollen
+-60,0.7,24,RHODOPI,Herzschuhetal22,Pollen
+50,-0.7,24,RHODOPI,Herzschuhetal22,Pollen
+170,1,24,RHODOPI,Herzschuhetal22,Pollen
+290,0.9,24,RHODOPI,Herzschuhetal22,Pollen
+410,1.4,24,RHODOPI,Herzschuhetal22,Pollen
+520,1.1,24,RHODOPI,Herzschuhetal22,Pollen
+680,0.4,24,RHODOPI,Herzschuhetal22,Pollen
+880,0.6,24,RHODOPI,Herzschuhetal22,Pollen
+1110,1.3,24,RHODOPI,Herzschuhetal22,Pollen
+1340,1.3,24,RHODOPI,Herzschuhetal22,Pollen
+1570,1.2,24,RHODOPI,Herzschuhetal22,Pollen
+1800,0.9,24,RHODOPI,Herzschuhetal22,Pollen
+2030,1.3,24,RHODOPI,Herzschuhetal22,Pollen
+2270,0.6,24,RHODOPI,Herzschuhetal22,Pollen
+2500,-0.6,24,RHODOPI,Herzschuhetal22,Pollen
+2730,0.3,24,RHODOPI,Herzschuhetal22,Pollen
+2960,0.8,24,RHODOPI,Herzschuhetal22,Pollen
+3180,1.1,24,RHODOPI,Herzschuhetal22,Pollen
+3420,0.9,24,RHODOPI,Herzschuhetal22,Pollen
+3620,0.7,24,RHODOPI,Herzschuhetal22,Pollen
+20,0,25,EDESSA,Herzschuhetal22,Pollen
+270,1,25,EDESSA,Herzschuhetal22,Pollen
+460,0.5,25,EDESSA,Herzschuhetal22,Pollen
+830,0.6,25,EDESSA,Herzschuhetal22,Pollen
+1200,1.8,25,EDESSA,Herzschuhetal22,Pollen
+1390,0.1,25,EDESSA,Herzschuhetal22,Pollen
+1760,1.2,25,EDESSA,Herzschuhetal22,Pollen
+2120,0.5,25,EDESSA,Herzschuhetal22,Pollen
+2480,1.8,25,EDESSA,Herzschuhetal22,Pollen
+2860,1.4,25,EDESSA,Herzschuhetal22,Pollen
+3040,1.4,25,EDESSA,Herzschuhetal22,Pollen
+3400,1.2,25,EDESSA,Herzschuhetal22,Pollen
+3740,0.7,25,EDESSA,Herzschuhetal22,Pollen
+4120,1.4,25,EDESSA,Herzschuhetal22,Pollen
+4520,1.3,25,EDESSA,Herzschuhetal22,Pollen
+4940,1.2,25,EDESSA,Herzschuhetal22,Pollen
+5350,0.7,25,EDESSA,Herzschuhetal22,Pollen
+5450,1.2,25,EDESSA,Herzschuhetal22,Pollen
+5930,2.1,25,EDESSA,Herzschuhetal22,Pollen
+6060,1.9,25,EDESSA,Herzschuhetal22,Pollen
+6260,1.1,25,EDESSA,Herzschuhetal22,Pollen
+6460,3.2,25,EDESSA,Herzschuhetal22,Pollen
+6670,1.8,25,EDESSA,Herzschuhetal22,Pollen
+6830,2.3,25,EDESSA,Herzschuhetal22,Pollen
+7080,1.4,25,EDESSA,Herzschuhetal22,Pollen
+7440,3.3,25,EDESSA,Herzschuhetal22,Pollen
+8000,2.3,25,EDESSA,Herzschuhetal22,Pollen
+8740,2.5,25,EDESSA,Herzschuhetal22,Pollen
+9190,4,25,EDESSA,Herzschuhetal22,Pollen
+9360,3.6,25,EDESSA,Herzschuhetal22,Pollen
+9690,2.6,25,EDESSA,Herzschuhetal22,Pollen
+10030,2.3,25,EDESSA,Herzschuhetal22,Pollen
+-60,0.15,26,VORAS,Herzschuhetal22,Pollen
+40,-0.15,26,VORAS,Herzschuhetal22,Pollen
+170,-0.85,26,VORAS,Herzschuhetal22,Pollen
+290,0.95,26,VORAS,Herzschuhetal22,Pollen
+420,-0.35,26,VORAS,Herzschuhetal22,Pollen
+550,0.85,26,VORAS,Herzschuhetal22,Pollen
+670,0.45,26,VORAS,Herzschuhetal22,Pollen
+800,-0.05,26,VORAS,Herzschuhetal22,Pollen
+920,-0.05,26,VORAS,Herzschuhetal22,Pollen
+1040,1.15,26,VORAS,Herzschuhetal22,Pollen
+1160,1.95,26,VORAS,Herzschuhetal22,Pollen
+1310,-0.75,26,VORAS,Herzschuhetal22,Pollen
+1610,0.25,26,VORAS,Herzschuhetal22,Pollen
+1890,0.85,26,VORAS,Herzschuhetal22,Pollen
+2110,0.75,26,VORAS,Herzschuhetal22,Pollen
+2580,1.65,26,VORAS,Herzschuhetal22,Pollen
+3320,-0.25,26,VORAS,Herzschuhetal22,Pollen
+4010,0.35,26,VORAS,Herzschuhetal22,Pollen
+4720,-0.35,26,VORAS,Herzschuhetal22,Pollen
+5450,-0.55,26,VORAS,Herzschuhetal22,Pollen
+6160,-0.05,26,VORAS,Herzschuhetal22,Pollen
+6450,-0.45,26,VORAS,Herzschuhetal22,Pollen
+6770,0.45,26,VORAS,Herzschuhetal22,Pollen
+6880,0.85,26,VORAS,Herzschuhetal22,Pollen
+7100,0.45,26,VORAS,Herzschuhetal22,Pollen
+-40,0,27,PAIKO,Herzschuhetal22,Pollen
+120,-1.2,27,PAIKO,Herzschuhetal22,Pollen
+320,-1.1,27,PAIKO,Herzschuhetal22,Pollen
+440,-0.8,27,PAIKO,Herzschuhetal22,Pollen
+520,-2.2,27,PAIKO,Herzschuhetal22,Pollen
+720,-2,27,PAIKO,Herzschuhetal22,Pollen
+830,-2.3,27,PAIKO,Herzschuhetal22,Pollen
+930,-3.2,27,PAIKO,Herzschuhetal22,Pollen
+1130,-2.4,27,PAIKO,Herzschuhetal22,Pollen
+1330,-1.7,27,PAIKO,Herzschuhetal22,Pollen
+1420,-1.7,27,PAIKO,Herzschuhetal22,Pollen
+1510,-1.6,27,PAIKO,Herzschuhetal22,Pollen
+1650,-1.1,27,PAIKO,Herzschuhetal22,Pollen
+1770,-1.8,27,PAIKO,Herzschuhetal22,Pollen
+1850,-2.4,27,PAIKO,Herzschuhetal22,Pollen
+2010,-1.5,27,PAIKO,Herzschuhetal22,Pollen
+2180,-1.3,27,PAIKO,Herzschuhetal22,Pollen
+2350,-1.2,27,PAIKO,Herzschuhetal22,Pollen
+2510,-1.9,27,PAIKO,Herzschuhetal22,Pollen
+2560,-2.8,27,PAIKO,Herzschuhetal22,Pollen
+2620,-1.4,27,PAIKO,Herzschuhetal22,Pollen
+2730,-2.3,27,PAIKO,Herzschuhetal22,Pollen
+2830,-2.9,27,PAIKO,Herzschuhetal22,Pollen
+2950,-1.5,27,PAIKO,Herzschuhetal22,Pollen
+3000,-1.6,27,PAIKO,Herzschuhetal22,Pollen
+3130,-1.3,27,PAIKO,Herzschuhetal22,Pollen
+-60,0,28,GYOLA,Herzschuhetal22,Pollen
+100,-0.1,28,GYOLA,Herzschuhetal22,Pollen
+300,-0.5,28,GYOLA,Herzschuhetal22,Pollen
+500,0.6,28,GYOLA,Herzschuhetal22,Pollen
+690,1,28,GYOLA,Herzschuhetal22,Pollen
+780,0.3,28,GYOLA,Herzschuhetal22,Pollen
+820,0.9,28,GYOLA,Herzschuhetal22,Pollen
+920,1.7,28,GYOLA,Herzschuhetal22,Pollen
+960,0.8,28,GYOLA,Herzschuhetal22,Pollen
+1060,0.2,28,GYOLA,Herzschuhetal22,Pollen
+1230,0.3,28,GYOLA,Herzschuhetal22,Pollen
+1320,0.6,28,GYOLA,Herzschuhetal22,Pollen
+2460,0.9,28,GYOLA,Herzschuhetal22,Pollen
+3440,1.2,28,GYOLA,Herzschuhetal22,Pollen
+4420,0.9,28,GYOLA,Herzschuhetal22,Pollen
+5710,2.4,28,GYOLA,Herzschuhetal22,Pollen
+6720,1.1,28,GYOLA,Herzschuhetal22,Pollen
+7660,3.2,28,GYOLA,Herzschuhetal22,Pollen
+8070,2.1,28,GYOLA,Herzschuhetal22,Pollen
+-50,0,29,A159,Herzschuhetal22,Pollen
+690,-0.6,29,A159,Herzschuhetal22,Pollen
+1590,-0.5,29,A159,Herzschuhetal22,Pollen
+2470,-0.1,29,A159,Herzschuhetal22,Pollen
+3280,-0.6,29,A159,Herzschuhetal22,Pollen
+4080,0.3,29,A159,Herzschuhetal22,Pollen
+5060,0,29,A159,Herzschuhetal22,Pollen
+5520,0.6,29,A159,Herzschuhetal22,Pollen
+6880,0.1,29,A159,Herzschuhetal22,Pollen
+7480,1,29,A159,Herzschuhetal22,Pollen
+7800,-0.2,29,A159,Herzschuhetal22,Pollen
+8140,0.2,29,A159,Herzschuhetal22,Pollen
+8490,-0.2,29,A159,Herzschuhetal22,Pollen
+8840,0.5,29,A159,Herzschuhetal22,Pollen
+9190,-0.1,29,A159,Herzschuhetal22,Pollen
+9540,-1,29,A159,Herzschuhetal22,Pollen
+9890,0.9,29,A159,Herzschuhetal22,Pollen
+50,0,30,AR1,Herzschuhetal22,Pollen
+100,0.3,30,AR1,Herzschuhetal22,Pollen
+380,1.3,30,AR1,Herzschuhetal22,Pollen
+500,0.5,30,AR1,Herzschuhetal22,Pollen
+690,1.3,30,AR1,Herzschuhetal22,Pollen
+880,-0.5,30,AR1,Herzschuhetal22,Pollen
+1120,1.6,30,AR1,Herzschuhetal22,Pollen
+1300,0.4,30,AR1,Herzschuhetal22,Pollen
+1450,2.1,30,AR1,Herzschuhetal22,Pollen
+1610,0.6,30,AR1,Herzschuhetal22,Pollen
+1760,0.1,30,AR1,Herzschuhetal22,Pollen
+2080,0.7,30,AR1,Herzschuhetal22,Pollen
+2380,1.4,30,AR1,Herzschuhetal22,Pollen
+2680,1,30,AR1,Herzschuhetal22,Pollen
+2980,0.1,30,AR1,Herzschuhetal22,Pollen
+3400,2.9,30,AR1,Herzschuhetal22,Pollen
+3560,1.6,30,AR1,Herzschuhetal22,Pollen
+3720,1.3,30,AR1,Herzschuhetal22,Pollen
+3880,1.6,30,AR1,Herzschuhetal22,Pollen
+4040,1.6,30,AR1,Herzschuhetal22,Pollen
+4210,2.1,30,AR1,Herzschuhetal22,Pollen
+4370,1.9,30,AR1,Herzschuhetal22,Pollen
+4540,0.4,30,AR1,Herzschuhetal22,Pollen
+4720,2.8,30,AR1,Herzschuhetal22,Pollen
+4880,2.5,30,AR1,Herzschuhetal22,Pollen
+4980,2.4,30,AR1,Herzschuhetal22,Pollen
+5070,3,30,AR1,Herzschuhetal22,Pollen
+5160,0.8,30,AR1,Herzschuhetal22,Pollen
+5260,1.7,30,AR1,Herzschuhetal22,Pollen
+5350,2.1,30,AR1,Herzschuhetal22,Pollen
+5450,2,30,AR1,Herzschuhetal22,Pollen
+5540,1.5,30,AR1,Herzschuhetal22,Pollen
+5650,0.9,30,AR1,Herzschuhetal22,Pollen
+5750,1,30,AR1,Herzschuhetal22,Pollen
+5840,1.1,30,AR1,Herzschuhetal22,Pollen
+5940,2.1,30,AR1,Herzschuhetal22,Pollen
+6030,2.3,30,AR1,Herzschuhetal22,Pollen
+6120,2.6,30,AR1,Herzschuhetal22,Pollen
+6220,0.2,30,AR1,Herzschuhetal22,Pollen
+6320,2.4,30,AR1,Herzschuhetal22,Pollen
+6390,2.4,30,AR1,Herzschuhetal22,Pollen
+6450,1.3,30,AR1,Herzschuhetal22,Pollen
+6520,2.2,30,AR1,Herzschuhetal22,Pollen
+6590,0.7,30,AR1,Herzschuhetal22,Pollen
+6700,0.7,30,AR1,Herzschuhetal22,Pollen
+6780,1.7,30,AR1,Herzschuhetal22,Pollen
+6970,0.7,30,AR1,Herzschuhetal22,Pollen
+7410,0.7,30,AR1,Herzschuhetal22,Pollen
+7600,-1.2,30,AR1,Herzschuhetal22,Pollen
+7760,-3.7,30,AR1,Herzschuhetal22,Pollen
+7910,-2.5,30,AR1,Herzschuhetal22,Pollen
+50,0,31,AR2,Herzschuhetal22,Pollen
+330,1.4,31,AR2,Herzschuhetal22,Pollen
+610,3.5,31,AR2,Herzschuhetal22,Pollen
+920,2.4,31,AR2,Herzschuhetal22,Pollen
+1370,1.5,31,AR2,Herzschuhetal22,Pollen
+1700,2.4,31,AR2,Herzschuhetal22,Pollen
+1850,7.4,31,AR2,Herzschuhetal22,Pollen
+2240,3,31,AR2,Herzschuhetal22,Pollen
+2400,1.2,31,AR2,Herzschuhetal22,Pollen
+2700,1.5,31,AR2,Herzschuhetal22,Pollen
+2900,6,31,AR2,Herzschuhetal22,Pollen
+3040,3.4,31,AR2,Herzschuhetal22,Pollen
+3230,1.7,31,AR2,Herzschuhetal22,Pollen
+3640,6.3,31,AR2,Herzschuhetal22,Pollen
+3870,2.4,31,AR2,Herzschuhetal22,Pollen
+4210,3.3,31,AR2,Herzschuhetal22,Pollen
+4460,1.4,31,AR2,Herzschuhetal22,Pollen
+4750,1.3,31,AR2,Herzschuhetal22,Pollen
+4950,1,31,AR2,Herzschuhetal22,Pollen
+5300,0.4,31,AR2,Herzschuhetal22,Pollen
+5550,1.8,31,AR2,Herzschuhetal22,Pollen
+5810,0.9,31,AR2,Herzschuhetal22,Pollen
+5880,0.4,31,AR2,Herzschuhetal22,Pollen
+5920,0.1,31,AR2,Herzschuhetal22,Pollen
+5960,0.5,31,AR2,Herzschuhetal22,Pollen
+5990,0.5,31,AR2,Herzschuhetal22,Pollen
+6030,0.3,31,AR2,Herzschuhetal22,Pollen
+6060,4.2,31,AR2,Herzschuhetal22,Pollen
+6090,-0.3,31,AR2,Herzschuhetal22,Pollen
+6130,-0.1,31,AR2,Herzschuhetal22,Pollen
+6140,0.7,31,AR2,Herzschuhetal22,Pollen
+6150,-0.7,31,AR2,Herzschuhetal22,Pollen
+6170,1.8,31,AR2,Herzschuhetal22,Pollen
+6180,1,31,AR2,Herzschuhetal22,Pollen
+6200,0.7,31,AR2,Herzschuhetal22,Pollen
+6220,1.6,31,AR2,Herzschuhetal22,Pollen
+6260,2.5,31,AR2,Herzschuhetal22,Pollen
+6280,0.6,31,AR2,Herzschuhetal22,Pollen
+6320,2.3,31,AR2,Herzschuhetal22,Pollen
+6360,1.1,31,AR2,Herzschuhetal22,Pollen
+6390,1.9,31,AR2,Herzschuhetal22,Pollen
+6420,-0.6,31,AR2,Herzschuhetal22,Pollen
+6450,-1.1,31,AR2,Herzschuhetal22,Pollen
+6490,2.3,31,AR2,Herzschuhetal22,Pollen
+6510,1.1,31,AR2,Herzschuhetal22,Pollen
+6550,1,31,AR2,Herzschuhetal22,Pollen
+6590,0.5,31,AR2,Herzschuhetal22,Pollen
+6610,0.3,31,AR2,Herzschuhetal22,Pollen
+6640,1.7,31,AR2,Herzschuhetal22,Pollen
+6680,-0.3,31,AR2,Herzschuhetal22,Pollen
+6710,1.7,31,AR2,Herzschuhetal22,Pollen
+6740,2.6,31,AR2,Herzschuhetal22,Pollen
+6770,1.4,31,AR2,Herzschuhetal22,Pollen
+6810,1.3,31,AR2,Herzschuhetal22,Pollen
+6860,0.7,31,AR2,Herzschuhetal22,Pollen
+6890,1.5,31,AR2,Herzschuhetal22,Pollen
+6930,1.2,31,AR2,Herzschuhetal22,Pollen
+6960,2.1,31,AR2,Herzschuhetal22,Pollen
+6980,0.6,31,AR2,Herzschuhetal22,Pollen
+7010,0.9,31,AR2,Herzschuhetal22,Pollen
+7050,1.2,31,AR2,Herzschuhetal22,Pollen
+7080,2.6,31,AR2,Herzschuhetal22,Pollen
+7110,2.4,31,AR2,Herzschuhetal22,Pollen
+7150,0.6,31,AR2,Herzschuhetal22,Pollen
+7210,0.6,31,AR2,Herzschuhetal22,Pollen
+7260,0.9,31,AR2,Herzschuhetal22,Pollen
+7310,1,31,AR2,Herzschuhetal22,Pollen
+7360,0.9,31,AR2,Herzschuhetal22,Pollen
+7470,-0.8,31,AR2,Herzschuhetal22,Pollen
+7560,1,31,AR2,Herzschuhetal22,Pollen
+7660,2.3,31,AR2,Herzschuhetal22,Pollen
+7750,1.2,31,AR2,Herzschuhetal22,Pollen
+7840,0.9,31,AR2,Herzschuhetal22,Pollen
+-60,-0.56,32,BLATISTO,Herzschuhetal22,Pollen
+-40,0.24,32,BLATISTO,Herzschuhetal22,Pollen
+-20,-0.16,32,BLATISTO,Herzschuhetal22,Pollen
+10,0.44,32,BLATISTO,Herzschuhetal22,Pollen
+50,0.04,32,BLATISTO,Herzschuhetal22,Pollen
+70,-0.06,32,BLATISTO,Herzschuhetal22,Pollen
+90,1.24,32,BLATISTO,Herzschuhetal22,Pollen
+120,-0.16,32,BLATISTO,Herzschuhetal22,Pollen
+140,-2.16,32,BLATISTO,Herzschuhetal22,Pollen
+180,-0.96,32,BLATISTO,Herzschuhetal22,Pollen
+210,-1.66,32,BLATISTO,Herzschuhetal22,Pollen
+230,-0.86,32,BLATISTO,Herzschuhetal22,Pollen
+270,-0.96,32,BLATISTO,Herzschuhetal22,Pollen
+280,-0.46,32,BLATISTO,Herzschuhetal22,Pollen
+300,-0.66,32,BLATISTO,Herzschuhetal22,Pollen
+320,-0.66,32,BLATISTO,Herzschuhetal22,Pollen
+340,-0.46,32,BLATISTO,Herzschuhetal22,Pollen
+360,-1.56,32,BLATISTO,Herzschuhetal22,Pollen
+380,-0.26,32,BLATISTO,Herzschuhetal22,Pollen
+390,0.54,32,BLATISTO,Herzschuhetal22,Pollen
+420,-0.06,32,BLATISTO,Herzschuhetal22,Pollen
+430,1.14,32,BLATISTO,Herzschuhetal22,Pollen
+440,0.04,32,BLATISTO,Herzschuhetal22,Pollen
+460,0.64,32,BLATISTO,Herzschuhetal22,Pollen
+470,-0.06,32,BLATISTO,Herzschuhetal22,Pollen
+470,-0.66,32,BLATISTO,Herzschuhetal22,Pollen
+480,0.04,32,BLATISTO,Herzschuhetal22,Pollen
+490,0.04,32,BLATISTO,Herzschuhetal22,Pollen
+500,-0.46,32,BLATISTO,Herzschuhetal22,Pollen
+500,-0.96,32,BLATISTO,Herzschuhetal22,Pollen
+510,0.34,32,BLATISTO,Herzschuhetal22,Pollen
+520,0.34,32,BLATISTO,Herzschuhetal22,Pollen
+530,2.24,32,BLATISTO,Herzschuhetal22,Pollen
+530,1.14,32,BLATISTO,Herzschuhetal22,Pollen
+540,-0.46,32,BLATISTO,Herzschuhetal22,Pollen
+550,1.04,32,BLATISTO,Herzschuhetal22,Pollen
+560,0.34,32,BLATISTO,Herzschuhetal22,Pollen
+560,-0.06,32,BLATISTO,Herzschuhetal22,Pollen
+570,1.94,32,BLATISTO,Herzschuhetal22,Pollen
+580,1.64,32,BLATISTO,Herzschuhetal22,Pollen
+580,0.44,32,BLATISTO,Herzschuhetal22,Pollen
+590,-0.36,32,BLATISTO,Herzschuhetal22,Pollen
+590,-0.66,32,BLATISTO,Herzschuhetal22,Pollen
+600,0.24,32,BLATISTO,Herzschuhetal22,Pollen
+610,-0.86,32,BLATISTO,Herzschuhetal22,Pollen
+620,0.44,32,BLATISTO,Herzschuhetal22,Pollen
+620,-0.36,32,BLATISTO,Herzschuhetal22,Pollen
+630,-0.36,32,BLATISTO,Herzschuhetal22,Pollen
+640,-0.16,32,BLATISTO,Herzschuhetal22,Pollen
+650,0.74,32,BLATISTO,Herzschuhetal22,Pollen
+660,0.54,32,BLATISTO,Herzschuhetal22,Pollen
+670,0.44,32,BLATISTO,Herzschuhetal22,Pollen
+680,-0.46,32,BLATISTO,Herzschuhetal22,Pollen
+690,0.14,32,BLATISTO,Herzschuhetal22,Pollen
+690,0.24,32,BLATISTO,Herzschuhetal22,Pollen
+700,0.34,32,BLATISTO,Herzschuhetal22,Pollen
+710,0.74,32,BLATISTO,Herzschuhetal22,Pollen
+720,-1.16,32,BLATISTO,Herzschuhetal22,Pollen
+730,-1.96,32,BLATISTO,Herzschuhetal22,Pollen
+740,-0.16,32,BLATISTO,Herzschuhetal22,Pollen
+750,0.14,32,BLATISTO,Herzschuhetal22,Pollen
+750,-0.46,32,BLATISTO,Herzschuhetal22,Pollen
+760,0.74,32,BLATISTO,Herzschuhetal22,Pollen
+770,-0.16,32,BLATISTO,Herzschuhetal22,Pollen
+780,-1.36,32,BLATISTO,Herzschuhetal22,Pollen
+790,-0.06,32,BLATISTO,Herzschuhetal22,Pollen
+800,-0.96,32,BLATISTO,Herzschuhetal22,Pollen
+810,-0.26,32,BLATISTO,Herzschuhetal22,Pollen
+810,0.14,32,BLATISTO,Herzschuhetal22,Pollen
+820,-1.46,32,BLATISTO,Herzschuhetal22,Pollen
+830,-0.76,32,BLATISTO,Herzschuhetal22,Pollen
+840,-1.66,32,BLATISTO,Herzschuhetal22,Pollen
+850,-2.16,32,BLATISTO,Herzschuhetal22,Pollen
+860,-0.16,32,BLATISTO,Herzschuhetal22,Pollen
+860,-0.66,32,BLATISTO,Herzschuhetal22,Pollen
+880,-2.16,32,BLATISTO,Herzschuhetal22,Pollen
+880,-0.46,32,BLATISTO,Herzschuhetal22,Pollen
+890,-0.26,32,BLATISTO,Herzschuhetal22,Pollen
+900,-2.16,32,BLATISTO,Herzschuhetal22,Pollen
+910,-0.86,32,BLATISTO,Herzschuhetal22,Pollen
+920,-1.46,32,BLATISTO,Herzschuhetal22,Pollen
+930,-1.56,32,BLATISTO,Herzschuhetal22,Pollen
+940,-1.26,32,BLATISTO,Herzschuhetal22,Pollen
+950,-4.76,32,BLATISTO,Herzschuhetal22,Pollen
+950,-2.96,32,BLATISTO,Herzschuhetal22,Pollen
+960,-1.56,32,BLATISTO,Herzschuhetal22,Pollen
+960,-1.86,32,BLATISTO,Herzschuhetal22,Pollen
+980,-2.56,32,BLATISTO,Herzschuhetal22,Pollen
+980,-1.86,32,BLATISTO,Herzschuhetal22,Pollen
+990,-1.86,32,BLATISTO,Herzschuhetal22,Pollen
+1000,-0.76,32,BLATISTO,Herzschuhetal22,Pollen
+1010,-0.36,32,BLATISTO,Herzschuhetal22,Pollen
+1020,-1.16,32,BLATISTO,Herzschuhetal22,Pollen
+1030,-1.96,32,BLATISTO,Herzschuhetal22,Pollen
+1040,-0.96,32,BLATISTO,Herzschuhetal22,Pollen
+1040,-1.06,32,BLATISTO,Herzschuhetal22,Pollen
+1050,-2.16,32,BLATISTO,Herzschuhetal22,Pollen
+1060,-2.36,32,BLATISTO,Herzschuhetal22,Pollen
+1070,-0.06,32,BLATISTO,Herzschuhetal22,Pollen
+1080,-1.06,32,BLATISTO,Herzschuhetal22,Pollen
+1090,-1.26,32,BLATISTO,Herzschuhetal22,Pollen
+1090,-1.26,32,BLATISTO,Herzschuhetal22,Pollen
+1110,-1.46,32,BLATISTO,Herzschuhetal22,Pollen
+1110,-1.56,32,BLATISTO,Herzschuhetal22,Pollen
+1120,-1.16,32,BLATISTO,Herzschuhetal22,Pollen
+1130,-1.66,32,BLATISTO,Herzschuhetal22,Pollen
+1140,-1.46,32,BLATISTO,Herzschuhetal22,Pollen
+1150,-1.26,32,BLATISTO,Herzschuhetal22,Pollen
+1160,-0.96,32,BLATISTO,Herzschuhetal22,Pollen
+1170,-0.16,32,BLATISTO,Herzschuhetal22,Pollen
+1170,0.84,32,BLATISTO,Herzschuhetal22,Pollen
+1180,-0.66,32,BLATISTO,Herzschuhetal22,Pollen
+1190,-0.06,32,BLATISTO,Herzschuhetal22,Pollen
+1200,0.04,32,BLATISTO,Herzschuhetal22,Pollen
+1210,-0.46,32,BLATISTO,Herzschuhetal22,Pollen
+1220,0.34,32,BLATISTO,Herzschuhetal22,Pollen
+1220,-0.56,32,BLATISTO,Herzschuhetal22,Pollen
+1240,-1.16,32,BLATISTO,Herzschuhetal22,Pollen
+1240,-0.46,32,BLATISTO,Herzschuhetal22,Pollen
+1250,-1.36,32,BLATISTO,Herzschuhetal22,Pollen
+1260,-1.56,32,BLATISTO,Herzschuhetal22,Pollen
+1270,-1.86,32,BLATISTO,Herzschuhetal22,Pollen
+1280,-1.56,32,BLATISTO,Herzschuhetal22,Pollen
+1290,-1.36,32,BLATISTO,Herzschuhetal22,Pollen
+1310,-0.56,32,BLATISTO,Herzschuhetal22,Pollen
+1310,-1.26,32,BLATISTO,Herzschuhetal22,Pollen
+1320,-0.06,32,BLATISTO,Herzschuhetal22,Pollen
+1330,-0.56,32,BLATISTO,Herzschuhetal22,Pollen
+1340,-0.66,32,BLATISTO,Herzschuhetal22,Pollen
+1350,-1.46,32,BLATISTO,Herzschuhetal22,Pollen
+1360,-0.36,32,BLATISTO,Herzschuhetal22,Pollen
+1370,-1.06,32,BLATISTO,Herzschuhetal22,Pollen
+1390,-1.46,32,BLATISTO,Herzschuhetal22,Pollen
+1400,-0.76,32,BLATISTO,Herzschuhetal22,Pollen
+1410,0.24,32,BLATISTO,Herzschuhetal22,Pollen
+1420,-0.56,32,BLATISTO,Herzschuhetal22,Pollen
+1440,-0.26,32,BLATISTO,Herzschuhetal22,Pollen
+1440,-0.36,32,BLATISTO,Herzschuhetal22,Pollen
+1460,-0.16,32,BLATISTO,Herzschuhetal22,Pollen
+1470,0.24,32,BLATISTO,Herzschuhetal22,Pollen
+1490,-1.46,32,BLATISTO,Herzschuhetal22,Pollen
+1500,0.34,32,BLATISTO,Herzschuhetal22,Pollen
+-60,-0.45,33,BELIYA2C,Herzschuhetal22,Pollen
+40,0.45,33,BELIYA2C,Herzschuhetal22,Pollen
+160,-1.25,33,BELIYA2C,Herzschuhetal22,Pollen
+280,-0.75,33,BELIYA2C,Herzschuhetal22,Pollen
+390,-0.35,33,BELIYA2C,Herzschuhetal22,Pollen
+540,0.05,33,BELIYA2C,Herzschuhetal22,Pollen
+720,-0.85,33,BELIYA2C,Herzschuhetal22,Pollen
+910,-1.15,33,BELIYA2C,Herzschuhetal22,Pollen
+1110,-1.25,33,BELIYA2C,Herzschuhetal22,Pollen
+1440,-1.55,33,BELIYA2C,Herzschuhetal22,Pollen
+3830,-2.25,33,BELIYA2C,Herzschuhetal22,Pollen
+7320,-0.85,33,BELIYA2C,Herzschuhetal22,Pollen
+7680,-0.85,33,BELIYA2C,Herzschuhetal22,Pollen
+8230,-0.15,33,BELIYA2C,Herzschuhetal22,Pollen
+8710,1.65,33,BELIYA2C,Herzschuhetal22,Pollen
+9270,0.85,33,BELIYA2C,Herzschuhetal22,Pollen
+9910,0.85,33,BELIYA2C,Herzschuhetal22,Pollen
